@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Hitopadeśa</title>, ed. Kale 1967</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Sri Ramakrishna Ashrama Library, Srinagar</orgName>
+                  </repository>
+                  <idno type="shelfmark">45 / Phil</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/HitopadesaOfNarayanaM.R.Kale</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>This is a 1976 reprint of the 1967 sixth edition of the <title xml:lang="sa">Hitopadeśa</title>, as edited by M. R. Kale. As noted in the preface, it is nearly identical to the fifth edition, save for some updated page references.</p>
+<p>This copy of the text, from Sri Ramakrishna Ashrama Library in Srinagar, was acquired by the library in 1977. The digital facsimile was uploaded to archive.org in 2017.</p></summary>
+                  
+               <msItem xml:id="HpK"><title xml:lang="sa"><term xml:lang="en">parallel to</term> Vahnipurāṇa 65.18</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="296"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1976"/>
+                     <origPlace>Delhi</origPlace>
+                  </origin><acquisition><p>Acquired on 14 August 1977, according to the library stamp.</p></acquisition></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Kale, Moreshwar Ramchandra, ed. (1967) 1976. <title>The Hitopadeśa of Nārāyaṇa, sixth edition.</title> Reprint, Delhi: Motilal Banarsidass.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration. Spaces added where possible.</p></encodingDesc>
+      
+   <revisionDesc/><xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/HitopadesaOfNarayanaM.R.Kale$23/canvas",{"id":"https://iiif.archivelab.org/iiif/HitopadesaOfNarayanaM.R.Kale$23/canvas","items":[{"body":{"type":"TextualBody","value":"<p>HpK</p>"},"id":"bf9f7055-8d0a-4706-94b4-4110dfa7dbb7","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/HitopadesaOfNarayanaM.R.Kale$23/canvas","selector":[{"type":"FragmentSelector","value":"xywh=381,2110,1819,244"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M381.09523,2354.52413v-244.49528h1819.21062v244.49528z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/HitopadesaOfNarayanaM.R.Kale/manifest.json" facs="24"/></facsimile>
+<text corresp="#HpK" xml:lang="sa"><body>
+  <p><milestone n="14" unit="page" facs="24:1"/><lb n="15"/>api ca |</p>
+  <lg corresp="VP65.18">
+    <l>martavyam iti yad duḥkhaṃ puruṣasyopajāyate |</l>
+    <l><lb n="16"/><app><lem>śakyate nānumānena pareṇa parivarṇitum</lem>
+        <rdg wit="#HpK-i">yuktas tenānumānena paro pi parirakṣitum</rdg></app> || 69 ||</l>
+  </lg>
+</body></text></TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Smṛticandrikā — Saṃskārakāṇḍa</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Robarts Library, University of Toronto</orgName>
+                  </repository>
+                  <idno type="shelfmark">BL1215.R5 D4 1914</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/smrticandrika01devauoft</idno><idno type="URI">https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106624847906196</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>This text of the <title xml:lang="sa">Saṃskārakāṇḍa</title> of the <title xml:lang="sa">Smṛticandrikā</title>, a 12<hi rend="superscript">th</hi> century <term xml:lang="sa">dharmanibandha</term>, was edited in 1914 by L. Srinivasacharya on the basis of three manuscripts. According to a <locus facs="6">library stamp</locus>, this copy was acquired by the University of Toronto in 1967. The digital facsimile was uploaded to the Internet Archive in 2009.</p></summary>
+                  
+               <msItem xml:id="MbhSm"><title xml:lang="sa"><term xml:lang="en">quotation attributed to</term> Vyāsa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper">
+                        <extent>
+                           <measure unit="page" quantity="250"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1914"/>
+                  <origPlace>Mysore</origPlace></origin>
+                 <acquisition><p>Acquired bu the library in 1967.</p></acquisition>
+               </history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Srinivasacharya, L, ed. 1914. <title>Smriticandrika by Devana-Bhatta: I. Samskara kanda.</title> Mysore: Government Branch Press.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration. Spaces added where possible.</p></encodingDesc>
+      
+   <xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/smrticandrika01devauoft$29/canvas",{"id":"https://iiif.archivelab.org/iiif/smrticandrika01devauoft$29/canvas","items":[{"body":{"type":"TextualBody","value":"<p>MbhSm</p>"},"id":"af7876a6-99c7-4e74-9ee7-78d86ecf4df1","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/smrticandrika01devauoft$29/canvas","selector":[{"type":"FragmentSelector","value":"xywh=131,804,1569,1088"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M131.3049,1892.17314v-1088.13851h1569.36149v1088.13851z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData><revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/smrticandrika01devauoft/manifest.json" facs="30"/></facsimile>
+<text corresp="#MbhSm" xml:lang="sa"><body>
+  <p><milestone n="17" facs="30:1" unit="page"/><lb n="5"/>śrutir api —</p>
+  <lg>
+    <l><lb n="6"/>yad vai kiṃ ca manur avadat tad bheṣajam |</l>
+  </lg>
+  <p><lb n="7"/>iti | yatra punar dharmadvayavirodhas tatra <app><lem>laghīyasa eva</lem><rdg wit="#kha">laghudharmasyaiva</rdg></app> bādha <lb n="8"/>ity āha vyāsaḥ —</p>
+  <lg corresp="VP65.25">
+    <l><lb n="9"/>dharmaṃ yo bādhate dharmo na sa dharmaḥ kathaṃ cana |</l>
+    <l><lb n="10"/>avirodhī tu yo dharmaḥ sa dharmas siddhir ucyate ||</l>
+  </lg>
+  <lg corresp="VP65.26">
+    <l><lb n="11"/>tasmād virodhe dharmasya niścitya gurulāghavam |</l>
+    <l><lb n="12"/>yato bhūyas tato vidvān_ kuryād dharmavinirṇayam ||</l>
+  </lg>
+  <p><lb n="13"/>iti | iti smṛticandrikāyāṃ śrutyādibalābalanirṇayaḥ.</p>
+</body></text></TEI>

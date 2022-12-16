@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Vācaspatya</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Robarts Library, University of Toronto</orgName>
+                  </repository>
+                  <idno type="shelfmark">PK925.T37</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/vacaspatyam01tarkuoft</idno><idno type="URI">https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106732375506196</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>The <title xml:lang="sa">Vācaspatya</title> is a Sanskrit lexicon by <persName xml:lang="sa">Tārānātha Tarkavācaspati</persName>. This is volume 6,  reprinted in 1962. According to a <locus facs="8">library stamp</locus>, it was acquired by the University of Toronto in 1964. The digital facsimile was uploaded to the Internet Archive in 2007.</p></summary>
+                  
+               <msItem xml:id="VpV"><title xml:lang="sa"><term xml:lang="en">quotation from the</term> Vahnipurāṇa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="1050"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" when="1962"/>
+                     <origPlace>Varanasi</origPlace></origin>
+                 <acquisition><p>Acquired by the library in 1964.</p></acquisition>
+               </history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Tarkavachaspati, Taranatha. 1962. <title>Vachaspatyam, Vol. VI.</title> Varanasi: Chowkhamba Sanskrit Series.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/vacaspatyam06tarkuoft$885/canvas",{"id":"https://iiif.archivelab.org/iiif/vacaspatyam06tarkuoft$885/canvas","items":[{"body":{"type":"TextualBody","value":"<p>VpV</p>"},"id":"eb509267-e2eb-45f0-be13-03927ac976df","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/vacaspatyam06tarkuoft$885/canvas","selector":[{"type":"FragmentSelector","value":"xywh=151,1375,851,633"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M151.30748,2009.4964v-633.86824h851.02681v633.86824z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData><revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/vacaspatyam06tarkuoft/manifest.json" facs="886"/></facsimile>
+<text corresp="#VpV" xml:lang="sa"><body>
+        <lg corresp="VP65.56">
+          <l><milestone n="5279" unit="page" facs="886:1"/><cb n="1"/><lb n="17"/><gap reason="ellipsis"/> “tyaktātmasukhabhogecchaḥ sarvasa<lb n="18"/>tvasukhaiṣiṇaḥ |</l>
+          <l>bhavanti paraduḥkhena sādhavo nityaduḥkhitāḥ |</l>
+        </lg>
+        <lg corresp="VP65.60">
+            <l><lb n="19"/>paraduḥkhāturā nityaṃ svasukhāni mahānty api |</l>
+            <l>nāpekṣante <lb n="20"/>mahātmanaḥ sarvabhūtahite ratāḥ |</l>
+        </lg>
+        <lg corresp="VP65.61">
+            <l>parārtham udyatāḥ santaḥ <lb n="21"/>santaḥ kiṃ kiṃ na kurvate |</l>
+            <l>tādṛg apy ambudher vāri jaladais tat <lb n="22"/>pradīyate |</l>
+        </lg>
+        <lg corresp="VP65.62">
+            <l>eka eva satāṃ mārgo yad aṅgīkṛtapālanam |</l>
+            <l><lb n="23"/>dahantam akarot_ kraḍe pāvakaṃ yad apāṃpatiḥ |</l>
+        </lg>
+        <lg corresp="VP65.63">
+            <l>ātmānaṃ <lb n="24"/>pīḍayitvāpi sādhuḥ sukhayate param |</l>
+            <l>hlādayann āśritān <lb n="25"/>vṛkṣo duḥkhañ ca sahate svayam”</l>
+        </lg>
+        <p>vahnipu॰ |</p>
+    </body></text></TEI>

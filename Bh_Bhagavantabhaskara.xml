@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Bhagavantabhāskara — Dānamayūkha</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Robarts Library, University of Toronto</orgName>
+                  </repository>
+                  <idno type="shelfmark">GT3050.N5 1900</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/danamayukhanilakanthabhatta_202003_545_e</idno><idno type="URI">https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991106750630706196</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>The <title xml:lang="sa">Dānamayūkha</title> is one of 12 <term xml:lang="sa">mayūkha</term>s of the <title xml:lang="sa">Bhagavantabhāskara</title>, a legal digest by <persName xml:lang="sa">Nīlakaṇṭha Bhaṭṭa</persName>, who was active in the first half of the 17<hi rend="superscript">th</hi> century (Banerji 1999, 66).</p>
+<p>Although this book is missing the title page, a comparison with <ref target="https://archive.org/details/in.ernet.dli.2015.405647">another copy</ref> shows that it is the edition published by the Vidyā Vilās Press in 1909. There is also an edition published in Bombay, which was reprinted in 1986; there are no variant readings for this passage therein (ed. <persName xml:lang="sa">Vyaṃkateśa Śāstrī</persName> 1986, 287).</p>
+</summary>
+               <msItem xml:id="MbhBh"><title xml:lang="sa"><term xml:lang="en">quotation from the</term> Mahābhārata</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper">
+                        <extent>
+                           <measure unit="page" quantity="278"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1909"/>
+                     
+                  <origPlace>Benares</origPlace></origin><acquisition><p>Acquired by the University of Toronto in 1967.</p></acquisition></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Banerji, S. C. 1999. <title>A Brief History of Dharmaśāstra.</title> Delhi: Abhinav Publications.</bibl><bibl><persName xml:lang="sa">Ratna Gopāla Bhaṭṭa</persName>, ed. 1909. <title xml:lang="sa">Dānamayūkhaḥ</title>. Benares: Vidyā Vilāsa Press.</bibl><bibl><persName xml:lang="sa">Vyaṃkateśa Śāstrī, Lele</persName>, ed. 1986. <title>Bhagavantabhāskara of Srī Nīlakanṭha Bhaṭṭa (A treatise on Theology compiled in twelve Mayukhas), Volume II.</title> Delhi: Chaukhamba Sanskrit Pratishthan.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/><xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/danamayukhanilakanthabhatta_202003_545_e$261/canvas",{"id":"https://iiif.archivelab.org/iiif/danamayukhanilakanthabhatta_202003_545_e$261/canvas","items":[{"body":{"type":"TextualBody","value":"<p>MbhBh</p>"},"id":"48f162a3-35a6-4382-9071-794e92eb957c","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/danamayukhanilakanthabhatta_202003_545_e$261/canvas","selector":[{"type":"FragmentSelector","value":"xywh=536,1768,2296,782"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M536.9909,2550.18559v-782.03923h2296.39264v782.03923z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/danamayukhanilakanthabhatta_202003_545_e/manifest.json" facs="262"/></facsimile>
+<text corresp="#MbhBh" xml:lang="sa"><body>
+        <p><pb n="250" unit="page" facs="262:1"/><lb n="10"/>athā'bhayadānam || saṃvarttaḥ |</p>
+        <lg>
+          <l>bhūtā'bhayapradānena sarvān_ kāmān a<lb n="11"/>'vāpnuyāt |</l>
+          <l>dīrgham āyuś ca labhate sadā ca sukhito bhavet ||</l>
+        </lg>
+  <p>rāmā<lb n="12"/>yaṇe,</p>
+        <lg>
+            <l>baddhāñjalipuṭaṃ dīnaṃ yācantam aparādhinam |</l>
+            <l>na hanyāc charaṇaṃ <lb n="13"/>prāptaṃ satāṃ dharmam anusmaran ||</l>
+        </lg>
+  <p>mahābhārate,</p>
+   <lg corresp="VP65.13">
+            <l>lobhād dveṣād bhayād vāpi yas tyaje<lb n="14"/>c charaṇāgatam |</l>
+            <l>brahmahatyāsamaṃ tasya pāpam āhur manīṣiṇaḥ ||</l>
+        </lg>
+</body></text></TEI>

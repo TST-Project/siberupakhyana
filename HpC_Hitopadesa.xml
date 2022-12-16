@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Hitopadeśa</title>, Church Mission Press, 1847</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Universitätsbibliothek Tübingen</orgName>
+                  </repository>
+                  <idno type="shelfmark">Ci XII 800-4</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">http://doi.org/10.20345/digitue.12622</idno><idno type="URI">https://archive.org/details/dli.CiXII800-4</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>This Malayālam-script edition of the <title xml:lang="sa">Hitopadeśa</title>, Book I, was published in <placeName xml:lang="sa">Koṭṭayam</placeName> in 1847, by the Church Mission Press. On the cover, it is described as having been edited by a group of <term xml:lang="sa">paṇḍit</term>s from England and Bengal: <q xml:lang="sa">iglaṇḍīyavaṅgīyakatipayapaṇḍitaiḥ śodhitaḥ</q>.</p>
+<p>This copy, from the University of Tübingen, is part of the Hermann Gundert collection.</p></summary>
+                  
+               <msItem xml:id="HpC"><title xml:lang="sa"><term xml:lang="en">parallel to</term> Vahnipurāṇa 65.18</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="77"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="malayalam" scriptRef="#dotReph" medium="ink black"/></typeDesc><additions>
+                  </additions></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1847"/>
+                     <origPlace>Koṭṭayam</origPlace>      
+                  </origin>
+               </history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl><title xml:lang="sa">Hitopadeśaḥ</title>. 1847. <placeName xml:lang="sa">Koṭṭayam</placeName>: Church Mission Press.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration. Spaces added where possible.</p></encodingDesc>
+      
+   <revisionDesc/><xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/dli.CiXII800-4$16/canvas",{"id":"https://iiif.archivelab.org/iiif/dli.CiXII800-4$16/canvas","items":[{"body":{"type":"TextualBody","value":"<p>HpC</p>"},"id":"e50a3bd7-c82a-429c-8f42-d726f1e8c390","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/dli.CiXII800-4$16/canvas","selector":[{"type":"FragmentSelector","value":"xywh=377,2355,2120,197"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M377.76723,2552.60126v-197.07207h2120.87087v197.07207z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/dli.CiXII800-4/manifest.json" facs="17"/></facsimile>
+<text corresp="#HpC" xml:lang="sa"><body>
+  <p><milestone n="11" unit="page" facs="17:1"/><lb n="19"/>api ca |</p>
+  <lg corresp="VP65.18">
+    <l>marttavyam iti yat_ duḥkhaṃ puruṣasyopajāyate |</l>
+    <l><lb n="20"/>śakyate nānumānena pareṇa parimāṇituṃ ||</l>
+  </lg>
+</body></text></TEI>

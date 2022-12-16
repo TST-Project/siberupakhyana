@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Dānasāgara</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>University of Chicago Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">PK4031.B2D2 1956</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/danasagaraballalasenaed.bhabatoshbhattacharyaasiaticsociety1956ms_202003_484_i</idno><idno type="URI">https://catalog.lib.uchicago.edu/vufind/Record/3681361</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>The <title xml:lang="sa">Dānasāgara</title> is a 12<hi rend="superscript">th</hi> century <term xml:lang="sa">dharmanibandha</term> attributed to <persName xml:lang="sa">Ballālasena</persName>. It was edited in 1956 by Bhabatosh Bhattacarya on the basis of three manuscripts:
+  <list>
+    <item>A, from the Asiatic Society of Calcutta,</item>
+    <item>B, from Benoy Krishna Deva Bahadur, and</item>
+    <item>I.O., from the Indian Office in London.</item>
+  </list>
+</p></summary>
+                  
+               <msItem xml:id="MbhD"><title xml:lang="sa"><term xml:lang="en">quotation from the</term> Mahābhārata</title><textLang mainLang="san"/></msItem><msItem xml:id="NpD"><title xml:lang="sa"><term xml:lang="en">quotation from the</term> Nandipurāṇa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper">
+                        <extent>
+                           <measure unit="page" quantity="824"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1956"/>
+                     <origPlace>Calcutta</origPlace> 
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Bhattacarya, Bhabatosh, ed. 1956. <title>Dānasāgara of Ballāla Sena</title>. Calcutta: Asiatic Society.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/danasagaraballalasenaed.bhabatoshbhattacharyaasiaticsociety1956ms_202003_484_i$316/canvas",{"id":"https://iiif.archivelab.org/iiif/danasagaraballalasenaed.bhabatoshbhattacharyaasiaticsociety1956ms_202003_484_i$316/canvas","items":[{"body":{"type":"TextualBody","value":"<p>MbhD</p>"},"id":"9ae394ef-18e3-4af3-9ea8-ff3db2b399a4","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/danasagaraballalasenaed.bhabatoshbhattacharyaasiaticsociety1956ms_202003_484_i$316/canvas","selector":[{"type":"FragmentSelector","value":"xywh=248,777,426,255"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M248.31818,1032.68182v-255.45455h426.36364v255.45455z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"},{"body":{"type":"TextualBody","value":"<p>NpD</p>"},"id":"01c6b021-8c10-428c-8db3-04166678f599","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/danasagaraballalasenaed.bhabatoshbhattacharyaasiaticsociety1956ms_202003_484_i$316/canvas","selector":[{"type":"FragmentSelector","value":"xywh=1022,356,457,190"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1022.23731,546.13017v-190h457.27273v190z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData><revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/danasagaraballalasenaed.bhabatoshbhattacharyaasiaticsociety1956ms_202003_484_i/manifest.json" facs="317"/></facsimile>
+<text corresp="#MbhD" xml:lang="sa"><body>
+  
+        <p><milestone n="562" unit="page" facs="317:1"/><pb n="14"/>mahābhārate :—</p>
+        <lg corresp="VP65.13">
+            <l><lb n="15"/><app><lem>lobhād dveṣād</lem><rdg wit="#MbhD-A">lobhān mohād</rdg><rdg wit="#MbhD-IO">lobhād deṣād</rdg></app> bhayād vāpi yas tyajec charaṇāgatam |</l>
+            <l><lb n="16"/>brahmahatyāsamaṃ tasya pāpam āhur manīṣiṇaḥ || 6 ||</l>
+        </lg>
+        <lg corresp="VP65.48">
+            <l><lb n="17"/>prāṇinaṃ vadhyamānaṃ hi yaḥ śaktaḥ <app><lem>samupekṣate</lem><rdg wit="#MbhD-A">samupekṣyate</rdg></app> |</l>
+            <l><lb n="18"/>sa yāti narakaṃ ghoram idam āhur manīṣiṇaḥ || 7 ||</l>
+        </lg>
+        <lg corresp="VP65.34">
+            <l><lb n="19"/>catuḥsāgaraparyantāṃ yo dadyāt_ pṛthivīm imām |</l>
+            <l><lb n="20"/>sattvebhyo hy abhayaṃ <app><lem>datte</lem><rdg wit="#MbhD-A">dattvā</rdg></app> <app><lem>tayor abhayado 'dhikaḥ</lem><rdg wit="#MbhD-A">dharābhayaprado dhikaḥ</rdg></app> || 8 ||</l>
+        </lg>
+</body></text><text corresp="#NpD" xml:lang="sa"><body>
+        <p><milestone n="563" unit="page" facs="317:2"/><lb n="6"/>nandipurāṇe :―</p>
+        <lg>
+          <l><lb n="7"/><app><lem>mahatāṃ sūkṣmadehānāṃ</lem><rdg wit="#NpD-A">mahatā sūkṣmavedānāṃ</rdg></app> tathā ca vyādhitātmanām |</l>
+          <l><lb n="8"/>[<app><lem>hiṃsrāṇāṃ saumyamūrttīṇāṃ</lem><rdg wit="#NpD-A">viśvāso sya muhūrttānāṃ</rdg></app>] sarvadhā hy abhavat_ phalam || 11 ||</l>
+        </lg>
+        <lg corresp="VP65.29">
+            <l><lb n="9"/>varam ekasya sattvasya jīvitābhayadakṣiṇā |</l>
+            <l><lb n="10"/>na tu viprasahasrasya <app><lem>gosahasraṃ sadakṣiṇam</lem><rdg wit="#NpD-A">rakṣāṃ mānuṣyadehinaḥ</rdg></app> ||</l>
+        </lg>
+</body></text></TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Vidhānapārijāta</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Asiatic Society, Calcutta</orgName>
+                  </repository>
+                  <idno type="shelfmark">D1194</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/in.ernet.dli.2015.345111</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>The <title xml:lang="sa">Vidhānaparijāta</title> is a 17<hi rend="superscript">th</hi> century <term xml:lang="sa">dharmanibandha</term> by <persName xml:lang="sa">Anantabhaṭṭa</persName>. This third volume was published as part of the Bibliotheca Indica series by the Asiatic Society in 1951. It was digitized by the Digital Library of India in 2015.</p></summary>
+                  
+               <msItem xml:id="MbhVp" defective="false"><title xml:lang="sa"><term xml:lang="en">quotation from the</term> Mahābhārata</title><textLang mainLang="san"/></msItem><msItem xml:id="VpVp" defective="false"><title xml:lang="sa"><term xml:lang="en">quotation from the</term> Vahnipurāṇa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        <extent>
+                           <measure unit="page" quantity="544"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1951"/>
+                     <origPlace>Calcutta</origPlace>
+                  </origin>
+                </history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Śāstri, Iswar Chandra, ed. 1951. <title>The Vidhāna-Pārijāta, Vol. III.</title> Calcutta: Asiatic Society.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transcription. An underscore represents an explicit virāma. Spaces added where possible.</p></encodingDesc>
+      
+   <xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/in.ernet.dli.2015.345111$433/canvas",{"id":"https://iiif.archivelab.org/iiif/in.ernet.dli.2015.345111$433/canvas","items":[{"body":{"type":"TextualBody","value":"<p>MbhVp</p>"},"id":"8c3bf6a8-0b29-4b83-89fa-0c97ac0e53bf","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/in.ernet.dli.2015.345111$433/canvas","selector":[{"type":"FragmentSelector","value":"xywh=980,1936,1083,1034"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M980.04465,2971.72896v-1034.83953h1083.48583v1034.83953z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"},{"body":{"type":"TextualBody","value":"<p>VpVp</p>"},"id":"1c1c3051-3609-4d39-94b8-6866332b9946","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/in.ernet.dli.2015.345111$433/canvas","selector":[{"type":"FragmentSelector","value":"xywh=947,2977,1151,1427"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M947.97114,4404.6136v-1427.54786h1151.59065v1427.54786z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData><revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/in.ernet.dli.2015.345111/manifest.json" facs="434"/></facsimile>
+<text corresp="#MbhVp" xml:lang="sa"><body>
+      <p><milestone n="423" facs="434:1" unit="page"/><lb n="8"/><term xml:lang="en">519.</term> mahābhārate―</p>
+        <lg corresp="VP65.13">
+          <l><lb n="9"/>lobhā <unclear>dve</unclear>ṣād bhayād vāpi yas tyajeś charaṇāgatam |</l>
+            <l><lb n="10"/>brahmahatyā-saman tasya pāpam āhur manīṣiṇaḥ ||</l>
+        </lg>
+        <lg corresp="VP65.14">
+            <l><lb n="11"/>śāstreṣu niṣkṛtir dṛṣṭā mahāpātakinām api |</l>
+            <l><lb n="12"/>śaraṇāgata-hantṝṇāṃ na dṛṣṭā niṣkṛtiḥ kvacit ||</l>
+        </lg>
+        <p><lb n="13"/>tathā ca —</p>
+        <lg corresp="VP65.48">
+            <l><lb n="14"/>prāṇinaṃ badhyamānaṃ hi yaḥ śaktaḥ samupekṣate |</l>
+            <l><lb n="15"/>sa yāti narakaṃ ghoraṃ yāvad indrāś caturddaśa ||</l>
+        </lg>
+    </body></text><text corresp="#VpVp" xml:lang="sa"><body>
+  <p><milestone n="423" facs="434:2" unit="page"/><lb n="16"/><term xml:lang="en">520.</term> vahni purāṇe―</p>
+        <lg corresp="VP65.27">
+            <l><lb n="17"/>ekataḥ kratavaḥ sarve samagrā varadakṣiṇāḥ |</l>
+            <l><lb n="18"/>bhītasya prāṇinaś caiva rakṣaṇaṃ varam ekataḥ ||</l>
+        </lg>
+        <lg corresp="VP65.29">
+            <l><lb n="19"/>varam ekasya satvasya pradattaṃ jīvitā-bhayam |</l>
+            <l><lb n="20"/>na ca viprasahasrāṇāṃ hemādibhir alaṅkatam ||</l>
+        </lg>
+        <lg corresp="VP65.30">
+            <l><lb n="21"/>hema-dhenu-dharā-dātā sulabho jagatī tale |</l>
+            <l><lb n="22"/>durlabhaḥ puruṣo loke sarvvabhūtābhayapradaḥ ||</l>
+        </lg>
+        <lg corresp="VP65.32">
+            <l><lb n="23"/>abhayaṃ sarvvasattvebhyo yo dadāti dayāparaḥ |</l>
+            <l><lb n="24"/>tasya dehād vimuktasya kṣayo nāsti kutaścana ||</l>
+        </lg>
+        <lg corresp="VP65.33">
+            <l><lb n="25"/>iṣṭaṃ tapo japo dānaṃ arthasebā śrutan tathā |</l>
+            <l><lb n="26"/>sarvvasyābhayadānasya kalāṃ nārhanti ṣoḍaśīm ||</l>
+        </lg>
+    </body></text></TEI>

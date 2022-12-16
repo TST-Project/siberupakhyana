@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Nāradapurāṇa</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Asiatic Society, Calcutta</orgName>
+                  </repository>
+                  <idno type="shelfmark">5315</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/in.ernet.dli.2015.344823</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>This is the editio princeps of the <title xml:lang="sa">Nāradapurāṇa</title> or <title xml:lang="sa">Nāradīyamahāpurāṇa</title>, published in Bombay in 1867. It was digitized by the Digital Library of India in 2015. See also an <ref target="https://archive.org/details/brihad-naradiya-puranam-sanskrit-hindi-by-tarinish-jha/page/n115/mode/1up">edition from 1989</ref> with Hindi commentary.</p></summary>
+               <msItem xml:id="Nmp"><title xml:lang="sa">Nāradapurāṇa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="pothi" rend="lithography">
+                     <supportDesc material="paper">
+                        <extent>
+                           <measure unit="folio" quantity="354"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1867"/>
+                     <origPlace>Bombay</origPlace>      
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl><persName xml:lang="sa">Kṛṣṇadāsa, Khemarāja</persName>, ed. 1867. <title xml:lang="sa">Nāradīyamahāpurāṇam.</title> Bombay: Venkateswar Steam Press.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transcription.</p></encodingDesc>
+      
+   <revisionDesc/><xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/in.ernet.dli.2015.344823$68/canvas",{"id":"https://iiif.archivelab.org/iiif/in.ernet.dli.2015.344823$68/canvas","items":[{"body":{"type":"TextualBody","value":"<p>Nmp</p>"},"id":"d8efed71-1660-4d20-b548-b55eae7fc847","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/in.ernet.dli.2015.344823$68/canvas","selector":[{"type":"FragmentSelector","value":"xywh=1319,1599,6392,529"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1319.14762,2129.45641v-529.55914h6392.53539v529.55914z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/in.ernet.dli.2015.344823/manifest.json" facs="69"/></facsimile>
+<text corresp="#Nmp" xml:lang="sa"><body>
+        <lg>
+            <l><milestone n="24v" facs="69:1" unit="folio"/><lb n="7"/><gap reason="ellipsis"/> tasya puṇyaphalaṃ rājañ śṛṇu vakṣyāmi tattvataḥ ||</l>
+        </lg>
+        <lg corresp="VP65.27">
+            <l>ekataḥ kratavaḥ sarve samagravaradakṣiṇāḥ || 88 ||</l>
+            <l>ekato bhayabhītasya prāṇinaḥ prāṇarakṣaṇam ||</l>
+        </lg>
+        <lg corresp="VP65.3">
+            <l><lb n="8"/>saṃrakṣati mahīpāla yo vipraṃ bhayavihvalam || 89 ||</l>
+        </lg>
+    </body></text></TEI>

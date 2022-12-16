@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Hitopadeśa</title>, ed. Johnson 1840</title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bodleian Library, University of Oxford</orgName>
+                  </repository>
+                  <idno type="shelfmark">Sansk. 3.64</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://solo.bodleian.ox.ac.uk/permalink/f/n28kah/oxfaleph014419948</idno><idno type="URI">http://books.google.com/books?id=76EIAAAAQAAJ</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>This editon and translation of the <title xml:lang="sa">Hitopadeśa</title>, Book I, was published by Francis Johnson in 1840, for the use of students at the East-India College in Hertfordshire. It includes a Sanskrit-English glossary at the end.</p>
+<p>This copy, from the Bodleian Library in Oxford, was digitized by Google Books in 2007.</p></summary>
+                  
+               <msItem xml:id="HpJ"><title xml:lang="sa"><term xml:lang="en">parallel to</term> Vahnipurāṇa 65.18</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="177">7 unnumbered, i-iii, 3 unnumbered, 1-153, 9 unnumbered. In the digital facsimile, pp. 46-47 are repeated.</measure>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1840"/>
+                     <origPlace>London</origPlace>
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Johnson, Francis, ed. 1840. <title>Hitopadeśa. The Sanskrit text with a grammatical analysis, alphabetically arranged.</title> London: James Madden &amp; Co.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration. Spaces added where possible.</p></encodingDesc>
+      
+   <revisionDesc/><xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/hitopadeasanskt00hitogoog$32/canvas",{"id":"https://iiif.archivelab.org/iiif/hitopadeasanskt00hitogoog$32/canvas","items":[{"body":{"type":"TextualBody","value":"<p>HpJ</p>"},"id":"a2b800f0-7f1d-404c-83c1-2b4d922a90c2","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/hitopadeasanskt00hitogoog$32/canvas","selector":[{"type":"FragmentSelector","value":"xywh=799,1870,2777,346"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M799.13754,2216.61867v-346.49775h2777.95608v346.49775z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/hitopadeasanskt00hitogoog/manifest.json" facs="33"/></facsimile>
+<text corresp="#HpJ" xml:lang="sa"><body>
+  <p><milestone n="19" unit="page" facs="33:1"/><lb n="5"/>api ca |</p>
+  <lg corresp="VP65.18">
+    <l>marttavyam iti yad_ duḥkhaṃ puruṣasyopajāyate |</l>
+    <l><lb n="6"/>śakyate nānumānena paro 'pi parivarṇitum || 70 ||</l>
+  </lg>
+</body>
+</text></TEI>

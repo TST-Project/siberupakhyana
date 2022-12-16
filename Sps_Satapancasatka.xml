@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Śatapañcāśatka</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bibliothèque nationale de France</orgName>
+                  </repository>
+                  <idno type="shelfmark">8-IMPR-OR-2678</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>The <title xml:lang="sa">Śatapañcāśatka</title> is a collection of hymns in praise of the Buddha. It had previously been known only through its Tibetan and Chinese translations, until a manuscript of the Sanskrit original was found in 1936. The text was critically edited and translated by D. R. Shackleton Bailey in 1951. It was re-issued as a digitally-printed paperback in 2009.</p>
+<p>Of the material used in the edition, only witness A covers the full text. </p></summary>
+                  
+               <msItem xml:id="Śpś"><title xml:lang="sa"><term xml:lang="en">parallels to the</term> Vahnipurāṇa śiber upākhyāna</title><textLang mainLang="san" otherLangs="bod zho"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="252">i-xi, 1 unnumbered, 1-237, 3 unnumbered</measure>
+                           <dimensions type="object" unit="mm">
+                           <depth quantity="20"/></dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity="150"/>
+                              <height quantity="230"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              <width quantity="125"/>
+                              <height quantity="185"/>
+                           </dimensions>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="latin" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="2009"/>
+                     <origPlace>Cambridge, UK</origPlace>
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                  <bibl>Shackleton Bailey, D. R., ed. &amp; trans. (1951) 2009. <title>The Śatapañcāśatka of Mātṛceṭa</title>. Cambridge: Cambridge University Press.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Sanskrit in IAST transliteration, following the original. Tibetan changed to Wylie transliteration; the original uses ñ for ny, ṅ for ng, and ḥ for '.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   </facsimile>
+<text corresp="#Śpś" xml:lang="sa"><body>
+        <!-- VP65.75 is reversed -->
+        <milestone n="42" unit="page"/>
+        <lg corresp="VP65.75">
+            <l><lb n="1"/>12 svamāṃsāny api dattāni vastuṣv anyeṣu kā kathā |</l>
+            <l><lb n="2"/>prāṇair api tvayā <app><lem wit="#Śpś-A">sādho</lem><rdg wit="#Śpś-p"><sic>nāthā</sic></rdg></app> mānitaḥ praṇayī janaḥ ||</l>
+        </lg>
+        <lg xml:lang="bo-Latn">
+          <l><lb n="4"/>| nyid kyi sha yang stsol mdzad na || dngos po gzhan lta smos ci 'tshal |</l>
+          <l><lb n="5"/>| legs mdzad khyod kyis srog kyang ni || slong ba'i skye bo rnams la bstang |</l>
+        </lg>
+        <lg xml:lang="zh">
+          <l><lb n="6"/>內財尚能捨　何況於外財</l>
+          <l><lb n="7"/>尊無恪惜心　求者滿其願</l>
+        </lg>
+        <p xml:lang="bo-Latn"><lb n="8"/>rgyu ni dbye ba drug ces bya ba pha rol tu phyin pa drug tu bstan te | de rnams <lb n="9"/>kyis bcom ldan 'das la bstod pa'i phyir ma bcol bar legs par mdzad pa dang <lb n="10"/>rgyu med bzhin do byams pa la sogs pa de ni bshad do || ji ltar zhe na | gang gi <lb n="11"/>phyir sbyin pa'i pha rol tu phyin pa yongs su rdzogs par bya ba'i phyir thugs <lb n="12"/>rangs pa dang spu zing zhes byed pa dang bcas pa de'i phyir <hi rend="italic">nyid kyi sha yang stsol <lb n="13"/>mdzad na</hi> zhes pa ni rgyas pa'o || <hi rend="italic">nyid kyi sha...btang</hi> || de ltar byams pa'i stobs <lb n="14"/>byang chub sems dpar gyur pa'i bcom ldan 'das kyis utpal sngon po dang 'dra <lb n="15"/>ba shin tu rno ba'i ral gris sha bcad cing gnod byin rnams la bza'i ba'i phyir <lb n="16"/>btang ngo || nor by gtsug can byang chub sems dpas kyang srin po rnams la btang <lb n="17"/>ngo zhes <note>138a</note> bya ba ni rtogs pa brjod pa'o || <hi rend="italic">dngos po gzhan</hi> zhes bya ba ni nor <lb n="18"/>bu dang gser dang dngul la sogs pa rnams so || <hi rend="italic">smos ci 'tshal</hi> zhes bya ba ni de smos <lb n="19"/>ci 'tsal te | don gyis go bas dngos po gzhan gyi sbyin pa rtogs par 'gyur ro zhe <lb n="20"/>dgongs pa'o || de ltar rang gi sha kho na btang ba yin nam zhe na | ma yin zhes <lb n="21"/>bshad pa | <hi rend="italic">srog kyang</hi> ni zhes bya ba ni rgyas pa'o || <hi rend="italic">srog</hi> ni srog rnams kyis <lb n="22"/>kyang ngo || <hi rend="italic">btang</hi> zhes bya ba ni mchod par gyur pa'o || <hi rend="italic">slong ba'i skye bo rnams</hi> <lb n="23"/>ni rnyed pa 'dod pas 'ongs pa'o || dper na ri bong du gyur pa'i bcom ldan 'das <lb n="24"/>kyis slong mo pa'i gzugs can gco ba'i bsam pa dang ldan pa'i brgya byin 'ongs pa <lb n="25"/>des yongs su longs spyad par bya ba'i phyir me'i phung po la bzhag nas zhes pa <lb n="26"/>ni skyes rabs so || <hi rend="italic">khyod ni ma bcol legs mdzad pa</hi> | zhes bshad pa de nyid la brten <lb n="27"/>nas <hi rend="italic">legs mdzad</hi> ces bya ba ni bcom ldan 'das la bod pa'o |</p>
+</body></text><text corresp="#Śpś"><body>
+        <milestone n="46 " unit="page"/>
+        <lg corresp="VP65.68">
+            <l><lb n="12"/>17 parārthe tyajataḥ prāṇān yā prītir abhavat tava |</l>
+            <l><lb n="13"/>na sā naṣṭopalabdheṣu <app><lem wit="#Śpś-p2">prāṇeṣu</lem><rdg wit="#Śpś-A">prāṇiṣu</rdg></app> prāṇināṃ bhavet ||</l>
+        </lg>
+        <lg xml:lang="bo-Latn">
+          <l><lb n="15"/>| khyod kyis gzhan gyi don slad du || sku srog btang nas dgyes gyur gang |</l>
+          <l><lb n="16"/>| de 'dra srog chags 'gum pa las || bsos pa rnams la'ang byung ma gyur |</l>
+        </lg>
+        <lg xml:lang="zh">
+          <l><lb n="17"/>殉命濟他難　生無量歡喜</l>
+          <l><lb n="18"/>如死忽重蘇　此喜過於彼</l>
+        </lg>
+        <p xml:lang="bo-Latn"><lb n="19"/>| bzod pa'i gnas skabs gnyis pa bshad par bya ste | <hi rend="italic">khyod kyis...ma gyur</hi> || <lb n="20"/><hi rend="italic">gzhan gyi don gyi slad du sku srog btang nas</hi> zhes smos pa la | <hi rend="italic">gzhan gyi don</hi> zhes <lb n="21"/>bya ba ni gzhan la phan pa'i rgyu'i phyir ro || <hi rend="italic">btang ba</hi> ni btang ba'o || <hi rend="italic">sku srog</hi> <lb n="22"/>ni srog go || <hi rend="italic">dgyes pa</hi> ni khyod la thugs bde bar <note>140b</note> gang gyur pa'o || ji ltar <lb n="23"/>klu gzhon nu dung gi gtsug phud can rim gyis 'ongs shing nye bar gnas pa la nam <lb n="24"/>kha'i lding gis za bar gyur pa gzigs nas de bskyab par bya ba'i phyir byang chub <lb n="25"/>sems dpar gyur pa gzhon nu sprin la zhon gyis nam kha'i lding la bdag nyid btang <lb n="26"/>ngo || de bzhin rgyal po zla 'od du gyur pas kyang rang gi mgo byin nas bram ze <lb n="27"/>drag po'i mig ces bya ba la mchod do || <hi rend="italic">de 'drar ma gyur</hi> ces bya ba ni dgyes <lb n="28"/>pa'o || <hi rend="italic">'gum pa las psos pa rnams</hi> zhes bya ba ni sngar 'gum pa las phyi nas bsos <lb n="29"/>pa ste | snga ma'i dus phyi ma'i dus kyis bsdus pa ni 'jig pa dang skye ba bzhin <lb n="30"/>no || srog la re ba med pa rnams kyis ji ltar na srog rnyed pa ni 'gum pa bsos <lb n="31"/>pa zhes bya ba'o || srog chags rnams kyi srog de ltar gyur pa de rnams kyi yang <lb n="32"/>de dang 'dra bar dgyes pa mi srid pa ji ltar gzhan gyi don gyi slad du khyod kyi <lb n="33"/>srog gtong ba zhes bya ba ni bsdus pa'i don to || de ltar na gnas skabs 'dir gshed <lb n="34"/>ma rnams kyi sdig pa bskyed pa ma spangs pas gshed ma rnams ni bzod pa <pb n="47"/><lb n="1"/>bskyed pa'i rgyu yin no zhes bya bas na | khyod ni bzod pa'i pha rol tu phyin <lb n="2"/>pa 'dod pa nyid kyi srog gis kyang mchod do zhes bya ba'i tshigs su bcad pa <lb n="3"/>'dis bshad do |</p>
+</body></text><text corresp="#Śpś"><body>
+        <milestone n="54" unit="page"/>
+        <lg corresp="VP65.73">
+            <l><lb n="2"/>27 akṛtverṣyāṃ viśiṣṭeṣu hīnān <app><lem wit="#Śpś-A #Śpś-H">anavamatya</lem><rdg wit="#Śpś-D #Śpś-p2">anavamanya</rdg></app> ca |</l>
+            <l><lb n="3"/>agatvā <app><lem wit="#Śpś-A">sadṛśaiḥ</lem><rdg wit="#Śpś-H #Śpś-p2">sadṛśai</rdg><rdg wit="#Śpś-D">sadṛśe</rdg></app> spardhāṃ tvaṃ loke śreṣṭhatāṃ gataḥ ||</l>
+        </lg>
+        <lg xml:lang="bo-Latn">
+            <l><lb n="5"/>| mtho la phrag dog mi mdzad cing || dma'i la rngan chan mi mdzad la |</l>
+            <l><lb n="6"/>| myam la 'gran pa mi mnga' bas || khyod ni 'jig rten gtso bor gyur |</l>
+        </lg>
+        <lg xml:lang="zh">
+            <l><lb n="7"/>尊無嫉姤心　於劣除輕想</l>
+            <l><lb n="8"/>平等無乖諍　勝行悉圓成</l>
+        </lg>
+        <p xml:lang="bo-Latn"><lb n="9"/>|| da ni rnam pa gsum gyis 'bras bu la bstod pa las re zhig dpe med pa la <lb n="10"/>bstod pa las kyang rgyu gang gis dpe med pa nyid dang | rnam pa gang gis dang | <lb n="11"/>gang dang bcas pas dpe med ces bya ste | dbye ba gsum mo || de la rgyu gang gis <lb n="12"/>dpe med pa nyid brnyes pa ni || <hi rend="italic">mtho la phrag dog mi mdzad cing</hi> || zhes bya ba'i <lb n="13"/>tshigs su bcad pas de bshad par bya ste | <hi rend="italic">mtho la...gyur</hi> || 'jig rten pa phal che <lb n="14"/>ba thos pa dang tshul khrims la sogs pa'i khyad par dang ldan pa'i gang zag rnams <lb n="15"/>la <hi rend="italic">phrag dog</hi> skye ste | gzhan gyi yon tan bzod mi nus pa zhes bya ba'i don to || <lb n="16"/>dma'i ba rnams la <hi rend="italic">rngan chan gyi</hi> blo dang | mnyam pa dang bcas pa la <hi rend="italic">'gran pa</hi> ni <lb n="17"/>phan tshun zil gyis gnon pa yin no || bcom ldan 'das kyang byang chub sems <lb n="18"/>dpa'i gnas skabs su <hi rend="italic">mtho ba rnams la phrag dog ma mdzad de</hi> | yon tan kun tu <lb n="19"/>'dzin pa'i phyir ro || <hi rend="italic">dma'i ba la rngan chan ma mdzad pa</hi> ni | de rnams la yang <lb n="20"/>yon tan yang da gpar stsal ba'i phyir ro || <hi rend="italic">mnyam pa la 'gran pa mi mnga' ba</hi> ni <lb n="21"/>nye bar <note>145a</note> blangs pa'i yon tan rnams bstan par mdzad pa'i phyir ro || <hi rend="italic">'gran <lb n="22"/>pas</hi> ni bar chad du 'gyur zhes bya ba'o || rgyu gsum po de rnams kyis <hi rend="italic">khyod</hi> <lb n="23"/>ces bya ba ni bcom ldan 'das <hi rend="italic">'jig rten gyi gtso bor gyur pa</hi> ste | dpe med pa nyid <lb n="24"/>thob par gyur zhes bya ba'i don to |</p>
+</body></text><text corresp="#Śpś"><body>
+    <milestone n="77" unit="page"/>
+    <lg corresp="VP65.70">
+        <l><lb n="17"/>58 sarvam <app><lem>evāviśeṣeṇa</lem><rdg wit="#Śpś-S">evāśeṣeṇa</rdg></app> kleśair baddham idaṃ jagat |</l>
+        <l><lb n="18"/>tvaṃ jagatkleśamokṣā<app><lem>rthaṃ baddhaḥ</lem><rdg wit="#Śpś-S">⟨(rthe yataḥ)</rdg></app> karuṇayā ciram ||</l>
+    </lg>
+    <lg xml:lang="bo-Latn">
+        <l><lb n="20"/>| 'gro ba 'di dag thams cad ni || khyad med nyon mongs rnams kyis bcings |</l>
+        <l><lb n="21"/>| khyod ni 'gro ba'i nyon mongs dag || dgrol slad yun ring thugs rjes bsdams |</l>
+    </lg>
+    <lg xml:lang="zh">
+        <l><lb n="23"/>一切有情類　皆因煩惱持</l>
+        <l><lb n="24"/>唯佛能善除　由悲久住世</l>
+    </lg>
+    <p xml:lang="bo-Latn"><lb n="25"/>|| sman pa mdzad pa ni dbye ba rnam pa brgyad de re zhig thugs rje la bstod pas <lb n="26"/>ni 'khor ba'i nyes pa mkhyen pa'i bcom ldan 'das kyang thugs rjes yun ring por <lb n="27"/>bzhugs pa dang | sems can rnams kyi de'i tshe shin tu sdug bsngal zhi bar bya <lb n="28"/>ba'i phyir skye bo mang po'i gnas su bzhugs pa dang dgon par mi bzhugs pa dang | <lb n="29"/> de ltar byung ba'i sdug bsngal bzod spyod pa dang | bud med kyi spyod pa legs <lb n="30"/>pa dang mi legs pa dang 'dra ba'i thugs rje mnga'i ba ste tshig gi don bzhi'o || de <lb n="31"/>la bcom ldan 'das kyis smon lam la brten pas yongs su mya ngan las 'das kyi bar <lb n="32"/>du bkres pa dang skom pa la sogs pa sdug bsngal bzod spyod pa dang | 'khor ba'i <pb n="78"/><lb n="1"/>skye bo gzhan dang 'dra ba dang | rgyu la khyad par mi mnga'i ba bshad par bya <lb n="2"/>ste | <hi rend="italic">'dro ba...bsdams</hi> || <hi rend ="italic">thams cad khyad med</hi> ces bya ba la | <hi rend="italic">thams cad</hi> ces bya <lb n="3"/>ba ni khams gsum mo || <hi rend="italic">khyad med</hi> ces bya ba ni lha rnams las dmyal ba'i bar <lb n="4"/>du'o || <hi rend="italic">khyad med pas na nyon mongs pa rnams kyis bcings pa</hi> ni srid pa'i rste mo'i <lb n="5"/>nges par ma spangs pa'i phyir ro || zhes bya bar dgongs pa'o || 'khor bar 'gro ba <lb n="6"/>nyon mongs par byed ces pas na <hi rend="italic">nyon mongs pa rnams so</hi> || de rnams kyis <hi rend="italic">bcings</hi> zhes <lb n="7"/>bya ba ni 'khor ba las ma 'das pa'i phyir ro || <hi rend="italic">'gro ba 'di</hi> zhes bya ba ni sems <lb n="8"/>can gyi 'jig rten 'di'o || de ltar na 'jig rten pa nyon mongs pa rnams <note>157b</note> kyis <lb n="9"/>bchings pas 'khor bar nyon mongs par gyur to || <hi rend="italic">khyod ni 'gro ba'i nyon mongs pa dag <lb n="10"/>dgrol slad</hi> ces bya ba ni shes rab kyi mtshon chas 'gro ba'i nyon mongs pa'i zhags <lb n="11"/>pa gcod pa'i phyir ro || <hi rend="italic">yun rings thugs rjes bsdams</hi> zhes bya ba ni smon lam nas <lb n="12"/>brtsams te yongs su mya ngan las 'das kyi bar du'o |</p>
+</body></text><text corresp="#Śpś"><body>
+        <milestone n="81" unit="page"/>
+        <lg corresp="VP65.69">
+            <l><lb n="33"/>64 parārthaikānta<app><lem>kalyāṇī</lem><rdg wit="#Śpś-A">kalyāṇi</rdg></app> kāmaṃ svāśrayaniṣṭhurā |</l>
+            <l><lb n="34"/>tvayy eva kevalaṃ <app><lem wit="#Śpś-A #Śpś-B #Śpś-p">nātha karuṇākaruṇābhavat</lem><rdg wit="#Śpś-S">nātha karuṇā bhavet</rdg></app> ||</l>
+        </lg>
+        <lg xml:lang="bo-Latn">
+            <l><pb n="82"/><lb n="1"/>| gzhan gyi don du rab bzang gi || nyid kyi rten la brtse med pas |</l>
+            <l><lb n="2"/>| mgon po khyod nyid 'ba' zhig la || thugs rjes thugs rje mdzad ma gyur |</l>
+        </lg>
+        <lg xml:lang="zh">
+            <l><lb n="4"/>當修利他行　會無自利心</l>
+            <l><lb n="5"/>慈念遍衆生　於己偏無愛</l>
+        </lg>
+        <p xml:lang="bo-Latn"><lb n="6"/>| legs pa dang mi legs pa'i bud med kyi tshul dang mthun par bshad par bya ste | <lb n="7"/><hi rend="italic">gzhan gyi don...mdzad ma gyur</hi> || <hi rend="italic">gzan gyi don du rab bzang gi</hi> zhes bya ba ni <lb n="8"/>rgyas pa'o || <hi rend="italic">gzhan gyi don</hi> ni gzhan la sman pa mdzad pa'i phyir ro || <hi rend="italic">rab tu <lb n="9"/>bzang ba</hi> ni mkhas <note place="inline">159b</note> pa'o || <hi rend="italic">gi</hi> zhes bya ba ni zhal gyis bzhes pa la'o || <lb n="10"/><hi rend="italic">nyid kyi rten la brtse med pa</hi> zhes bya ba ni de bzhin gshegs pa de <hi rend="italic">nyid kyi rten</hi> <lb n="11"/>te | de la <hi rend="italic">brtse ba med pa</hi> ni rstub pa dang gzir bar mdzad pa ste | <hi rend="italic">thugs rjes</hi> zhes <lb n="!2"/>'chad par 'gyur ro || <hi rend="italic">khyod nyid</hi> ni bcom ldan 'das la yin gyi gzhan la ni ma yin <lb n="13"/>no || <hi rend="italic">'ba' zhig</hi> ni bdag nyid che ba zhes bya ba'i don to || <hi rend="italic">mgon po</hi> zhes bya ba <lb n="14"/>ni bod pa'o || <hi rend="italic">thugs rjes thugs rje mdzad ma gyur</hi> zhes bya bas ni de ltar bstan pa <lb n="15"/>yin te | thugs rjes mdzad pa dang | rjes su bzung ba mdzad ces pa ni thugs rje'i don <lb n="16"/>dang mthun pa'i mtshan no || khyod kyi yul la thugs rje'i don dang mthun pa'i <lb n="17"/>mtshan du ma gyur to || de lta bas na <hi rend="italic">nyid kyi rten la brtse ba mi mnga<choice><sic>h</sic><corr>'</corr></choice> ba</hi> dang | <lb n="18"/>gzhan la chags pa'i rang bzhin gang yin pa des ni bud med kyi spyod pa mi legs <lb n="19"/>pa bshad do |</p>
+</body></text><text corresp="#Śpś"><body>
+        <milestone n="125" unit="page"/>
+        <lg corresp="VP65.10">
+            <l><lb n="12"/>119 nopakārapare 'py evam upakāraparo janaḥ |</l>
+            <l><lb n="13"/>apakārapare 'pi tvam upakāraparo yathā ||</l>
+        </lg>
+        <lg xml:lang="bo-Latn">
+            <l><lb n="14"/>| ji ltar khyod ni gnod bgyid la || phan pa lhur mdzad de lta bur |</l>
+            <l><lb n="15"/>| skye bo dag ni phan bgyid la'ang || phan pa de ltar lhur mi bgyid |</l>
+        </lg>
+        <lg xml:lang="zh">
+            <l><lb n="16"/>恩深過覆載　背德起深怨</l>
+            <l><lb n="17"/>尊觀怨極境　猶如極重恩</l>
+        </lg>
+        <p xml:lang="bo-Latn"><lb n="18"/>| da ni rnam pa gang gis dka' ba mdzad pa de bshad par bya ste | <hi rend="italic">ji ltar...lhur <lb n="19"/>mi byid</hi> || <hi rend="italic">phan pa lhur mdzad</hi> ces bya ba ni bshad zin to || <hi rend="italic">gnod bgyid la</hi> zhes <lb n="20"/>bya ba ni zas gtsang ma la sogs pa 'ba' zhig la phan par mdzad par ma zad kyi <lb n="21"/>gnod par bgyid pa la gzhol ba lhas byin la sogs pa la yang ngo || <hi rend="italic">khyod</hi> ni bcom <lb n="22"/>ldan 'das so || ji ltar khyod phan pa lhur mdzad pa de bzhin du phan par byed <lb n="23"/> pa'i skye bo la <hi rend="italic">skye bo</hi> ma yin no || ji ltar lhas byin zhes bya ba ni bcom ldan <lb n="24"/>das kyi mched zla ste | skye ba gzhan du gnod pa byid pa'i smon lam btab pa <lb n="25"/>dang | rtag tu phan pa ma yin pa rtsol ba'o || bcom ldan 'das ni rtag tu phan par <lb n="26"/>mdzad pa dang | phan pa zhes bya ba ni gtsug lag khang ngo |</p>
+</body></text></TEI>

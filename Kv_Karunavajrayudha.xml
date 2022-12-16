@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Karuṇāvajrāyudha</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/s2ph0kjf2bh</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/karuna_vajrayudham_036571_std</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>The <title xml:lang="sa">Karuṇāvajrāyudha</title> is a 13<hi rend="superscript">th</hi>-century drama by the Jain monk <persName xml:lang="sa">Bālacandra</persName>. It elaborates upon the story of the <term xml:lang="sa">śyenakapotīya</term>, the hawk and the dove. This text was edited by <persName xml:lang="sa">Muni Caturavijayaji</persName> in 1916.</p>
+<p>The provenance of this digital facsimile is unknown.</p></summary>
+                  
+               <msItem xml:id="Kv"><title xml:lang="sa"><term xml:lang="sa">parallels to the</term> Vahnipurāṇa</title><textLang mainLang="san" otherLangs="pra"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper">
+                        <extent>
+                           <measure unit="page" quantity="54"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1916"/>
+                     <origPlace>Bhāvanagara</origPlace>      
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl><persName xml:lang="sa">Caturavijaya, Muni</persName>, ed. 1916. <title xml:lang="sa">Śribālacandrasūriviracitaṃ Karuṇāvajrāyudhaṃ nāṭakam</title>. <placeName xml:lang="sa">Bhāvanagara</placeName>: <orgName xml:lang="sa">Śrijaina-ātmānandasabhā</orgName>. </bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration. Spaces added where possible.</p></encodingDesc>
+      
+   <xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/karuna_vajrayudham_036571_std$27/canvas",{"id":"https://iiif.archivelab.org/iiif/karuna_vajrayudham_036571_std$27/canvas","items":[{"body":{"type":"TextualBody","value":"<p>Kv</p>"},"id":"5e4117ef-5287-4625-824e-5406d6b0dc0f","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/karuna_vajrayudham_036571_std$27/canvas","selector":[{"type":"FragmentSelector","value":"xywh=162,212,1001,850"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M162.76914,1062.17455v-850.12162h1001.3964v850.12162z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}],["https://iiif.archivelab.org/iiif/karuna_vajrayudham_036571_std$42/canvas",{"id":"https://iiif.archivelab.org/iiif/karuna_vajrayudham_036571_std$42/canvas","items":[{"body":{"type":"TextualBody","value":"<p>Kv</p>"},"id":"45aa1b2d-53a9-44d8-be1a-8a52ccdcd4b8","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/karuna_vajrayudham_036571_std$42/canvas","selector":[{"type":"FragmentSelector","value":"xywh=237,259,822,142"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M237.15287,401.3278v-142.04204h822.06832v142.04204z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData><revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/karuna_vajrayudham_036571_std/manifest.json" facs="28"/></facsimile>
+<text corresp="#Kv" xml:lang="sa"><body>
+        <p><milestone n="23" unit="page" facs="28:1"/><lb n="1"/>yad uktam ―</p>
+        <lg corresp="VP65.13">
+            <l><lb n="2"/>lobhād_ dveṣād bhayād vāpi yas tyajec charaṇāgatam |</l>
+            <l><lb n="3"/>brahmahatyāphalaṃ tasya pāpam āhur manīṣiṇaḥ || 67 ||</l>
+        </lg>
+        <p><lb n="4"/><hi rend="bold">śyenaḥ</hi> ― rājan !,</p>
+        <lg>
+            <l><lb n="5"/>mārgaṇān_ saphalīkṛtya kāmaṃ visṛjataḥ sataḥ |</l>
+            <l><lb n="6"/>śātravāṇīva pāpāni dharmiṇas tava bibhyati || 68 ||</l>
+        </lg>
+        <p><lb n="7"/><hi rend="bold">rājā</hi> ― śyenapakṣin ! śrutīnāṃ bahippathīnā te matiḥ | yataḥ –</p>
+        <lg corresp="VP65.34">
+            <l><lb n="8"/>catuḥsāgaraparyantāṃ yo dadyāt pṛthivīm imām |</l>
+            <l><lb n="9"/>ekaś ca jīvitaṃ dadyāt tayor abhayado 'dhikaḥ || 69 ||</l>
+        </lg>
+  <p><lb n="10"/>api ca —</p>
+  <lg corresp="VP65.33">
+    <l><lb n="11"/>hutam iṣṭaṃ ca taptaṃ ca tīrthasevāphalaṃ śrutam |</l>
+      <l><lb n="12"/>sarvāṇy abhayadānasya kalāṃ nārhanti ṣoḍaśīm || 70 ||</l>
+  </lg>
+  
+</body></text><text corresp="#Kv"><body>
+<lg corresp="VP65.63">
+    <l><milestone n="38" facs="43:1" unit="page"/><lb n="1"/>aṅgīkṛtyātmano duḥkhaṃ sukhayaty aparān mahān |</l>
+    <l><lb n="2"/>ātapād ātapastho 'yaṃ pathikān avati drumaḥ || 104 ||</l>
+  </lg>
+</body></text></TEI>

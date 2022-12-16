@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Śārṅgadharapaddhati</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Asiatic Society of Mumbai</orgName>
+                  </repository>
+                  <idno type="shelfmark">891.2082 Sar/Pad</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">http://asiatic-koha.informindia.co.in/cgi-bin/koha/opac-detail.pl?biblionumber=43400</idno><idno type="URI">https://archive.org/details/dli.granth.89724</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>This anthology of Sanskrit verses was edited by Peter Peterson in 1888. This copy is part of the Jackson Memorial Collection at the Asiatic Society of Mumbai, and it was digitized as part of the Digital Library of India with support from the Government of Maharashtra in 2018, according to a <locus facs="2">watermark</locus> at the beginning.</p></summary>
+                  
+               <msItem xml:id="Śp"><title xml:lang="sa"><term xml:lang="en">parallel to the</term> Vahnipurāṇa śiber upākhyāna</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="780"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><bindingDesc>
+                     <binding>
+                    <p>Hardbound.</p></binding>
+                  </bindingDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1888"/>
+                     <origPlace>Bombay</origPlace>      
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Peterson, Peter, ed. 1888. The Paddhati of Sarngadhara. A Sanskrit Anthology. Vol I. The Text. Bombay: Government Central Book Depot.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration. Spaces added where possible.</p></encodingDesc>
+      
+   <revisionDesc/><xenoData type="webannotation"><![CDATA[[["https://iiif.archivelab.org/iiif/dli.granth.89724$250/canvas",{"id":"https://iiif.archivelab.org/iiif/dli.granth.89724$250/canvas","items":[{"body":{"type":"TextualBody","value":"<p>Śp</p>"},"id":"a73a8f42-0abe-486e-a4cc-a343c1bb31fd","motivation":"commenting","target":{"source":"https://iiif.archivelab.org/iiif/dli.granth.89724$250/canvas","selector":[{"type":"FragmentSelector","value":"xywh=255,2068,929,208"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M255.86654,2277.30906v-208.80255h929.05405v208.80255z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/dli.granth.89724/manifest.json" facs="251"/></facsimile>
+<text corresp="#Śp" xml:lang="sa"><body>
+        <p xml:lang="en"><milestone n="231" facs="251:1" unit="page"/><lb n="25"/>1461</p>
+        <lg corresp="VP65.17">
+            <l><lb n="26"/>yannimittaṃ bhavec chokas trāso vā duḥkham eva vā |</l>
+            <l><lb n="27"/>āyāso vā yatomūlas tad ekāṅgam api tyajet || 42 ||</l>
+        </lg>
+</body></text></TEI>
