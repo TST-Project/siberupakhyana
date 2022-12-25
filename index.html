@@ -50,7 +50,7 @@
         <p class="subtitle">A critical edition &amp; translation of the <em>śiber upākhyāna</em></p>
 
         <p class="subtitle">Charles Li</p>
-        <p>Last updated: 22 December 2022.</p>
+        <p id="lastupdate"></p>
         <section>
             <blockquote>
                 <p>
@@ -123,4 +123,19 @@ This digital edition of the <cite>Vahnipurāṇa śiber upākhyāna</cite> forms
         </section>
     </article>
 </body>
+<script>
+    fetch('https://api.github.com/repos/tst-project/siberupakhyana/commits')
+        .then((res) => res.json())
+        .then((data) => {
+            const date = new Date(data[0].commit.committer.date);
+            const datestr = date.toLocaleString('en-GB', {
+                weekday: 'long',
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+            });
+            document.getElementById('lastupdate').innerHTML = 
+                `Last updated <a href="${data[0].html_url}">${datestr}</a>.`;
+        });
+</script>
 </html>
