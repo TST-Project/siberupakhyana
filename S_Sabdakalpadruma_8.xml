@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../lib/xslt/tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Śabdakalpadrumapariśiṣṭa</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bayerische Staatsbibliothek, München</orgName>
+                  </repository>
+                  <idno type="shelfmark">4 A.or.2755-8</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://www.digitale-sammlungen.de/en/view/bsb10219719</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary><p>This Bengali-script edition of the <title xml:lang="sa">Śabdakalpadruma</title> lexicon was perhaps the first edition. This eighth volume, a supplement, is dated to the Śaka year 1779, corresponding to 1857/58 CE.</p></summary>
+                  
+               <msItem xml:id="VpŚ"><title xml:lang="sa"><term xml:lang="en">quotations from the</term> Vahnipurāṇa (śiber upākhyāna)</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="1450"/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="bengali" medium="ink black"><q xml:lang="sa">ru</q> is written with a bar through the letter.</typeNote></typeDesc></physDesc>
+               <history>
+               <origin>
+                     <origDate calendar="gregorian" when="1857"/>
+                     <origPlace>Kalikātā</origPlace></origin>
+                </history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl><persName xml:lang="sa">Rādhākāntadeva</persName>. 1857. <title xml:lang="sa">Śabdakalpadrumapariśiṣṭaḥ.</title> <placeName xml:lang="sa">Kalikāta</placeName>: <persName xml:lang="sa">Rāmatāraṇācārya</persName>.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration. An underscore represents an explicit <term xml:lang="sa">virāma</term>.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10219719/manifest" facs="994"/></facsimile>
+<text corresp="#VpŚ" xml:lang="sa"><body>
+        <p><milestone unit="page" n="962" facs="994"/>
+      <cb n="2"/>
+      <lb n="11"/>duḥ<ruby><rb>khī</rb><rt>na</rt></ruby> tri duḥkhitaḥ | yathā |</p>
+        <lg corresp="VP65.47">
+          <l><lb n="12"/>duḥkhino 'duḥkhino vāpi <lb n="13"/>prāṇino labdhacakṣuṣaḥ |</l>
+          <l>ātmavat <lb n="14"/>paripaśyanti te yānti paramāṃ <lb n="15"/>gatiṃ ||</l>
+        </lg>
+        <lg corresp="VP65.56">
+          <l>tyaktvātmasukhabhoge<lb n="16"/>cchāṃ sarvvasattvasukhaiṣiṇaḥ |</l>
+          <l>bhava<lb n="17"/>nti paraduḥkhena sādhavo nitya<lb n="18"/>duḥkhitāḥ ||</l>
+        </lg>
+        <p>iti vahnipurāṇe <lb n="19"/>śiver upākhyānanāmādhyāyaḥ ||</p>
+    </body></text></TEI>
