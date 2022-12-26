@@ -42,6 +42,15 @@
         }
         /*.msid a:link, .msid a:active {
         }*/
+        .marginnote {
+            height: 0;
+            overflow: visible;
+        }
+        @media (max-width: 760px) {
+            .marginnote {
+                height: revert;
+            }
+        }
     </style>
 </head>
 <body>
