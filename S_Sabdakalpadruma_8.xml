@@ -18,21 +18,21 @@
                <msContents class="#STM">
                   <summary><p>This Bengali-script edition of the <title xml:lang="sa">Śabdakalpadruma</title> lexicon seems to be the first edition. This eighth volume, a supplement, is dated to the Śaka year 1779, corresponding to 1857/58 CE.</p></summary>
                   
-               <msItem xml:id="VpŚ"><title xml:lang="sa"><term xml:lang="en">quotations from the</term> Vahnipurāṇa (śiber upākhyāna)</title><textLang mainLang="san"/></msItem></msContents>
+               <msItem xml:id="VpŚ" defective="false"><title xml:lang="sa"><term xml:lang="en">quotations from the</term> Vahnipurāṇa (śiber upākhyāna)</title><textLang mainLang="san"/></msItem></msContents>
                <physDesc>
                <objectDesc form="codex" rend="movable-type">
                      <supportDesc material="paper industrial">
                         <extent>
                            <measure unit="page" quantity="1450">Flyleaf, title page, 1-1396 with many redundant pages, flyleaf.</measure>
-                        </extent>
+                        <dimensions type="object" unit="mm"/><dimensions type="leaf" unit="mm"/><dimensions type="written" unit="mm"/></extent>
                      </supportDesc>
-                  </objectDesc><typeDesc><typeNote scope="sole" script="bengali" medium="ink black"><q xml:lang="sa">ru</q> is written with a bar through the letter.</typeNote></typeDesc></physDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="bengali" medium="ink black"/></typeDesc></physDesc>
                <history>
-               <origin>
+               
+                     
+                <origin>
                      <origDate calendar="gregorian" when="1857"/>
-                     <origPlace>Kalikātā</origPlace></origin>
-                     <acquisition><p>The <q xml:lang="la">Bibliotheca Regia Monacensis</q> stamp dates its acquisition to before 1919.</p></acquisition>
-                </history>
+                     <origPlace>Kalikātā</origPlace></origin><acquisition><p>The <q xml:lang="la">Bibliotheca Regia Monacensis</q> stamp dates its acquisition to before 1919.</p></acquisition></history>
                <additional>
                   <listBibl>
                      
@@ -40,14 +40,14 @@
                </additional>
             </msDesc>
          </sourceDesc>
-      </fileDesc>
+      <publicationStmt><publisher>TST Project</publisher><date>2022</date></publicationStmt></fileDesc>
       <encodingDesc><p>IAST transliteration. An underscore represents an explicit <term xml:lang="sa">virāma</term>.</p></encodingDesc>
       
-   <revisionDesc/></teiHeader>
+   <revisionDesc/><xenoData type="webannotation"><![CDATA[[["https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10219719/canvas/994",{"id":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10219719/canvas/994","items":[{"body":{"type":"TextualBody","value":"<p>duḥkhī</p>"},"id":"d901a0a6-5453-4773-b14a-ca8097ebaf05","motivation":"commenting","target":{"source":"https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10219719/canvas/994","selector":[{"type":"FragmentSelector","value":"xywh=1578,1383,839,908"},{"type":"SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1578.70788,2292.08311v-908.44317h839.15513v908.44317z\" data-paper-data=\"{&quot;state&quot;:null}\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}]},"type":"Annotation"}],"type":"AnnotationPage"}]]]]></xenoData></teiHeader>
    <facsimile>
    <graphic url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10219719/manifest" facs="994"/></facsimile>
 <text corresp="#VpŚ" xml:lang="sa"><body>
-        <p><milestone unit="page" n="962" facs="994"/>
+        <p><milestone unit="page" n="962" facs="994:1"/>
       <cb n="2"/>
       <lb n="11"/>duḥ<ruby><rb>khī</rb><rt>na</rt></ruby> tri duḥkhitaḥ | yathā |</p>
         <lg corresp="VP65.47">
