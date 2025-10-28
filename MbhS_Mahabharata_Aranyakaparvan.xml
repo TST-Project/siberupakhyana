@@ -39,6 +39,30 @@
                   <bibl>Śāstrī, P. P. S., ed. 1933. <title>The Mahābhārata (Southern Recension), Vol. IV — Āraṇyaka Parvan. Part I.,</title> Madras: V. Ramasamy Sastrulu &amp; Sons.</bibl></listBibl>
                </additional>
             </msDesc>
+        <listWit>
+          <witness xml:id="a">
+            <abbr><term xml:lang="sa">a</term></abbr>
+            <expan>manuscript of Brahma Sri Krishna Sastrigal, Palace Pauranikar, Trivandrum, November 1795 A.D.</expan>
+          </witness>
+          <witness xml:id="ka">
+            <abbr><term xml:lang="sa">ka</term></abbr>
+            <expan>manuscript of His Highness the Maharaja of Travancore, 1667 A.D.</expan>
+          </witness>
+          <witness xml:id="kha">
+            <abbr><term xml:lang="sa">kha</term></abbr>
+            <expan>manuscript of Mr. Krishnaswami Sastrigal Sub-Registrar, Tanjore District</expan>
+          </witness>
+          <witness xml:id="ga">
+            <abbr><term xml:lang="sa">ga</term></abbr>
+           <expan>manuscript from Tinnevelly District, 1647 A.D.</expan>
+          </witness>
+          <witness xml:id="gha">
+            <abbr><term xml:lang="sa">gha</term></abbr>
+            <expan>manuscript of Mr. Natesa Iyer of Kadayam village in Tinnevelly District, 1825 A.D.</expan>
+           </witness>
+
+        </listWit>
+
          </sourceDesc>
       </fileDesc>
       <encodingDesc><p>IAST transliteration.</p></encodingDesc>
@@ -68,7 +92,7 @@
   <p><pb n="652" facs="705"/><lb n="1"/>rājā —</p>
   <lg>
     <l><lb n="2"/>saṃtrastarūpas trāṇārthī tvatto bhīto mahādvija |</l>
-    <l><lb n="3"/>matsakāśam anuprāptaḥ prāṇagṛdhnur ayaṃ dvijaḥ || 3</l>
+    <l><lb n="3"/><app><lem>matsakāśam anuprāptaḥ prāṇagṛdhnur ayaṃ dvijaḥ || 3</lem><rdg wit="#ga"/></app></l>
    </lg>
    <lg>
      <l><lb n="4"/>evam asyāgatasyeha kapotasyābhayārthinaḥ |</l>
@@ -84,7 +108,7 @@
     <l><lb n="9"/>āhāreṇa vivardhante tena jīvanti jantavaḥ || 6</l>
   </lg>
   <lg corresp="#VP65.22">
-    <l><lb n="10"/>śakyate puṣkalasyārthe cirarātrāya jīvitum |</l>
+      <l><lb n="10"/><app><lem>śakyate puṣkalasyārthe cirarātrāya jīvitum |</lem><rdg wit="#kha"/></app></l>
     <l><lb n="11"/>na tu bhojanam utsṛjya śakyaṃ vartayituṃ ciram || 7</l>
   </lg>
   <lg corresp="#VP65.23">
@@ -111,7 +135,7 @@
     <l><lb n="6"/>suparṇaḥ pakṣirāṭ_ kiṃ tvaṃ dharmaṃ jñātvā 'bhbhāṣase || 13</l>
   </lg>
   <lg>
-    <l><lb n="7"/>tathā hi dharmasaṃyuktaṃ bahucitraṃ prabhāṣase |</l>
+    <l><lb n="7"/><app><lem>tathā hi dharmasaṃyuktaṃ bahucitraṃ prabhāṣase |</lem><rdg wit="#kha"/></app></l>
    </lg>
    <lg>
      <l><lb n="8"/>na te 'sty aviditaṃ kiñcid_ iti tvāṃ lakṣayāmy aham || 14</l>
@@ -136,8 +160,8 @@
     <l><lb n="18"/>tam utsṛja mahārāja kapotam imam eva me || 18 ||</l>
   </lg>
   <lg corresp="#VP65.41">
-    <l><pb n="654" facs="707"/><lb n="1"/>śyenāḥ kapotān_ khādanti śrūtir eṣā sanātanī |</l>
-    <l><lb n="2"/>mā rājan_ mārgam ajñāya kadalīstambham āruha || 19 ||</l>
+    <l><pb n="654" facs="707"/><lb n="1"/>śyenāḥ kapotān_ khādanti <app><lem>śrūti</lem><rdg wit="#kha #ga #gha">stiti</rdg></app>r eṣā sanātanī |</l>
+    <l><lb n="2"/>mā rājan_ <app><lem>mārgam ajñāya kadalīstambham āruha</lem><rdg wit="#kha">mārgam āsthāya kadaryastambham āruha</rdg><rdg wit="#a">mārgam ajñāya kadalīsārataṃ jñātvā</rdg><rdg wit="#gha">mārgam ajñāya kadalīskandham āsajaḥ</rdg></app> || 19 ||</l>
   </lg>
   <p><lb n="3"/>rājā —</p>
     <lg>
@@ -155,10 +179,10 @@
        <p><lb n="10"/>śyenaḥ —</p>
   <lg>
     <l><lb n="11"/>uśīnara kapote te yadi sneho narādhipa |</l>
-    <l><lb n="12"/>ātmānaṃ susamutkṛtya kapotatulayā dhṛtam || 23 ||</l>
+    <l><lb n="12"/><app><lem>ātmānaṃ susamutkṛtya</lem><rdg wit="#ka #kha #gha">ātmamāṃsaṃ samuddhṛtya</rdg></app> kapotatulayā dhṛtam || 23 ||</l>
   </lg>
    <lg>
-     <l><lb n="13"/>yadā samaṃ kapotena tava māṃsaṃ narādhipa |</l>
+    <l><lb n="13"/>yadā samaṃ kapotena <app><lem>tava māṃsaṃ narādhipa |</lem><rdg wit="#ka #ga"/></app></l>
      <l><lb n="14"/>tvayā pradeyaṃ tan mahyaṃ sā me tuṣṭir bhaviṣyati || 24 ||</l>
   </lg>
        <p><lb n="15"/>rājā —</p>
@@ -187,7 +211,7 @@
   </lg>
 
   <lg corresp="#VP65.80">
-    <l><lb n="11"/>yat te māṃsāni gātrebhyas_ samutkṛttāni pārthiva |</l>
+    <l><lb n="11"/>yat te māṃsāni gātrebhyas_ <app><lem>samutkṛttāni pārthiva</lem><rdg wit="#ka #kha #ga #gha">samutkṛttāni viśāṃ pate</rdg></app> |</l>
     <l><lb n="12"/>eṣā te śāśvatī kīrtir_ lokān abhibhaviṣyati || 30 ||</l>
   </lg>
   <lg>
@@ -195,7 +219,7 @@
     <l><lb n="14"/>tāvat_ kīrtiś ca lokāś ca sthāsyanti tava sarvadā || 31 ||</l>
   </lg>
   <lg>
-    <l><lb n="15"/>tat_ pāṇḍaveya yajanaṃ rājñas tasya mahātmanaḥ |</l>
+    <l><lb n="15"/>tat_ pāṇḍaveya <app><lem>yajanaṃ</lem><rdg wit="#ka kha #ga #gha">sadanaṃ</rdg></app> rājñas tasya mahātmanaḥ |</l>
     <l><lb n="16"/>paśyasvaitanmayā sārdhaṃ puṇyaṃ pāpapraṇāśānam || 32 ||</l>
   </lg>
   <lg>
