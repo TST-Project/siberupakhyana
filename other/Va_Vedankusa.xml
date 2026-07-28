@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Vedāṅkuśa</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/s293fbmb9b2</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/vedankusha</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This copy of the <title xml:lang="sa">Vedāṅkuśa</title>, attributed to Hemacandra, seems to be the first edition, published in 1918. A second edition was published in 1923; for more information, see Wezler 1993, where the title of the text is rendered as <q>A slap on the face of Brahmins.</q></summary>
+                  
+               <msItem xml:id="IsVa" defective="false"><title xml:lang="sa">Vedāṅkuśa <term xml:lang="en">quoting the</term> Itihāsasamuccaya</title><author xml:lang="sa">Hemacandra</author><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="38">2 unnumbered, 1-36. Folios 5 &amp; 6 out of order.</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="major" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Wezler, Albrecht. 1993. <title type="article">‘A slap on the face of Brahmins’. Introducing a Little-Known Jain Text of Polemical Objectives.</title> In <title> Jain Studies in Honour of Jozeph Deleu,</title> edited by Rudy Smet &amp; Kenji Watanabe. Tokyo: Hon-no-tomosha. 485–501.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/vedankusha/manifest.json" facs="11"/></facsimile>
+<text corresp="#IsVa" xml:lang="sa"><body>
+  <pb n="5r" facs="11"/>
+  <p><lb n="3"/>iti॰ yudhiṣṭhira u॰--</p>
+  <lg corresp="#Is4.2">
+    <l>yo rakṣet prāṇinaṃ brahman! bhayārttaṃ śaraṇāgatam |</l>
+    <l>tasya puṇyaphalaṃ yat syāt_ tan me brūhi tapodhana! || 106 ||</l>
+   </lg>
+  <lg corresp="#Is4.3 #VP65.27">
+    <l><lb n="4"/>ekataḥ kratavaḥ sarve samagravaradakṣiṇām |</l>
+    <l>ekato bhayabhītasya prāṇinaḥ prāṇarakṣaṇam || 107 ||</l>
+  </lg>
+  <lg corresp="#Is4.4">
+    <l><lb n="5"/>idam eva purā devas tulayā samatolayan |</l>
+    <l>prāṇarakṣaṇam eveha gauraveṇātiricyate || 108 ||</l>
+  </lg>
+  <lg corresp="#VP65.47">
+      <l><lb n="6"/>jaṅgamāni ca bhūtāni sthāvarāṇi ca ye narāḥ |</l>
+      <l>ātmavat_ parirakṣanti te yānti paramāṃ gatim || 109 ||</l>
+  </lg>
+  <lg corresp="#VP65.43">
+    <l><lb n="7"/>sarvasattveṣu yad dānam ekasattve ca yā dayā |</l>
+    <l>sarvasattvapradānāc ca dayaikāsmin_ viśiṣyate || 110 ||</l>
+  </lg>
+  <lg corresp="#VP65.34">
+    <l><lb n="8"/>catuḥsāgaraparyantāṃ yo dadyāt_ pṛthivīm imām |</l>
+    <l>abhayaṃ yas tu bhūtebhyas tayor abhayado 'dhikaḥ || 111 ||</l>
+  </lg>
+  <lg corresp="#VP65.44">
+    <l><lb n="9"/>sarve vedā na tat kuryuḥ sarve yajñāś ca bhārata! |</l>
+    <l>sarve tīrthābhiṣekāś ca yat kuryāt prāṇināṃ dayā || 112 ||</l>
+  </lg>
+  <lg corresp="#VP65.33">
+    <l><lb n="10"/>dattam iṣṭaṃ tapas taptaṃ tīrthasevā śrutaṃ tathā |</l>
+    <l>sarvāṇy abhayadānasya kalāṃ nārhanti ṣoḍaśīm || 113 ||</l>
+  </lg>
+  <lg corresp="#VP65.48">
+    <l><lb n="11"/>prāṇinaṃ vadhyamānaṃ yaḥ svaśaktiṃ samupekṣate |</l>
+    <l>sa yāti narakaṃ ghoram iti prāhur manīṣiṇaḥ || 114 ||</l>
+  </lg>
+  <lg corresp="#VP65.13">
+    <l><lb n="12"/>lobhād veṣād bhayād vāpi yas tyajet śaraṇāgatam |</l>
+    <l>brahmahatyāsamaṃ tasya pāpam āhur manīṣiṇaḥ || 115 ||</l>
+  </lg>
+  <lg corresp="#VP65.14">
+    <l><lb n="13"/>śāstreṣu niṣkṛtir dṛṣṭā mahāpātakinām api |</l>
+    <l>śaraṇāgatahantavye na dṛṣṭā niṣkṛtiḥ kvacit || 116 ||</l>
+  </lg>
+  <lg>
+    <l><lb n="14"/>yūkāmatkuṇadaṃśādīn_ ye jantūṃs tudatas tanum |</l>
+    <l>putravat parirakṣanti te narāḥ svargagāminaḥ || 117 ||</l>
+  </lg>
+  <lg>
+    <l><lb n="15"/>vane vanadṛṇāhārā prāṇino 'naparādhinaḥ |</l>
+    <l>hantum icchati yo dīnān_ taṃ vidyāt brahmaghātakam || 118 ||</l>
+  </lg>
+  <lg>
+    <l><pb n="5v" facs="12"/><lb n="1"/>govraje vā vane cāpi grāme vā nagare 'pi vā |</l>
+    <l>yo 'gniṃ samutsṛjet mūḍhas taṃ vidyāt_ brahmaghātakam ||| 119 ||</l>
+  </lg>
+  <lg>
+    <l><lb n="2"/>ātmā viṣṇuḥ samastānāṃ vāsudevo jagatpatiḥ |</l>
+    <l>tasmān na vaiṣṇavaiḥ kāryā parihiṃsā viśeṣataḥ || 120 ||</l>
+  </lg>
+</body></text></TEI>

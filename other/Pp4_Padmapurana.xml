@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Padmapurāṇa</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Boston Public Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">3012.103 v.4</idno>
+            <idno type="alternate">
+              <idno>ark:/13960/s2z7jjtp95q</idno>
+            </idno>
+               <idno type="URI">https://archive.org/details/padmapurana04mand</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This is the fourth volume of the edition of the <title xml:lang="sa">Padmapurāṇa</title> as edited by  <persName xml:lang="sa">Viśvanātha Nārāyaṇa Maṇḍalīka</persName>. This copy seems to belong to the Central Archaeological Library in New Delhi, according to the shelfmark.</summary>
+                  
+               <msItem xml:id="Pp4" defective="false"><title xml:lang="sa">Padmapurāṇa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="697">1-12, 1235-1919</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+    <graphic url="https://iiif.archive.org/iiif/padmapurana04mand/manifest.json" facs="517"/></facsimile>
+<text corresp="#Pp4" xml:lang="sa"><body>
+  <pb facs="517" n="1735"/>
+  <lg corresp="#VP65.38">
+    <l><lb n="12"/>tathā ca nānṛtaṃ vākyam aham etad ihoktavān |</l>
+    <l>satyenānena satataṃ prasīdatu maheśvaraḥ || <space/>53</l>
+  </lg>
+</body></text></TEI>

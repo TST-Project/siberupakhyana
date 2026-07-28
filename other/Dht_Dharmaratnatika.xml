@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Dharmaratnaprakaraṇa</title> with the <title xml:lang="sa">Ṭīkā</title> of <persName xml:lang="sa">Devendrasūri</persName></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/s291g4mwxmq</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>This edition of the <title xml:lang="sa">Dharmaratnaprakaraṇsa</title> of <persName xml:lang="sa">Śāntisūri</persName> also contains the <title xml:lang="sa">Ṭīkā</title> of <persName xml:lang="sa">Devendrasūri</persName> as well as an additional Gujarati commentary. Devendrasūri was active in the 13th century, and this commentary may also have been known under the title <title xml:lang="sa">Sukhabodha</title> (Piotr &amp; Balcerowicz 2013, 560).
+</summary>
+                  
+               <msItem xml:id="Dhṭ" defective="false"><title xml:lang="sa">Dharmaratnaṭīkā</title><author xml:lang="sa">Devendrasūri</author><textLang mainLang="san" otherLangs="pra"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="257"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="major" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" when="1906"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Balcerowicz, Piotr, &amp; Karl H. Potter, eds. 2013. <title>Encyclopedia of Indian Philosophies, Volume XIV: Jain Philosophy (Part II).</title> Delhi: Motilal Banarsidass.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/dharmaratnatika-part-1/manifest.json" facs="249"/></facsimile>
+<text corresp="#Dhṭ" xml:lang="sa"><body>
+<pb facs="249" n="248"/>
+  <p><lb n="10"/>(tathācoktaṃ)</p>
+  <lg corresp="#VP65.28">
+    <l><lb n="11"/>neha bhūyas tayo dharma, s tasmād anyo sti bhūtale,</l>
+    <l><lb n="12"/>prāṇināṃ bhayabhītānā, m abhayaṃ yat pradīyate. 51</l>
+  </lg>
+  <lg corresp="#VP65.30">
+    <l><pb facs="250" n="249"/><lb n="1"/>hema dhenudharā dīnāṃ, dātāraḥ sulabhā bhuvi,</l>
+    <l><lb n="2"/>durlabhaḥ puruṣo loke, yaḥ prāṇiṣv abhayapradaḥ 52</l>
+  </lg>
+  <lg corresp="#VP65.31">
+    <l><lb n="3"/>mahatā m api danānāṃ, kāḷena kṣīyate phaḷaṃ,</l>
+    <l><lb n="4"/>bhītābhaya pradānasya, kṣaya eva na vidyate. 53</l>
+  </lg>
+  <lg corresp="#VP65.33">
+    <l><lb n="5"/>datta m iṣṭaṃ tapa s taptaṃ, tīrthasevā tathā śrutaṃ,</l>
+    <l><lb n="6"/>sarvā ṇyabhayadānasya, kaḷāṃ nārhaṃti ṣoḍaśīṃ. 54</l>
+  </lg>
+  <lg corresp="#VP65.27 #Is4.3">
+    <l><lb n="7"/>ekataḥ kratavaḥ sarve, samagrā varadakṣiṇāḥ</l>
+    <l><lb n="8"/>ekato bhayabhītasya, prāṇinaḥ prāṇarakṣaṇaṃ. 55</l>
+    </lg>
+  <lg corresp="#VP65.44">
+    <l><lb n="9"/>sarve vedāna tat kuryuḥ, sarve yajñā yathoditāḥ</l>
+    <l><lb n="10"/>sarve tīrthābhiṣekā ś ca, yat_ kuryāt_ prāṇināṃ dayā. 56</l>
+  </lg>
+</body>
+</text></TEI>

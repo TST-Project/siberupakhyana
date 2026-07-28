@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Itihāsasamuccaya</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Lalchand Research Library, DAV College</orgName>
+                  </repository>
+                  <idno type="shelfmark">M-2866</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://dav.splrarebooks.com/collection/view/itihasasamuchchayah-mahabharatagatah1</idno></msIdentifier>
+               <msContents class="#STM">
+            <summary>This is a paper manuscript of the <title xml:lang="sa">Itihāsasamuccaya</title>.</summary>
+                  
+               <msItem xml:id="Is-D11" defective="false"><title xml:lang="sa">Itihāsasamuccaya	</title><textLang mainLang="san"/><finalRubric xml:lang="sa"><pb n="67r"/><lb n="16"/>iti śrī itihāsasamuccaye vahulīvyāghrasaṃvādo nāma dvātriśo dhyāyaḥ 32</finalRubric><colophon xml:lang="sa"><pb n="67r"/><lb n="16"/><gap reason="ellipsis"/>śubhaṃm astu oṃ tat sadya brahma</colophon></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="67"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="14 16"/></layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="devanagari" medium="ink black"/></handDesc><typeDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+  <facsimile/>
+  <text corresp="#Is-D11" xml:lang="sa">
+    <body>
+      <pb n="9v"/>
+      <p xml:id="Is4-p1"><lb n="9"/>vaiśaṃpāyana uvāca</p>
+      <lg xml:id="Is4.1">
+        <l>kathayaṃtaṃ hitārthā<add place="left-margin">ya</add> prabhāvānadbhutān muniṃ</l>
+        <l>lomaśaṃ dharmatatvajñaṃ paryyapṛcha yudhiṣṭi<lb n="10"/>raḥ 1</l>
+      </lg>
+      <p xml:id="Is4-p2">yudhiṣṭara uvāca</p>
+      <lg xml:id="Is4.2">
+        <l>yo rakṣet prāṇinaṃ brahman_ bhayārttaṃ śaraṇāgataṃ</l>
+        <l>tasya puṇyaphalaṃ yat syāt tan mai <lb n="11"/>brūhi mahāmune 2</l>
+      </lg>
+      <p xml:id="Is4-p3">lomaśa uvāca</p>
+      <lg xml:id="Is4.3" corresp="#VP65.27 #Mbh131.5bis">
+        <l>ekataḥ kratavaḥ sarve samagrāvaradakṣaṇā</l>
+        <l>ekato bhayabhītatasya <lb n="12"/>prāṇinaḥ prāṇarakṣaṇaṃ 3</l>
+      </lg>
+      <lg xml:id="Is4.4">
+        <l>evam eva purā devās tulaya samatolayat_</l>
+        <l>prāṇarakṣaṇam eveha gauraveṇa<lb n="13"/>tiricyate</l>
+      </lg>
+      <lg xml:id="Is4.5">
+        <l>atraivodāharaṃtīmam itihāsaṃ purātanaṃ</l>
+        <l>iṃdrasyāgneś ca saṃvādaṃ śiver auśīnarasya 4</l>
+      </lg>
+      <lg xml:id="Is4.6" corresp="#Mbh130.19">
+        <l><lb n="14"/>vartamāne mahāyajñe jijñāsārthe śiviṃ nṛpaṃ</l>
+        <l>iṃdraḥ śyenaḥ kapoto gnir bhūtvā tatraiva jagmatuḥ 5</l>
+      </lg>
+      <lg xml:id="Is4.7" corresp="#VP65.3 #Mbh130.20">
+        <l>samī<lb n="15"/>paṃ nṛpateḥ prāpya kapotaḥ śyenato bhayāt_</l>
+        <l>śaraṇārthī mahīpālaṃ nililye bhayavihvalaḥ 6</l>
+      </lg>
+      <lg xml:id="Is4.8">
+        <l>tataḥ śanai<pb n="10r"/><lb n="1"/>r upagamya śyenarūpī surotamaḥ</l>
+        <l>rājānaṃ taṃ mahātmānaṃ provācedaṃ vacas tadā 7</l>
+       </lg>
+      <p xml:id="Is4-p4">śyena uvāca</p>
+      <lg xml:id="Is4.9" corres="#VP65.6 #Mbh131.1">
+        <l>dharmiṇāṃ prāhur evaikaṃ tvāṃ <lb n="2"/>hi sarvamahīkṣatāṃ</l>
+        <l>sa tvaṃ dharmaṃ viruddhaṃ hi kathaṃ <unclear>kartu</unclear> mahichasi</l>
+      </lg>
+      <lg xml:id="Is4.11" corresp="#VP65.10">
+        <l>nopakāraparo py evam upakāraparo yathā</l>
+      </lg>
+      <lg xml:id="Is4.12">
+        <l>ahite <lb n="3"/>hitabuddhis tvaṃ pāpe pi tvam apāpakṛt_</l>
+        <l>doṣānveṣaṇa<del><unclear>sa</unclear></del>dakṣo pi guṇānveṣaṇatatparaḥ</l>
+      </lg>
+      <lg xml:id="Is4.13">
+        <l>tadoṣa<add>ḥ</add> vihito bhakṣaḥ <lb n="4"/>pīḍyāmānasya me kṣudhā</l>
+        <l>mā hiṃse lobhato dharmam enam utsṛja bhūpate</l>
+      </lg>
+      <p>rājovāca</p>
+      <lg>
+        <l>saṃtrastarūpas trāṇārthī <lb n="5"/>tvato bhīto vihaṃgama</l>
+        <l>matsukāśam anuprāptaḥ prāṇagṛdhnurayaṃ khagaḥ</l>
+      </lg>
+      <lg>
+        <l>tad evam āgatasyāsya kapotasya <lb n="6"/>bhayāt tava</l>
+        <l>kathaṃm asmadvidhaḥ kuryāt tyāgaṃ sadbhir vigarhrataṃ</l>
+      </lg>
+      <lg corresp="#VP65.13">
+        <l>lobhād veṣad bhayād vāpi yasmajetcharaṇā<del><gap reason="illegible" quantity="2" unit="akṣara"/></del><lb n="7"/><add place="left-margin">ga</add>taṃ</l>
+        <l>brahmahatyāsamaṃ <add place="left-margin">tasya</add> pāpam āhur manīṣiṇaḥ</l>
+      </lg>
+      <lg corresp="#VP65.14">
+        <l>śāstreṣu niṣkṛtir dṛṣṭā mahāpātikinām api</l>
+        <l>śaraṇaga<lb n="8"/>tāhaṃtṛṇāṃ na daṣṭā niṣkṛtiḥ kvacit_</l>
+      </lg>
+      <lg corresp="#VP65.15">
+        <l>yathātmanaḥ priyāḥ prāṇāḥ sarveṣāṃ prāṇināṃ tathā</l>
+        <l>tasmā<lb n="9"/>n_ mṛtyubhayatrastās trātavyāḥ prāṇino budhaiḥ</l>
+      </lg>
+      <lg corresp="#VP65.16">
+        <l>janmamṛtyujarāduḥ<unclear>khai ni</unclear>tyaṃ saṃsārasāgare</l>
+        <l>jaṃtavaḥ <del>pa</del><lb n="10"/>parikliśyaṃti mṛtyos trasyaṃti te dhikaṃ</l>
+      </lg>
+      <lg corresp="#VP65.17">
+        <l>yan nimittaṃ bhavet chokas trāso vā krodha eva ca</l>
+        <l>ā<del><gap reason="illegible" quantity="1" unit="akṣara"/></del>yāso <lb n="11"/>vā yato mūlam ekāham api taṃ tyajet_</l>
+      </lg>
+      <lg corresp="#VP65.18">
+        <l>mariṣyāmīti duḥkhaṃ puruṣasyopajāyate</l>
+        <l>yuktaṃ tenānumā<lb n="12"/>nena paro pi parirakṣaṇaṃ</l>
+      </lg>
+      <lg corresp="#VP65.19">
+        <l>yathā hi te jīvitam ātmanaḥ priyaṃ tathā pareṣām api jīvataṃ priyaṃ</l>
+        <l>saṃrakṣase <lb n="13"/>jīvitam ātmano yathā tathā pareṣām api rakṣa jīvataṃ</l>
+      </lg>
+      <lg corresp="#VP65.20">
+        <l>tasmān nāham imaṃ bhīta<unclear>m a</unclear>rpayiṣye kapota<lb n="14"/>kaṃ</l>
+        <l>yad atra yuktam anyat syātya śyenāśu tad vada</l>
+      </lg>
+      <p>śyena uvāca</p>
+      <lg corresp="#VP65.21">
+        <l>ahārāt sarvabhūtāni saṃbhavaṃti nareśva<lb n="15"/>ra</l>
+        <l>āhāreṇa vi<add place="left-margin">va</add>rddhaṃte tena jīvaṃti jaṃtavaḥ</l>
+      </lg>
+      <lg corresp="#VP65.22">
+        <l>śakyaṃte ca vinā sarvaṃ rājan_ varttayituṃ ciraṃ</l>
+        <l>na tv āhāra<pb n="10v"/><lb n="1"/>vihīnena na śakyaṃ varttayatuṃ | kvacit_</l>
+      </lg>
+      <lg corresp="#VP65.23">
+        <l>bhakṣād vinaśyaṃ<add place="above">ti</add> mama prāṇā viśāṃ pate<del>bhakṣād vilopita<lb n="2"/>syāsya</del></l>
+        <l>visṛjya kāyaṃ gachaṃti paṃthānam apunarbhavaṃ</l>
+      </lg>
+      <lg corresp="#VP65.24">
+        <l>mṛte mayy api sarvaṃ me putradāraṃ mariṣyati</l>
+        <l>rakṣya<lb n="3"/>māṇaḥ kapotaṃ tvaṃ bahūna prāṇān_ jighaṃsasi</l>
+      </lg>
+      <lg corresp="#VP65.25">
+        <l>dharmaṃ yo bādhate dharmo na sa dharma<add>ḥ</add> paraṃtapa</l>
+        <l>aviro<lb n="4"/>dhāya yo dharmma sa dharmmaḥ sadbhir ucyate</l>
+      </lg>
+      <lg corresp="#VP65.26">
+        <l>tasmād virodhi dharmmasya viciṃtya gurulāghavaṃ</l>
+        <l>yataḥ śreya<lb n="5"/>s tato rājan_ kuru dharmmavinirṇayaṃ</l>
+      </lg>
+      <p corresp="#VP65-p3">rājovāca</p>
+      <lg>
+        <l>bahukalyāṇasaṃyuktaṃ bhāṣase vi<add place="right-margin">haṃ</add>gottama</l>
+        <l>supa<lb n="6"/>rṇapakṣarāṭ_</l>
+      </lg>
+      <lg>
+        <l>tvāṃ lakṣayāmy ahaṃ</l>
+      </lg>
+      <lg corresp="#VP65.28">
+        <l>nāsmād bhūyas tāto dharma kaścid anyo sti ṣecara</l>
+        <l>prāṇināṃ bhayabhī<lb n="7"/>tānam abhayaṃ yat pradīyate</l>
+      </lg>
+      <lg corresp="#VP65.32">
+        <l>abhayaṃ sarvabhūtānāṃ yo dadāti da<subst>y<del rend="implied">a</del><add>ā</add></subst>paraḥ</l>
+        <l>tasya dehād vimuktasya na bha<lb n="8"/>yaṃ vidyate kvaccat</l>
+      </lg>
+      <lg corresp="#VP65.30">
+        <l>hemadhenudhanādīnāṃ dātāraḥ sulabhā bhuvi</l>
+        <l>durlabhāḥ puruṣā loke sarvabhūtā<lb n="9"/>bhayapradāḥ</l>
+      </lg>
+      <lg corresp="#VP65.31">
+        <l>mahātām api yajñānāṃ kālena jñīyate phalaṃ</l>
+        <l>bhītābhayapradānasya nā sa eva vidyate</l>
+      </lg>
+      <lg corresp="#VP65.33">
+        <l><lb n="10"/>dattam iṣṭaṃ tapas taptaṃ tīrthasevādikās tathā</l>
+        <l>sarvā<subst>ṇ<del>i</del></subst>y abhayadānasya kalāṃ nārhraṃti ṣoḍaśīṃ</l>
+      </lg>
+      <lg corresp="#VP65.34">
+        <l>catuḥ<lb n="11"/>sāgaraparyaṃtāṃ dadāti pṛthivīm imāṃ</l>
+        <l>abhayaṃ yaś ca bhūtebhyo hy adhiko 'bhayadāyakaḥ</l>
+      </lg>
+      <lg corresp="#VP65.35">
+        <l>pratityajye<lb n="12"/>d rājyam idaṃ śarīram api dustyajaṃ</l>
+        <l>na tv idaṃ bhayasaṃtrastaṃ tyaje dīnaṃ kapotakaṃ</l>
+      </lg>
+      <lg corresp="#VP65.37">
+        <l>na hy ahaṃ kāmaye rājyaṃ na <lb n="13"/>svargaṃ na purnabhavaṃ</l>
+        <l>prāṇināṃ dukhatapatānāṃ kāmaye dukhanāśanaṃ</l>
+      </lg>
+      <lg corresp="#VP65.38">
+        <l>tathā ca nānṛtā vāṇī mayai<lb n="14"/>vā samudāhṛtā</l>
+        <l>satyena tena bhagavān_ prasīdatu same hariḥ</l>
+      </lg>
+      <lg corresp="#VP65.29">
+       <l>varam ekasya satvasya pradattā'bhayadakṣiṇā</l>
+       <l><pb n="11r"/><lb n="1"/>na tu viprasahasrasya gosahasram alaṃkṛtaṃ</l>
+      </lg>
+      <lg corresp="#VP65.15">
+        <l>yathātmanaḥ priyāḥ priṇāḥ sarveṣāṃ prāṇināṃ tathā</l>
+        <l>tasmāt mṛtyu<lb n="2"/>bhayatrastās trātavyāḥ prāṇino budhaiḥ</l>
+      </lg>
+      <lg corresp="#VP65.13">
+        <l>lobhād veṣad bhayād vāpi yas tyajet charaṇāgataṃ</l>
+        <l>brahmahatyāsamaṃ tasya pā<lb n="3"/>pam āhur manīṣiṇaḥ</l>
+      </lg>
+      <lg corresp="#VP65.18">
+        <l>mariṣyāmiti yadukhaṃ puruṣasyopajāyate</l>
+        <l>jñeyas tenānumānena pare pi parira<lb n="4"/>kṣiṇaṃ</l>
+      </lg>
+      <lg corresp="#VP65.39">
+        <l>āhārārthe samāraṃbhas tava cāyaṃ vihaṃgama</l>
+        <l>yadya<add place="top-margin">the</add>ṣṭaṃ tavāhāram manyase tad dadāmy ahaṃ</l>
+      </lg>
+      <p>śyena uvāca</p>
+      <lg>
+        <l><lb n="5"/>ya evaṃ racito smākaṃ dhātrā bhakṣāḥ kapotakaḥ</l>
+        <l>taṃ parityajya nāhāraiḥ kāryyam asty aparair api</l>
+      </lg>
+      <lg corresp="#VP65.41">
+        <l>śyenaḥ ka<lb n="6"/>potān_ khādaṇti śrutir eṣa sanatanī</l>
+        <l>mā rājan_ sārasaṃ jñātvā kadalīstaṃbham āruha</l>
+      </lg>
+      <p>rājovāca</p>
+      <lg correps="#VP65.42">
+        <l>nāhaṃ <lb n="7"/>kuśāstramārgeṇa kvacid vartte vihaṃgama</l>
+        <l>śāstrair evoditaś citra dharma<del>ḥ</del> satyadayāparaḥ</l>
+      </lg>
+      <lg corresp="#VP65.43">
+        <l>sarvasatveṣu yad dā<lb n="8"/>nam ekasatve ca yā dayā</l>
+        <l>sarvasatvapradānād dhi dayaikā ca viśiṣyate</l>
+      </lg>
+      <lg corresp="#VP65.44">
+        <l>sarve vedāḥ na tat kuryuḥ sarve yajñā<lb n="9"/>ś ca khecara</l>
+        <l>sarvatīrthābhiṣakāś ca yat kuryāt prāṇināṃ dayā</l>
+      </lg>
+      <lg corresp="#VP65.45">
+        <l>vāṅmanaḥkarmabhir ye tu sarvabhūtahite ra<lb n="10"/>tāḥ</l>
+        <l>dayādarśitapaṃthāno brahmalokaṃ vrajaṃti te</l>
+      </lg>
+      <lg corresp="#VP65.46">
+        <l>gachato tiṣṭato vāpi jāgrata svapato pi vā</l>
+        <l>yan na <lb n="11"/>bhūtahitārthāya tat paśor iva ceṣṭate</l>
+      </lg>
+      <lg corresp="#VP65.47">
+        <l>jaṃgamāni ca bhūtāni sthāvarāṇi ca ye narāḥ</l>
+        <l>ātmavatparira<lb n="12"/>kṣaṃti te yāṃti paramāṃ gatiṃ</l>
+      </lg>
+      <lg corresp="#VP65.48">
+        <l>prāṇanāṃ bādhyamānānāṃ yaḥ śaktaḥ samupekṣate</l>
+        <l>sa yāti narakaṃ ghoraṃm iti <lb n="13"/>prāhur manīṣiṇaḥ</l>
+      </lg>
+      <lg corresp="#VP65.19">
+        <l>yathā ca te jīvatam ātmanaḥ priyaṃ tathā pareṣām api jīvitaṃ prayaṃ</l>
+        <l>saṃrakṣise jīvatam ātma<lb n="14"/>no yathā <add place="left-margin">tathā</add> pareṣā<subst>m<del>i</del><add> a</add></subst>pi rakṣitavyaṃ</l>
+      </lg>
+      <lg corresp="#VP65.49">
+       <l>api tyaje rājyam idaṃ śarīraṃm api duḥstyajaṃ</l>
+       <l>yad vā kāmayase cānya<lb n="15"/>d varjayitvā kapotakaṃ</l>
+      </lg>
+      <p>śyena uvāca ||</p>
+      <lg corresp="#VP65.50">
+        <l>yadi rājan_ kapote te sudṛḍhā bhaktir īdṛśī</l>
+        <l>ta<sic>to</sic> kapotatulyāni svamāṃsāni prayacha me</l>
+      </lg>
+      <p><pb n="11v"/><lb n="1"/>rājovāca</p>
+      <lg corresp="#VP65.51">
+        <l>anugraham imaṃ manye ya tvaṃ śyenābhāṣasi</l>
+        <l>etat te haṃ <unclear>prapri</unclear>chāmi svamāṃ<subst><del>sā</del><add>saṃ</add></subst><del>ni prayacha me</del> yavad icha<lb n="2"/>si</l>
+      </lg>
+      <lg>
+        <l>yad apriyaṃ tat sujanaś cirād vadati vā na vā</l>
+        <l>mamātipriyam evaitat kasmād abhihitaṃ cirāt_</l>
+      </lg>
+      <lg corresp="#VP65.53">
+        <l>adhruveṇa <lb n="3"/>śarīreṇa pratikṣaṇavināśine</l>
+        <l>yenāpramārjayed dharmaṃ sa śocyo mūḍhacetanaḥ</l>
+      </lg>
+      <lg corresp="#VP65.54">
+        <l>yadi prāṇyupakārāya <lb n="4"/>deho yaṃ na pajujyate</l>
+        <l>tata kim upacāro sya pratyahaṃ kriyate vṛthā</l>
+      </lg>
+      <p>śyena uvāca</p>
+      <lg>
+        <l>nātiriktam ahaṃ yāce <lb n="5"/>tava māṃsaṃ nareśvara</l>
+        <l>tasmāt kapotena samaṃ pṛyaccha tulayā dhṛtaṃ</l>
+      </lg>
+      <p>rājovāca</p>
+      <lg>
+        <l>tac caivāhaṃ kariṣyāmi ya<lb n="6"/>n māṃ śyenābhibhāṣase</l>
+        <l>yenāsya rakṣaṇaṃ me syāt tadāsye haṃ vihaṃgama</l>
+      </lg>
+      <lg corresp="#VP65.55">
+        <l>evam uktā svamāṃsāni samutkṛtya <lb n="7"/>sa pārthivaḥ</l>
+        <l>prahṛṣṭas to<del><gap reason="illegible" quantity="1" unit="akṣara"/></del>layāmāsa kapotena samaṃ prabhuḥ</l>
+      </lg>
+      <lg corresp="#VP65.56">
+        <l>muktvātmasukhabhogechāṃ sarvasatvasukhai<lb n="8"/>ṣiṇaḥ</l>
+        <l>bhavaṃti paraduḥkhena sādhavo nityaduḥkhitāḥ</l>
+      </lg>
+      <lg corresp="#VP65.57">
+        <l>dhṛ<del>r</del>yamāṇaḥ sa tulayāta kapote vyatparicyate</l>
+        <l><lb n="9"/>punaś cotkṛtya māṃsāni tataḥ prādāt sa pārthivaḥ</l>
+      </lg>
+      <lg corresp="#VP65.58">
+        <l>na vidyate yadā māṃsaṃ kapotena samaṃ kvacit_</l>
+        <l>tataḥ <lb n="10"/>prakṣīṇamāṃso sau cāruroha svayaṃ tulāṃ</l>
+      </lg>
+      <lg corresp="#VP65.60">
+        <l>paramadukhāturā nityaṃ sarvabhūtahite rataḥ</l>
+        <l>nopekṣaṃte mahā<lb n="11"/>tmānaḥ svasukhāni mahānyāpi</l>
+      </lg>
+      <lg corresp="#VP65.64">
+        <l>atha tasmin samārūḍhe tulām auśīnare nṛpa</l>
+        <l>devaduṃdabhayo neduḥ pu<lb n="12"/>ṣpavṛṣṭi papāta ca</l>
+      </lg>
+      <lg corresp="#VP65.65">
+        <l>tataś cāsya tadā matvā dharmabuṃddhiṃ sudurlabhā</l>
+        <l>śakraḥ svarūpam āsthāya vākye me tad a<lb n="13"/>bhāṣat_</l>
+      </lg>
+      <lg corresp="#VP65.66">
+        <l>iṃdro ham asmi bhadraṃ te kapoto havyavāhanaḥ</l>
+        <l>jijñāsamāṃnau tvāṃ rājann imaṃ yajñam upāgatau</l>
+      </lg>
+      <lg corresp="#VP65.67">
+        <l>naitat_ <lb n="14"/>pūrve nṛpaś cakrur na kariṣyaṃti cāpare</l>
+        <l>mahākāruṇakeneha yat kṛtaṃ tvayā</l>
+      </lg>
+      <lg corresp="#VP65.68">
+        <l>parārthe tyajataḥ prāṇān_ <lb n="15"/>yā kīrtibhava<subst><add place="below">tas tava</add><del>sāda</del></subst></l>
+        <l>prāṇarakṣaṇalubdhānāṃ na sā praṇeṣu dehināṃ</l>
+      </lg>
+      <lg corresp="#VP65.69">
+        <l>parārthe kāṃtakalyāṇī svārthe cātyaṃtaniṣṭuraḥ</l>
+        <l><pb n="12r"/><lb n="1"/>tvayyaiva kevalo rājan_ karuṇā taruṇāyate</l>
+      </lg>
+      <lg corresp="#VP65.70">
+        <l>svakarmapāśaiḥ sudṛ<del><gap reason="illegible" quantity="1" unit="akṣara"/></del>ḍhaiḥ baddhaṃ kṛtsnam idaṃ jagat_</l>
+        <l>tvaṃ jagat_<lb n="2"/>duḥkhamokṣārthī baddhā<add place="below">ḥ</add> karuṇaya nṛpa</l>
+      </lg>
+      <lg>
+        <l>paropakārajanamāno vidhātrā vihitās tu ye</l>
+        <l>sajalā jaladās tvaṃ <lb n="3"/>ca saphalāś ca mahādrumāḥ</l>
+      </lg>
+      <lg corresp="#VP65.74">
+        <l>ātmaprāṇaiḥ paraprāṇān_ yo naraḥ parirakṣati</l>
+        <l>sa yāti paramaṃ dhāmayato nā<lb n="4"/>varttate punaḥ</l>
+      </lg>
+      <lg corresp="#VP65.75">
+        <l>prāṇaiḥr api tvayā rājan_ rakṣataḥ kṛpaṇaḥ khagaḥ</l>
+        <l>svamāṃsāny api dattāni dravyeṣv anyeṣu kā kathā</l>
+      </lg>
+      <lg corresp="#VP65.76">
+        <l><bl n="5"/>paśavo pi hi jīvaṃti kevalātmodaraṃ bharāḥ</l>
+        <l>sa punar bhavatā ślāghyā yaḥ parārthaṃ tu jīvati</l>
+      </lg>
+      <lg corresp="#VP65.55">
+        <l>kim u tatra svamāṃ<lb n="6"/>sāni samut<add place="left-margin">krṭa</add> sa pārthivaḥ</l>
+        <l>prahṛṣṭas tolayāmāsa kapotena samaṃ tadā</l>
+      </lg>
+      <lg corresp="#VP65.77">
+       <l>naitad vicitraṃ yat saṃtaḥ parārthaikāgratatpa<lb n="7"/>rāḥ</l>
+       <l>na hi svadehasevyārthe jāyaṃte caṃdanadrumāḥ</l>
+      </lg>
+      <lg corresp="#VP65.78">
+        <l>paropakāravyāpāro yaḥ sadā puruṣo bhavet_</l>
+        <l>saṃpadaṃ tad avā<lb n="8"/>pnoti parād api hi yat paraṃ</l>
+      </lg>
+      <lg corresp="#VP65.80">
+        <l>yat te māṃsāni gātrebhyaḥ samutkṛṃtāni pārthiva</l>
+        <l>eṣā te śāśvatī kīrtiḥ lokā<lb n="9"/>n a<unclear>nu</unclear>gamiṣyati</l>
+      </lg>
+      <lg corresp="#VP65.79">
+        <l>paropakāraikadhiyaḥ svasukhe<add place="above"><unclear>ṇa</unclear></add> gataspṛhāḥ</l>
+        <l>jagaddhitāya jāyaṃte sadhavas tv ādṛśā bhuvi</l>
+      </lg>
+      <lg corresp="#VP65.81">
+        <l>divyarūpadharāś caiva pālayitvā ca medanīṃ</l>
+        <l>sarvān_ lokān atikramya brahmalokaṃ gamiṣyati</l>
+      </lg>
+      <p>lomaśa u<lb n="10"/>vāca</p>
+      <lg corresp="#VP65.82">
+        <l>evam uktā tam iṃdrāgnī jagmatus tridaśālayaṃ</l>
+        <l>rājā tu kratum utthāya mumude devavat_ ciraṃ</l>
+      </lg>
+      <lg corresp="#VP65.83">
+        <l><lb n="11"/>ya idaṃ śṛṇuyā nityaṃ śiveś caritam uttamaṃ</l>
+        <l>sā vidhūyeha pāpāni prayāti tridivaṃ nṛpa</l>
+      </lg>
+      <lg>
+        <l>viciṃtya rājā sva<lb n="12"/>śarīram adhruvaṃ yaśaś ca sarvasya janasya durlabhaṃ</l>
+        <l>śarīradānāt parajīvarakṣaṇaṃ vidhāya lokatraya<lb n="13"/>pūjitāṃ yayau</l>
+      </lg>
+      <p>iti śrī itihāsasamuccaye śivicaritaṃ nāma caturtho dhyāyaḥ 4</p>
+</body></text></TEI>

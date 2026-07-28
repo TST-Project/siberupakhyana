@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Padmapurāṇa</title>	</title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Jangamwadi Math Collection</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/t6j19sb43</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/sri-padma-maha-purana-part-2-bhumi-khanda-printed-khemraj-1895-jangamwadi-math-collection</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This is the second volume of the <title xml:lang="sa">Padmapurāṇa</title>, edited by <persName xml:lang="sa">Goviṃda Śāstrī</persName> and published by <term xml:lang="sa">Śrīveṃkaṭeśvara</term> Press in <term xml:lang="sa">śake 1816</term>. It was digitized by eGangotri on 2020.</summary>
+                  
+               <msItem xml:id="Pp" defective="false"><title xml:lang="sa">Padmapurāṇa</title><textLang mainLang="san"/><colophon xml:lang="sa"><pb n="117v" facs="238"/>
+<lb n="15"/>idaṃ padmapurāṇabhūmikhaṇḍaṃ khānadeśiyarāveragrāmanivāsiparaśurāmabhaṭṭatanayagoviṃdaśāstriṇā prācīnādarśapustakaiḥ paṇḍitajanasāhāyyaṃ gṛhītvā saṃśodhitam <lb n="16"/>tad etat ― śrīkṛṣṇadāsātmajakhemarājaśreṣṭhinā muṃbayyāṃ svakīye “śrīveṅkaṭeśvara” nāmni mudraṇālaye mudrayitvā prakāśamānīyata || śake 1816</colophon></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="movable-type">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="758"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  <desc type="copy-statement" subtype="beginning"><locus facs="2">cover</locus>: <q xml:lang="hi">isa pustakakā saba adhikāra 1867 ke 25 əkṭake anusāra rajiṣṭara karikai yantrādhikārineṃ apane svādhīna rakkhe haiṃ.</q></desc></additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" notBefore="1894" notAfter="1895">Śaka saṃvat 1816.</origDate>
+                     <origPlace>Mumbai</origPlace>
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration. ə for Devanāgarī ऍ.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/sri-padma-maha-purana-part-2-bhumi-khanda-printed-khemraj-1895-jangamwadi-math-collection/manifest.json"/></facsimile>
+<text corresp="#Pp" xml:lang="sa"><body>
+  <pb n="92v" facs="189"/>
+  <lg>
+    <l>ksụdhātṛṣāvihinās te viṣṇulokaṃ vrajaṃti vai ||</l>
+  </lg>
+  <lg corresp="#VP65.40bis">
+    <l><lb n="2"/><gap reason="ellipsis"/>tasmāt tvam api rājeṃdra dehi nyāyārjitaṃ dhanam || 30 ||</l>
+    <l><lb n="3"/>dānāj jñānaṃ tataḥ prāpya jñānāt siddhiṃ prayāsyati ||</l>
+  </lg>
+  <lg>
+    <l>ya idaṃ śṛṇu yān martyaḥ puṇyākhyānam anuttamam || 31 ||</l>
+  </lg>
+</body></text></TEI>

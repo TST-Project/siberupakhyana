@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Itihāsasamuccaya</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Jawaharlal Nehru Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">Acc. No. 53524</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://www.pandulipipatala.nic.in/manus/search-view?id=MzAxMTkwNQ%3D%3D</idno></msIdentifier>
+               <msContents class="#STM">
+            <summary>This is a paper manuscript of the <title xml:lang="sa">Itihāsasamuccaya</title>. Only the beginning of the <foreign xml:lang="sa">śyenakapotīya</foreign> has been preserved.</summary>
+                  
+            
+          <msItem xml:id="Is-D8" defective="true"><title xml:lang="sa">Itihāsasamuccaya</title><textLang mainLang="san"/><finalRubric xml:lang="sa"><pb n="90v"/><lb n="4"/><gap reason="ellipsis"/>itihasasamuccaye naradapuṇḍarīkasaṃvādo nāma dvātriṃśatamo dhyāyaḥ 32</finalRubric><colophon xml:lang="sa"><pb n="90v"/><lb n="4"/><gap reason="ellipsis"/>bhagraprṣṭi<lb n="5"/>kaṭigrīvās tac ca dṛṣṭir adhomukhaḥ <space/> kṛṣṭinaliṣataṃ śāstraṃ putravat_ parirakṣayet <space/> likhitaṃ¦ <lb n="6"/>jīvanamiśrakāśmīrī saṃvata 18<space/>52 phālguṇaśutipratipadā <space/> śubhaṃ <space/> śubham astu <space/> rama <lb n="7"/>graṃthapāṭasaṃkhyā 2ꣻꣻꣻ5ꣻꣻ</colophon></msItem></msContents>
+               <physDesc>
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper">
+                     <support>
+                        <p>Leaf dimensions from the catalog entry.</p></support><extent>
+                           <measure unit="folio" quantity="85">missing 13–14, as well as some others. Ends at folio 90.</measure>
+                           <dimensions type="object" unit="mm">
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                            <width quantity="310"/>
+                            <height quantity="152"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                      <layout writtenLines="12 13"/>
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="devanagari" medium="ink black"/></handDesc><typeDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+               <origin>
+              <origDate calendar="gregorian" when="1796">Saṃvat 1852, Phālguṇa. Assuming Vikrama era.</origDate>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+  <text corresp="#Is-D8" xml:lang="sa">
+    <body>
+      <p xml:id="Is4-p1"><pb n="10r"/><lb n="5"/><gap reason="ellipsis"/>vaiśaṃpāyana uvāca <space/></p>
+      <lg xml:id="Is4.1">
+        <l>kathayantīha tīrthānāṃ prabhāvān adbhutāṃs tathā <space/></l>
+        <l><lb n="6"/>lomasaṃ dharmmatatvajñaṃ paryapṛchad yudhiṣṭiraḥ <space/></l>
+      </lg>
+      <p xml:id="Is4-p2">yudhiṣṭira uvāca <space/></p>
+      <lg xml:id="Is4.2">
+        <l>yo rakṣet prāṇinaṃ brahman bhayārttaṃ saraṇāga¦<lb n="7"/>taṃm <space/></l>
+        <l>tasya puṇyaphalaṃ yat syā tan me brūhi tapodhana <space/></l>
+      </lg>
+      <p xml:id="Is4-p3">lomaśa uvaca <space/></p>
+      <lg xml:id="Is4.3" corresp="#VP65.27 #Mbh131.5bis">
+        <l>ekataḥ kratavaḥ sarvve samagravaradakṣeṇāḥ</l>
+        <l><lb n="8"/>ekato bhayabhītānāṃ prāṇināṃ prāṇarakṣaṇaṃ <space/></l>
+      </lg>
+      <lg xml:id="Is4.4">
+        <l>idam eva purā devās tulayā samatolayan_ <space/></l>
+        <l>prāṇarakṣaṇam eveha <lb n="9"/>gauraveṇāteꣻdhyate <space/></l>
+      </lg>
+      <lg xml:id="Is4.5">
+        <l>tatraivodāharaṃtīmam itihāsaṃ purātanaṃ <space/></l>
+        <l>indrasyāgneś ca saṃvādaṃ śiver auśīnarasya ca</l>
+      </lg>
+      <lg xml:id="Is4.6" corresp="#Mbh130.19">
+        <l>va<lb n="10"/>rttamāne samaꣻ jijñāsārthaṃ śiviṃ nṛpaṃ <space/></l>
+        <l>indra syenaḥ kapoto gnir bhūtvā tatropajagmatuḥ <space/></l>
+      </lg>
+      <lg xml:id="Is4.7" corresp="#VP65.3 #Mbh130.20">
+        <l>atha taṃ nṛpatiṃ prāpya <lb n="11"/>kapo<subst>t<del>ā</del><add rend="implied">a</add></subst>ḥ śyenayād bhayāt_ <space/></l>
+        <l>śaraṇārthaṃ mahīpālaṃ nelilye bhayavihvalaḥ <space/></l>
+      </lg>
+      <lg xml:id="Is4.8">
+        <l>tataḥ śanair upāgamya śyenarūpī <lb n="12"/>sureśvaraḥ <space/></l>
+        <l>rājānaṃ sumahātmānaṃ provācedavas tadā <space/></l>
+       </lg>
+      <p xml:id="Is4-p4">śyena uvāca <space/></p>
+      <lg xml:id="Is4.9" corresp="#VP65.6 #Mbh131.1">
+        <l>dharmmātmānam tvām āhu sarvve rājan mahīkṣi<lb n="13"/>taḥ <space/></l>
+        <l>sa tvaṃ dharmmaviruddhaṃ hi kathaṃ dharmma cikīrṣasi <space/></l>
+      </lg>
+      <lg xml:id="Is4.10" corresp="#VP65.7">
+        <l><unclear>bhavā</unclear>n kṛtaghnaṃ dānena satyenānṛtayādinaṃ <space/></l>
+        <l>kṣa<subst>m<del>ā</del><add rend="implied">a</add></subst>yā krūraka<lb n="14"/>rmāṇaṃm asādhuṃ sādhunā jayet <space/></l>
+      </lg>
+      <lg xml:id="Is4.11" corresp="#VP65.10">
+        <l>nopakāraṃ paro py ecam apakāraparo janaḥ <space/></l>
+        <l>apakārapare pi tvaṃ upakārapa<pb n="10v"/><lb n="1"/><unclear>ro ya</unclear>thā <space/></l>
+      </lg>
+      <lg xml:id="Is4.12">
+        <l>ahi<unclear>te</unclear> hi buddhis tvaṃ pāpe pi tvam apāpakṛt_ <space/></l>
+        <l>doṣānveṣaṇadakṣo pi guṇā<unclear>nveṣaṇa</unclear>tatparaḥ <space/></l>
+      </lg>
+      <lg xml:id="Is4.13">
+        <l>tad eva <lb n="2"/>vihito bhakṣaḥ pījamānasya me kṣudhā <space/></l>
+        <l>mā rakṣa dharmmalobhena dharmmam utsṛjya pārthiva <space/></l>
+      </lg>
+      <p>rāja uvāca <space/></p>
+      <lg>
+        <l>saṃtastarū<lb n="3"/>paś cāṇārthī tvatto bhīto vihaṃgamaḥ <space/></l>
+        <l>matsakāsam anuprāptaḥ prāṇāt priyataraś ca saḥ <space/></l>
+      </lg>
+      <lg>
+        <l>tad evam āgatasyāsya ka<lb n="4"/>potasyobhayāśritaḥ <space/></l>
+        <l>katham asmadvidhaḥ kurvvān tyāgaṃ sadbhir vvigarhitaṃ <space/></l>
+      </lg>
+      <lg corresp="#VP65.13">
+        <l>lobhād veṣād bhayād vā yejaḥs tyajecha<lb n="5"/>raṇāgataṃm <space/></l>
+        <l>brahmahatyāsamaṃ pāpaṃ tasya prāhur mmanīṣiṇāḥ <space/></l>
+      </lg>
+      <lg corresp="#VP65.14">
+        <l>śāstreṣu niḥkṛtir dṛṣṭā mahāpātakinām a<lb n="6"/>pi</l>
+        <l>rājāṇagatahantaś ca na dṛṣṭā niḥkṛti<add place="above">ḥ</add> kvacit <space/></l>
+      </lg>
+      <lg corresp="#VP65.15">
+        <l>yathātmānaḥ priyāḥ prāṇāḥ sarvveṣāṃ prāṇināṃ tathā <space/></l>
+        <l>ta<lb n="7"/>smān mṛtyubhayaṃ trastās trotavyā prāṇino budhaiḥ <space/></l>
+      </lg>
+      <lg corresp="#VP65.16">
+        <l>janmamṛtyujarāduḥkhair nnityasaṃsārasāgaro <space/></l>
+        <l>jantavaḥ pari<lb n="8"/>kli<subst>śy<del>e</del><add rend="implied">a</add></subst>nte mṛtyos trasyanti te tataḥ <space/></l>
+      </lg>
+      <lg corresp="#VP65.17">
+        <l>yan nimittabhavechokas trāśo vā duḥkham eva vā<space/></l>
+        <l>āyāśo vā yato mūlam ekā<lb n="9"/>ꣻm api ta tyajet <space/></l>
+      </lg>
+      <lg corresp="#VP65.18">
+        <l>mariṣyāmīti ya duḥkhaṃ puruṣasyopajāyate <space/></l>
+        <l>jñeyaṃ tad a<subst>n<del>e</del><add rend="implied">a</add></subst>numānena paro pi parirakṣetaṃ</l>
+      </lg>
+      <lg corresp="#VP65.19">
+        <l><lb n="10"/>jānī hi sarvvasva ca jīvitaṃ priyaṃ yathā ca vai jīvitam ātmanaḥ priyaṃ</l>
+        <l>sa rakṣase jīvitam ātmano yathā ta<lb n="11"/>thā <space/> pariṣyām api rakṣa jīvi</l>
+      </lg>
+      <lg corresp="#VP65.20">
+        <l>tasmān naham imaṃ bhītam arpyayiṣye kapotakaṃ <space/></l>
+        <l>yad atra manyase yuktam kiṃcit¦ <lb n="12"/>śyenāśu tad vadā <space/></l>
+      </lg>
+      <p>śyena uvāca <space/></p>
+      <lg corresp="#VP65.21">
+        <l>āhārasarvvabhūtāni saṃbhavanti janeśvara <space/></l>
+        <l>āhāreṇa vivarddhate tena¦ <lb n="13"/>jīvanti jantavaḥ <space/></l>
+      </lg>
+      <lg corresp="#VP65.22">
+        <l>śakyate duḥkṛte py arthe cirarātropajīvitaṃ <space/></l>
+        <l>na tv āhāravihīnena śakye varttayitaṃ¦</l>
+      </lg>
+</body></text></TEI>

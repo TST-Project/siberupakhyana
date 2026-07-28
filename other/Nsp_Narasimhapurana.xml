@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Narasiṃhapurāṇa</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Poona University Library</orgName>
+                  </repository>
+                  <idno type="shelfmark">Q22:2292 15B9</idno>
+                  <idno type="alternate"><idno>ark:/13960/t9v13cv3q</idno></idno>
+               <idno type="URI">https://archive.org/details/nrsimhapurana</idno><idno type="URI">https://koha.unipune.ac.in/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=20456&amp;query_desc=kw%2Cwrdl%3A%20q22%3A2292</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This scan of the 1889 edition of the <title xml:lang="sa">Narasiṃhapurāṇa</title> was uploaded to the Internet Archive in 2013. Based on the library stamp and the shelfmark, it corresponds to a copy currently housed at Savitribai Phule Pune University, although the library record states a different date of publication.</summary>
+                  
+               <msItem xml:id="Nsp" defective="false"><title xml:lang="sa">Narasiṃhapurāṇa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="302"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/nrsimhapurana/manifest.json" facs="214"/></facsimile>
+<text corresp="#Nsp" xml:lang="sa"><body>
+  <pb n="212" facs="214"/>
+  <lg corresp="#VP65.14">
+    <l><lb n="15"/>śāstreṣu niḥkṛtir dṛṣṭā mahāpātakinām api |</l>
+    <l><lb n="16"/>kṛtaghnasya kape duṣṭa na dṛṣṭā niḥkṛtiḥ purā || 51 ||</l>
+  </lg>
+  <lg>
+    <l><lb n="17"/>kṛtaghnatā na kāryā te tvatkṛtaṃ samayaṃ smara |</l>
+    <l><lb n="18"/>ehy ehy āgacca śaraṇaṃ kākutsthaṃ hitapālakam || 52 ||</l>
+  </lg>
+</body></text></TEI>

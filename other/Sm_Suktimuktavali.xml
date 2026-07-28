@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Sūktimuktāvalī</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Karnataka Sanskrit University</orgName>
+                  </repository>
+                  <idno type="shelfmark">P 2806</idno>
+                  <idno type="alternate"><idno>5320</idno><idno>T 426</idno><idno>Acc 2320</idno></idno>
+               <idno type="URI">https://archive.org/details/ksu.p2806.suktimuktavaliof0000emba/page/n1/mode/2up</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This copy of the <title xml:lang="sa">Sūktimuktāvalī</title> seems to be from the Karnataka Sanskrit University, as suggested by the identifier (<q>ksu.p2806...</q>). No information is given on the Internet Archive page for the item.</summary>
+                  
+               <msItem xml:id="Sm" defective="false"><title xml:lang="sa">Sūktimuktāvalī</title><author xml:lang="sa">Jalhaṇa</author><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="626">flyleaf, [1]-66, [1]-463, blank page, [1]-75, 3 blank pages, 1 unnumbered, [1]-11, unnumbered page, blank page, flyleaf</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" when="1938"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Krishnamacharya, Embar, ed. 1938. <title>The Sūktimuktāvalī of Bhagadatta Jalhaṇa.</title> Baroda: Oriental Institute.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/ksu.p2806.suktimuktavaliof0000emba/manifest.json" facs="512"/></facsimile>
+<text corresp="#Sm" xml:lang="sa"><body>
+  <pb n="446" facs="512"/>
+  <lg>
+    <l><lb n="18"/>na satyavacanaṃ satyaṃ nāsatyavacanaṃ mṛṣā |</l>
+    <l><lb n="19"/>yad bhūtahitam atyantaṃ tat satyam itaran mṛṣā || 7 ||</l>
+  </lg>
+  <lg corresp="#VP65.43">
+    <l><lb n="20"/>sarvasattveṣu yad dānam ekā sattveṣu yā dayā |</l>
+    <l><lb n="21"/>sarvasattvapradānād dhi yad ekā 'pi viśiṣyate || 8 ||</l>
+  </lg>
+</body></text></TEI>

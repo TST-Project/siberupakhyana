@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Purāṇasāra</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/s2qpwkqjk2f</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/puran-sar-of-of-sri-vidyaranya</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>The <title xml:lang="sa">Purāṇasāra</title> of <persName xml:lang="sa">Vidyāraṇya</persName> was critically edited by H. Shankaraganapathy Phatak and published posthumously in 1999.</summary>
+                  
+               <msItem xml:id="Ps" defective="false"><title xml:lang="sa">Purāṇasāra</title><author xml:lang="sa">Vidyāraṇya</author><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="1029">1-11, blank, 1-77, 3 unnumbered, 1-936, blank</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="major" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" when="1999"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+            <listWit>
+              <witness xml:id="ka">
+                <abbr>ka</abbr>
+                <expan>manuscript ka</expan>
+              </witness>
+              <witness xml:id="kha">
+                <abbr>kha</abbr>
+                <expan>manuscript kha</expan>
+              </witness>
+              <witness xml:id="ga">
+                <abbr>ga</abbr>
+                <expan>manuscript ga</expan>
+              </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/puran-sar-of-of-sri-vidyaranya/manifest.json" facs="503"/></facsimile>
+<text corresp="#Ps" xml:lang="sa"><body>
+  <pb n="406" facs="503"/>
+  <lg corresp="#VP65.38">
+    <l><lb n="6"/><app><lem>yathā</lem><rdg wit="#ka #kha #ga">tathā</rdg></app> ca nānṛtāṃ vācam aham etām ihoktavān |</l>
+    <l><lb n="7"/>satyenānena satataṃ prasīdatu maheśvaraḥ || 16 ||</l>
+  </lg>
+</body></text></TEI>

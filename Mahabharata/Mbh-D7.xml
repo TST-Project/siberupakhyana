@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <script src="../lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Mahābhārata Āraṇyakaparvan</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>NGMPP</orgName>
+                  </repository>
+                  <idno type="shelfmark">A 1060-2</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>A manuscript of the <title xml:lang="sa">Āraṇyakaparvan</title>.</summary>
+                  
+               <msItem xml:id="Mbh-D7" defective="false"><title xml:lang="sa">Mahābhārata</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="paper handmade">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="525"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <width quantity="380"/>
+                              <height quantity="155"/>
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout style="tripāṭha" streams="2"/></layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="devanagari" medium="ink black"><desc>Modern.</desc></handNote></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+  <text corresp="#Mbh-D7" xml:lang="sa">
+    <body>
+    <milestone n="134v" unit="folio"/>
+    <lg xml:id="Mbh130.17">
+        <l><lb n="11"/><gap reason="ellipsis"/>jalāṃ copajalāṃ caiva yamunām abhito na<lb n="12"/>dīṃ ||</l>
+        <l>uśīnaro vai yatreṣṭvā vāsavād atyaricyata ||</l>
+    </lg>
+    <lg xml:id="Mbh130.18">
+      <l>tāṃ devasamitiṃ tasya vāsavaś ca viśām pate ||</l>
+      <l>abhyagachan nṛpavaraṃ jñātum agniś ca bhārata ||</l>
+    </lg>
+    <lg xml:id="Mbh130.19" corresp="#Is4.6">
+        <l>jijñāsamānau varadau mahātmāna<lb n="13"/>m uśīnaraṃ ||</l>
+        <l>iṃdraḥ śyenaḥ kapoto 'gnir bhūtvā yajñe 'bhijagmatuḥ ||</l>
+    </lg>
+    <lg xml:id="Mbh130.20" corresp="#VP65.3 #Is4.7">
+        <l>ūruṃ rājñaḥ samāsādya kapotaḥ śyenajād bhayāt ||</l>
+        <l>śaraṇārthī tadā rājan nililye bhayapīḍitaḥ ||</l>
+  </lg>
+      <p><pb n="135r"/><lb n="1"/>ity āraṇye parvvaṇi śyenakapotīye || <space/></p>
+
+      <p>|| śyena uvāca || <space/></p>
+  <lg xml:id="Mbh131.1" corresp="#Is4.9">
+        <l>dharmātmānaṃ tv āhur ekaṃ sarve rājan mahīkṣitaḥ ||</l> 
+    <l>sa vai dharmaviru<del>r</del>ddhaṃ tvaṃ kasmāt karma cikīrṣasi ||</l>
+  </lg>
+  <lg xml:id="Mbh131.2">
+        <l>vihitaṃ <lb n="2"/>bhakṣaṇaṃ rājan_ pīḍyamānasya me kṣudhā ||</l>
+        <l>mā rakṣīr dharmmalobhena dharmam utsṛṣṭavān asi ||</l>
+  </lg>
+      <p>rājovāca || <space/></p>
+  <lg xml:id="Mbh131.3">
+        <l>|| saṃtrastarūpas trāṇāya tvatto bhīto mahādvijaḥ ||</l>
+        <l><lb n="3"/>matsakāśam anuprāptaḥ prāṇagṛdhnur ayaṃ dvijaḥ ||</l>
+   </lg>
+   <lg xml:id="Mbh131.4">
+    <l>evam abhyāgatasyeha kapotasyābhayārthinaḥ ||</l>
+    <l>atra dāne paraṃ dharmaṃ kathaṃ syena na paśyasi ||</l>
+    </lg>
+  <lg xml:id="Mbh131.5">
+      <l>praspaṃdamānaḥ saṃbhrāṃtaḥ <lb n="4"/>kapotaḥ śyena lakṣyate ||</l>
+      <l>matsakāśaṃ <subst>j<del>i</del><add>ī</add></subst>vitārthatasya tyāgo vigarhitaḥ ||</l>
+  </lg>
+  <lg xml:id="Mbh131.5bis">
+      <l>yo hi kaści dvijān hanyād gāṃ vā lokasya mātaraṃ ||</l>
+      <l>śaraṇāgataṃ ca tyajate tulyaṃ <lb n="5"/>teṣāṃ hi pātakaṃ ||</l>
+  </lg>
+      <p corresp="#VP65-p2">śyena uvāca || <space/></p>
+  <lg xml:id="Mbh131.6" corresp="#VP65.21">
+        <l>|| āhārāt sarvabhūtāni saṃbhavaṃti mahīpate ||</l>
+        <l>āhāreṇa vivarddhaṃte tena jīvaṃti jaṃtavaḥ ||</l>
+  </lg>
+  <lg xml:id="Mbh131.7" corresp="#VP65.22">
+        <l>śakyate dustyaje py arthe cira<lb n="6"/>rātrāya jīvituṃ ||</l>
+    <l>na tu bhojanam utsṛjya śakyaṃ varttayituṃ ciraṃ ||</l>
+  </lg>
+  <lg xml:id="Mbh131.8" corresp="#VP65.23">
+    <l>bhakṣyād vijojitasyādya mama prāṇā viśām pate ||</l>
+        <l>visṛjya kāyam eṣyaṃtī<unclear>ṣa</unclear> sthānam akuto <lb n="7"/>bhayaṃ ||</l>
+  </lg>
+  <lg xml:id="Mbh131.9" corresp="#VP65.24">
+      <l>pramṛte mayi dharmātman_ putradāraṃ vinakṣyati ||</l>
+        <l>rakṣyamānaḥ kapotaṃ tvaṃ bahūn prāṇān na rakṣasi ||</l>
+  </lg>
+  <lg xml:id="Mbh131.10" corresp="#VP65.25">
+			<l>dharmmaṃ yo bādhate dharmmo na sa dharmaḥ kudharma tat ||</l>
+        <l>a<lb n="8"/>virodhī tu yo dharmaḥ sa dharmaḥ satyavikramaḥ ||</l>
+  </lg>
+  <lg xml:id="Mbh131.11-12" corresp="#VP65.26">
+        <l>virodhiṣu mahīpāla niścitya gurulāghavaṃ ||</l>
+      <l>na bādhā vidyate yatra taṃ dharmaṃ samudācara ||</l>
+        <l>gurulāghavam ā<lb n="9"/>dāya dharmādharmādharmaviniścaye ||</l>
+        <l>yato bhūyāṃs tato rājan_ kuru adharmaniścayaṃ ||</l>
+  </lg>
+           <p corresp="#VP65-p3">rājovāca || <space/></p>
+  <lg xml:id="Mbh131.13">
+    <l>|| bahukalyāṇasaṃyuktaṃ bhāṣase vihagottama ||</l>
+        <l>su<lb n="10"/>parṇaḥ pakṣirāṭ_ kiṃ tvaṃ dharmaṃjñaś cāsyasaṃśayaṃ ||</l>
+    <l>tathā hi dharmasaṃyuktaṃ bahu citraṃ ca bhāṣase ||</l>
+   </lg>
+   <lg xml:id="Mbh131.14">
+        <l>na te sty aviditaṃ kiṃcid iti tvāṃ lakṣayāmy ahaṃ ||</l>
+        <l><lb n="11"/>śaraṇaiṣi parityāgaṃ kathaṃ sādhvīti manyase ||</l>
+  </lg>
+  <lg xml:id="Mbh131.15" corresp="#VP65.39">
+	<l>āhārārthaṃ samāraṃbhas tava cāyaṃ vihaṃgama ||</l>
+        <l>śakyaś cāpy anyathā karttuṃ āhāro bhyadhikas tvayā ||</l>
+  </lg>
+  <lg xml:id="Mbh131.16">
+        <l><lb n="12"/>govṛṣo vā varāho vā mṛgo vā mahiṣo pi vā ||</l>
+        <l>tvadartham adya kriyatāṃ yac cānyad abhikāṃkṣasi ||</l>
+  </lg>
+   <p>śyena uvaca || <space/></p>
+   <lg xml:id="Mbh131.17">
+        <l>|| na varāhaṃ na cokṣāṇaṃ na mṛ<lb n="13"/>gāṃ vividhāṃs tathā ||</l>
+        <l>bhakṣayāmi mahārāja kim mamānye na kenacit ||</l>
+   </lg>
+   <lg xml:id="Mbh131.18" corresp="#VP65.11">
+        <l>yas tu me daivavihito bhakṣaḥ kṣatriyapuṃgava ||</l>
+      <l>tam utsṛja mahīpāla kapo<pb n="135v"/><lb n="1"/>tam imam eva me ||</l>
+  </lg>
+  <lg xml:id="Mbh131.19" corresp="#VP65.41">
+    <l>śyenaḥ kapotān attīti sthitir eṣā sanātanī ||</l>
+        <l>mā rājan sārany ajñātvā kadalīstaṃbham ā<unclear>vra</unclear>ja ||</l>
+  </lg>
+      <p>rājovāca || <space/></p>
+  <lg xml:id="Mbh131.19bis">
+        <l>|| rājyaṃ śivīnā<lb n="2"/>m ṛddhaṃ vai dadāni tava khecara ||</l>
+  </lg>
+  <lg xml:id="Mbh131.20">
+        <l>yaṃ ca kāmayase kāmaṃ śena sarvaṃ dadāmi te ||</l>
+        <l>vinemaṃ pakṣiṇaṃ śena śaraṇārthinam āgataṃ ||</l>
+  </lg>
+  <lg xml:id="Mbh131.21">
+        <l>yenemaṃ varjjayes tvaṃ ka<lb n="3"/>rmaṇā pakṣisattama ||</l>
+      <l>tadācakṣva kariṣyāmi na hi dāsye kapotakaṃ ||</l>
+  </lg>
+      <p>śyena uvāca || <space/></p>
+  <lg xml:id="Mbh131.22">
+        <l>uśīnara kapote te yadi sneho narādhipa ||</l>
+        <l>ā<lb n="4"/>tmano māṃsam utkṛtya kapotatulayā dhṛtaṃ ||</l>
+  </lg>
+  <lg xml:id="Mbh131.23">
+        <l>yadā samaṃ kapotena tava māṃśaṃ nṛpottama ||</l>
+    <l>tadā deyaṃ tu tan mahyaṃ sā me tuṣṭir bhaviṣyati ||</l>
+   </lg>
+      <p>rājo<lb n="5"/>vāca || <space/></p>
+   <lg xml:id="Mbh131.24" corresp="#VP65.51">
+     <l>anugraham imaṃ manye śyena yan mābhibhāṣase ||</l>
+        <l>tasmāt te 'dya pradāsyāmi svamāṃśaṃ tulayā dhṛtaṃ ||</l>
+   </lg>
+   <p>lomaśaḥ || <space/></p>
+   <lg xml:id="Mbh131.25">
+     <l>|| utkṛtya <lb n="6"/>sa svakaṃ māṃsaṃ rājā paramadharmavīt ||</l>
+        <l>tulayāmāsa kauṃteya kapotena samaṃ vibho ||</l>
+  </lg>
+  <lg xml:id="Mbh131.26" corresp="#VP65.57">
+        <l>dhṛyamā<sic>naḥ</sic> kapotaṃ tu māṃsenātyatiricyate ||</l>
+    <l>punaś cotkṛ<lb n="7"/>tya māṃsāni rājā prādād uśīnaraḥ ||</l>
+  </lg>
+  <lg xml:id="Mbh131.27" corresp="#VP65.58">
+        <l>na vidyate yadā māṃsaṃ kapotena samaṃ dhṛtaṃ ||</l>
+        <l>tata utkṛtyamāṃsaṃ sa āruroha svayaṃ tulāṃ ||</l>
+  </lg>
+      <p>śyena uvāca ||<space/></p>
+  <lg xml:id="Mbh131.28" corresp="#VP65.66">
+        <l>|| <lb n="8"/>idro 'ham asmi dharmajña kapoto havyavāḍ ayaṃ ||</l>
+        <l>jijñāsamānau dharme tvāṃ yajñavā<unclear>ṭa</unclear>m upāgatau ||</l>
+  </lg>
+  <lg xml:id="Mbh131.29" corresp="#VP65.80">
+    <l>yat te māṃsāni gātrebhya uttkṛttāni viśāṃ <lb n="9"/>pate ||</l>
+        <l>eṣā te bhāsurī kīrttir lokān abhibhaviṣyati ||</l>
+  </lg>
+  <lg xml:id="Mbh131.30">
+        <l>yāval loke manuṣyās tvāṃ kathayiṣyaṃti pārthiva ||</l>
+        <l>tāvat kīrttiś ca lokāś ca <lb n="10"/>sthāsyanti tava śāśvatāḥ ||</l>
+      </lg>
+      <p>lomaśaḥ || <space/></p>
+  <lg xml:id="Mbh131.30bis">
+        <l>ity evam uktvā rājānam āruroha divaṃ punaḥ ||</l>
+        <l>uśīnaro pi dharmātmā dharmeṇāvṛtya rodasī ||</l>
+        <l><lb n="11"/>vibhrājamāno vapuṣā āruroha tripiṣṭapaṃ ||</l>
+      </lg>
+  <lg xml:id="Mbh131.31">
+        <l>tad etat sadanaṃ rājan_ rājñas tasya mahātmanaḥ ||</l>
+      <l>paśyaś caitan mayā sārddhaṃ puṇyaṃ pāpapramocanaṃ ||</l>
+  </lg>
+      <lg xml:id="Mbh131.32">
+        <l>tatra <lb n="12"/>vai satataṃ devā munayaś ca sanātanāḥ ||</l>
+        <l>dṛśyante brāhmaṇai rājan_ puṇyarvādbhar mahātmabhiḥ ||</l>
+      </lg>
+      <p>|| ity āraṇyake parvaṇi tīrthayātrāyā kapotīyaṃ samāptaṃ || <space/> || <space/> ||</p>
+
+    </body>
+  </text>
+</TEI>

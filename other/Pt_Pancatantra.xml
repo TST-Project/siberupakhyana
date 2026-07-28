@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Pañcatantra</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bayerische Staatsbibliothek, München</orgName>
+                  </repository>
+                  <idno type="shelfmark">4 A.or.2720-1</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://www.digitale-sammlungen.de/en/view/bsb10219704</idno></msIdentifier>
+               <msContents class="#STM">
+                <summary><p>This copy of the first volume of the <title xml:lang="sa">Pañcatantra</title>, as edited by G. L. Kosegarten in 1848, is held in the Staatsbibliothek in München.</p></summary>
+                <msItem xml:id="Pt" defective="false"><title xml:lang="sa">Pañcatantra</title><textLang mainLang="san"/></msItem>
+               </msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="280">I-XII, 1-268</measure>
+                        <dimensions type="object" unit="mm"/><dimensions type="leaf" unit="mm"/><dimensions type="written" unit="mm"/></extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               
+                     
+                <origin>
+                     <origDate calendar="gregorian" when="1848"/>
+                     <origPlace>Bonnae ad Rhenum</origPlace></origin><acquisition></acquisition></history>
+               <additional>
+                  <listBibl>
+                     
+              <bibl>Kosegarten, Johannes Gottfried Ludwig. 1848. <title xml:lang="la">Pantschatantrum : sive quinquepartitum de moribus exponens. 1.</title> <placeName xml:lang="sa">Bonnae ad Rhenum</placeName>: Koenig.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      <publicationStmt><publisher>TST Project</publisher><date>2025</date></publicationStmt></fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10219704/manifest" facs="85"/></facsimile>
+<text corresp="#Pt" xml:lang="sa"><body>
+    <milestone unit="page" n="69" facs="85"/>
+    <lg corresp="#VP65.27 #Is4.3">
+        <l><lb n="24"/>ekataḥ kratavaḥ sarve samāptavaradakṣiṇāḥ |</l>
+        <l><lb n="25"/>ekato bhayabhītasya prāṇinaḥ prāṇarakṣaṇaṃ || 323 ||</l>
+    </lg>
+    </body></text>
+    </TEI>

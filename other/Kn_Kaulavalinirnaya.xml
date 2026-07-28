@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Kaulāvalīnirṇaya</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/t1mh7tw7f</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>This scan of the <title xml:lang="sa">Kaulāvalīnirṇaya</title>, as edited by Arthur Avalon, was uploaded to the Internet Archive in 2021.</summary>
+                  
+               <msItem xml:id="Kn" defective="false"><title xml:lang="sa">Kaulāvalīnirṇaya</title><author xml:lang="sa">Jñānānanda Paramahaṃsa</author><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="185"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" notBefore="1927" notAfter="1928"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/CUkB_kaulavali-nirnaya-tantrik-texts-vol.-xiv-arthur-avalon/manifest.json" facs="96"/></facsimile>
+<text corresp="#Kn" xml:lang="sa"><body>
+  <pb n="60" facs="97"/>
+  <lg corresp="#VP65.14">
+    <l><lb n="6"/>śāstreṣu niṣkṛtir dṛṣṭā mahāpātakinām api</l>
+    <l>kulabhraṣṭasya kutrāpi na dṛṣṭā niṣkṛtiḥ kvacit ||</l>
+  </lg>
+</body></text></TEI>

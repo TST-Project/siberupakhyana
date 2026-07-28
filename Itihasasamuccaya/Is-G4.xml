@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Itihāsasamuccaya</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Government Oriental Manuscripts Library, Chennai</orgName>
+                  </repository>
+            <idno type="shelfmark">D.16159</idno>
+                  <idno type="alternate"><idno>SD 4264</idno></idno>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>This manuscript of the <title xml:lang="sa">Itihāsasamuccaya</title> is bundled with two other texts, the <title xml:lang="sa">Nyāyaratnāmālā</title> and the <title xml:lang="sa">Vidhirasāyanavyākhyā</title>. According to the catalog entry, it contains stories 9–16.</summary>
+                  
+            
+          <msItem xml:id="Is-G4" defective="true"><title xml:lang="sa">Itihāsasamuccaya</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf palmyra">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        <p>Leaf dimensions from the catalog entry (GOML Supplemental, vol. 28, 10555).</p></support><extent>
+                           <measure unit="folio" quantity="59"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           <width quantity="405"/><height quantity="40"/></dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent><condition>Very damaged.</condition></supportDesc>
+                     <layoutDesc>
+                        
+                     <layout writtenLines="7 9"/></layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="grantha" medium="incised soot"/></handDesc><typeDesc/><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole" quantity="2"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile/>
+  <text corresp="#Is-G4" xml:lang="sa">
+    <body>
+      <pb n="19r"/>
+      <lb n="2"/>
+      <p xml:id="Is4-p1">vaiśaṃpāyanaḥ |</p>
+      <lg xml:id="Is4.1">
+        <l>kathayantaṃ hi tīrtthānāṃ prabhāvānat_bhutāṃ <gap quantity="2" unit="akṣara" reason="lost"/></l>
+        <l><lb n="3"/><gap quantity="2" unit="akṣara" reason="lost"/>śan dharmmatatvajñam_ paryyapṛchśat_ yudhiṣṭhiraḥ |</l>
+      </lg>
+      <lg xml:id="Is4.2">
+        <l>yo rakṣet_ prāṇi<subst>n<del rend="implied">a</del><add place="below">ā</add></subst>ṃ rājā | bhayārttam_ śaraṇāgatam |</l>
+        <l>tasya puṇyaphalaṃ ya <gap quantity="2" unit="akṣara" reason="lost"/><lb n="4"/><gap quantity="1" unit="akṣara" reason="lost"/><g rend="vowel-sign">ā</g>t_ tan me <unclear>brūhi</unclear> tapodha<subst>n<del>ā</del><add rend="implied">a</add></subst> |</l>
+      </lg>
+      <p xml:id="Is4-p3">romaśaḥ |</p>
+      <lg xml:id="Is4.3" corresp="#VP65.27 #Mbh131.5bis">
+        <l>ekatra kratavas sarvve samagravaradakṣiṇāḥ |</l>
+        <l>ekato bhayabhītasya prāṇi<unclear>naḥ prāṇa</unclear><lb n="5"/>rakṣaṇaḥ |</l>
+      </lg>
+      <lg xml:id="Is4.5">
+        <l>atraivodāharantīmam itihāsaṃ purātanam |</l>
+        <l>indra<del><gap reason="illegible" quantity="1" unit="akṣara"/></del><subst>sy<del rend="implied">a</del><add place="below">ā</add></subst>gne<unclear>ś ca</unclear> saṃvādaṃ śiber auśīnarasya ca |</l>
+      </lg>
+      <lg xml:id="Is4.6" corresp="#Mbh130.19">
+        <l>varttamāne mahā<gap quantity="1" unit="akṣara" reason="lost"/><lb n="6"/>jñe jijñāsārtthaṃ śibin nṛpam |</l>
+        <l>indraśyenaḥ kapoto gnir bhūtvā tatropajagmatuḥ |</l>
+      </lg>
+    <lg xml:id="Is4.7" corresp="#VP65.3 #Mbh130.20">
+        <l>a<subst>th<del>e</del><add place="below">o</add></subst>ruṃ <retrace>nṛ</retrace>pateḥ prāpya kapota<lb n="7"/><gap quantity="1" unit="akṣara" reason="lost"/>najāt_ bhayāt |</l>
+      <l>śaraṇārtthī mahīpālam_ nililye bhayavihvalaḥ |</l>
+      </lg>
+      <lg xml:id="Is4.8">
+        <l>tataś śainair upāgamya śyenarūpī janeśvaraḥ |</l>
+        <l>rā<unclear>jā</unclear><lb n="8"/><gap quantity="2" unit="akṣara" reason="lost"/><g rend="vowel-sign">u</g>mahātmānaṃ provācedaṃ vacas tadā |</l>
+      </lg>
+      <p xml:id="Is4-p4">śyenaḥ |</p>
+      <lg xml:id="Is4.9" corresp="#VP65.6 #MBh131.1">
+        <l>dharmmātmānaṃ <unclear>tvā</unclear>hur ekam_ sarvve rājan mahīkṣitaḥ |</l>
+        <l>satvan dharmma<unclear>viru</unclear><gap quantity="2" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg xml:id="Is4.8bis">
+        <l><lb n="9"/><gap quantity="2" reason="lost" unit="akṣara"/><unclear>rāja kapoto yaṃ vidhātrā vihito mama</unclear> |</l>
+        <l><unclear>bhakṣyo bubhuktā</unclear> mahatī vartate vi<unclear>sṛjyādya</unclear> vai |</l>
+      </lg>
+      <p xml:id="Is4-p3ter">rājā |</p>
+      <lg xml:id="Is4.8ter">
+        <l><gap quantity="3" unit="akṣara" reason="lost"/>yam atitrasta<gap quantity="2" unit="akṣara" reason="illegible"/><g rend="vowel-sign">ā</g><unclear>rtthī samāgata</unclear><gap quantity="1" unit="akṣara" reason="lost"/></l>
+        <!-- TODO: this is from Is4.9 -->
+        <l><gap quantity="4" unit="akṣara" reason="lost"/><pb n="19v"/><lb n="1"/><gap quantity="2" unit="akṣara" reason="lost"/>thaṃ karmmañ cikīrṣasi |</l>
+      </lg>
+      <lg xml:id="Is4.10" corresp="#VP65.7">
+        <l>bhavān_ kṛtaghnan dānena satyenānṛtavādinam |</l>
+        <l>kṣamaya krūrakarmmā<unclear>ṇam asā</unclear>dhuṃ sādhu<subst><del><unclear>dh</unclear></del><add place="below">n</add>ā</subst> jayet |</l>
+      </lg>
+      <lg xml:id="Is4.11" corresp="#VP65.10">
+        <l><lb n="2"/>nopakāraparo py evam upakāraparo janaḥ |</l>
+        <l>apakārapare pi tvam upakaraparo yathā |</l>
+      </lg>
+      <lg xml:id="Is4.12">
+        <l>ahi<subst><del>tve</del><add place="below">te tva</add></subst>ṃ hitaḥ pāpe <gap quantity="2" unit="akṣara" reason="lost"/> <lb n="3"/>pāpo si sarvvadā |</l>
+        <l>doṣanveṣaṇadakṣo pi guṇā<subst>nv<del rend="implied">a</del><add place="above">e</add></subst>ṣaṇatat_paraḥ |</l>
+      </lg>
+      <lg xml:id="Is4.13">
+        <l>sa <subst><del><gap reason="illegible" quantity="1" unit="akṣara"/></del><add place="below">e</add></subst>va vihitaṃ bhakṣyam_ piḍyamānasya me kṣudhā |</l>
+        <l>mā <subst><del>hāṃkṣī</del><add place="below">hiṃsī</add></subst><gap quantity="2" unit="akṣara" reason="lost"/><lb n="4"/>lobhena dharmmam ut_sṛjya mānaśīḥ |</l>
+      </lg>
+      <p>rājā |</p>
+      <lg>
+        <l>santrastarūpaḥ prāṇārtthī tvatto bhito yo vihaṃgamaḥ |</l>
+        <l>mat_sakāśam anuprāptaḥ prāṇa<lb n="5"/>gṛdhnurayaṃ khagaḥ |</l>
+      </lg>
+      <lg>
+        <l>tad evam āgatasyāsya kapotasya bhayārtthinaḥ |</l>
+        <l>katham asmadvidhā tyāgaṃ kuryyus sat_bhir vvigarhitam |</l>
+      </lg>
+      <lg corresp="#VP65.13">
+        <l>lobhād ve<lb n="6"/>ṣāt_ bhayād vāpi yas tyajech śaraṇāgatam |</l>
+        <l>brahmahatyāsaman ta<subst>sy<del>ā</del><add rend="implied">a</add></subst> pāpam āhur mmanīṣiṇaḥ |</l>
+      </lg>
+      <lg corresp="#VP65.14">
+        <l>śāstreṣu niṣkṛti<unclear>r ddṛ</unclear>ṣṭā mahā<gap quantity="1" unit="akṣara" reason="lost"/><lb n="7"/><gap quantity="5" unit="akṣara" reason="lost"/> |</l>
+        <l>śaraṇāgatahantus tu na dṛṣṭā niṣkṛ<unclear>tiḥ</unclear> kvacit |</l>
+      </lg>
+      <lg corresp="#VP65.15">
+        <l>yathātmanaḥ priyāḥ prāṇāḥs sarvveṣāṃ prāṇinān tathā |</l>
+        <l>tasmān mṛtyubha<gap quantity="1" unit="akṣara" reason="lost"/><lb n="8"/><gap quantity="1" unit="akṣara" reason="lost"/>stās <subst>tr<del rend="implied">a</del><add place="below">ā</add></subst>tavyāḥ prāṇino budhaiḥ |</l>
+      </lg>
+      <lg corresp="#VP65.16">
+        <l>janmamṛtyuja<subst>r<del rend="implied">a</del><add place="below">ā</add></subst>duḥkhaiḥ nityaṃ saṃsārasāgare |</l>
+        <l>kliśyante jantavas sarvve mṛtyos tra<gap quantity="2" unit="akṣara" reason="lost"/><pb n="20r"/><lb n="1"/><gap quantity="5" unit="akṣara" reason="lost"/> |</l>
+      </lg>
+      <lg corresp="#VP65.17">
+        <l><unclear>yannimi</unclear><gap quantity="1" unit="akṣara" reason="lost"/> <unclear>bha</unclear>vech śokas trāso vā krodha eva vā |</l>
+        <l>āyāso vā yato mūlam ekā<subst><del>hamataṃ</del><add place="below">ṃgam api na</add></subst> tyajet |</l>
+      </lg>
+      <lg corresp="#VP65.18">
+        <l>mari<unclear>ṣyā</unclear><gap reason="lost" quantity="3" unit="akṣara"/><lb n="2"/><gap quantity="1" unit="akṣara" reason="lost"/>khaṃ puruṣasyopajāyate |</l>
+        <l>śakyas tenānumānena paro pi parirakṣitum |</l>
+      </lg>
+      <lg>
+      </lg>
+      <lg corresp="#VP65.19">
+        <l>yathā ca te jīvitam ātmanaḥ priyam | tathā pare<unclear>ṣam a</unclear><gap quantity="2" unit="akṣara" reason="lost"/><lb n="3"/><gap quantity="1" unit="akṣara" reason="lost"/>taṃ priyaṃ |</l>
+        <l>saṃrakṣate jīvitam ātmano yathā tathā pareṣām api rakṣa jīvitam |</l>
+      </lg>
+      <lg corresp="#VP65.20">
+        <l>tasmān nāham imaṃ bhītam_ arppayi<unclear>ṣye</unclear> <gap quantity="2" unit="akṣara" reason="lost"/><lb n="4"/><gap quantity="1" unit="akṣara" reason="lost"/>kam |</l>
+        <l>yad atra yuktam anyat te karttuṃ śye<subst>n<del rend="implied">a</del><add place="below">ā</add></subst><subst><del>si</del><add place="below">śu</add></subst> tad vada |</l>
+      </lg>
+      <p>śyenaḥ |</p>
+      <lg corresp="#VP65.21">
+        <l>ā<retrace>hā</retrace>rāt_ sarvvabhūtāni saṃbhavanti janeśvara |</l>
+        <l>āhāreṇa <gap quantity="3" unit="akṣara" reason="lost"/><lb n="5"/><gap quantity="1" unit="akṣara" reason="lost"/> tena jīvanti caiva hi|</l>
+      </lg>
+      <lg corresp="#VP65.22">
+        <l>śakyante duṣkare py artthe <subst><del>ji</del><add place="below">ci</add></subst>rarātrāya jīvitum |</l>
+        <l><subst><del><unclear>ma</unclear></del><add place="below">na</add></subst> tv āhāravihīnena śakyaṃ varttayituṃ kvaci<gap quantity="1" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg corresp="#VP65.23">
+        <l><lb n="6"/><gap quantity="2" unit="akṣara" reason="lost"/><g rend="vowel-sign">ā</g>d vilopitasyāsya<del><gap reason="illegible" quantity="1" unit="akṣara"/></del> mama prāṇā viśāṃpate |</l>
+        <l>visṛjya kāyaṃ yāsyanti panthānam apunarbhavam |</l>
+      </lg>
+      <lg corresp="#VP65.24">
+        <l>mṛte mayi ca sarvva<unclear>m me</unclear> <gap reason="lost" quantity="1" unit="akṣara"/><lb n="7"/><gap reason="lost" quantity="1" unit="akṣara"/>dāra<add place="below">m</add> mariśyati |</l>
+        <l>rakṣamāṇaḥ ka<subst>p<del>e</del><add place="below">o</add></subst>ta<subst>tv<del>ā</del><add rend="implied">a</add></subst>ṃ bahūn_ prāṇān na rakṣasi |</l>
+      </lg>
+      <lg corresp="#VP65.25">
+        <l>dharmmaṃ yo bādhate dharmmo na sa dharmma<gap quantity="4" unit="akṣara" reason="lost"/></l>
+        <l><pb n="20v"/><lb n="1"/><gap quantity="2" unit="akṣara" reason="lost"/>rodhī tu yo dharmmas sa dharmmasat_bhir ucyate |</l>
+      </lg>
+      <lg corresp="#VP65.26">
+        <l>tasmād virodhe dharmmasya vicintya gurulāghavam |</l>
+        <l>yato bhūyāṃs tato rā<gap quantity="3" unit="akṣara" reason="lost"/><lb n="2"/><gap quantity="5" unit="akṣara" reason="lost"/>yam |</l>
+      </lg>
+      <p corresp="#VP65-p3">rājā |</p>
+      <lg corresp="#VP65.28">
+        <l>nāto bhūyaṃs tato dharmmaḥ kaścid anyo sti khecara |</l>
+        <l>prāṇināṃ bhayabhītānām_ abhayaṃ yat_ pradīyate |</l>
+      </lg>
+      <lg corresp="#VP65.29">
+        <l>varam eta<gap quantity="3" unit="akṣara" reason="lost"/><lb n="3"/><gap quantity="5" unit="akṣara" reason="lost"/>vitābhayaṃ |</l>
+        <l>na ca viprasahasrasya gosahasran dine dine |</l>
+      </lg>
+      <lg corresp="#VP65.32">
+        <l>abhayaṃ sarvvabhūtebhyo yo dadāti dayā paraḥ |</l>
+        <l>tasya dehād vimu<unclear>kta</unclear><gap quantity="1" unit="akṣara" reason="lost"/><lb n="4"/><gap quantity="2" unit="akṣara" reason="lost"/> eva na vidyate |</l>
+      </lg>
+      <lg corresp="#VP65.30">
+       <l>hemadhenudhanādīnān dātāraṃ sulabhā bhuvi |</l>
+        <l>durllabhaḥ puruṣo loke sarvvabhūtadayāpa<unclear>raḥ |</unclear></l>
+      </lg>
+      <lg corresp="#VP65.31">
+        <l><gap quantity="2" unit="akṣara" reason="lost"/><lb n="5"/><gap quantity="3" unit="akṣara" reason="lost"/>yajñānām lokena kṣīyate phalam |</l>
+        <l>bhītābhayapradānasya kṣaya eva na vidyate |</l>
+      </lg>
+      <lg corresp="#VP65.32">
+        <l>dattam iṣṭan tapas taptaṃ tīrtthaseva <gap quantity="3" unit="akṣara" reason="lost"/><lb n="6"/><gap quantity="1" unit="akṣara" reason="lost"/><g rend="vowel-sign">ā</g> |</l>
+        <l>sarvvāṇy abhayadānasya kalān nārhanti ṣoḍaśīṃ |</l>
+      </lg>
+      <lg corresp="#VP65.34">
+        <l>catussāgaraparyyantāṃ yo dadyāt_ pṛthivīm i<subst>m<del rend="implied">a</del><add place="below">ā</add></subst>ṃ |</l>
+        <l>abhayaṃ yaś ca bhūte<unclear>bhya</unclear><gap quantity="2" unit="akṣara" reason="lost"/><lb n="7"/><gap quantity="1" unit="akṣara" reason="lost"/>bhayato dhikaḥ |</l>
+      </lg>
+      <lg corresp="#VP65.35">
+        <l>api tyaje rājyam idam_ śarīraṃ vā sudustyajam |</l>
+        <l>na tv imaṃ bhayasantrastan tyakṣye dinaṃ kapotakam |</l>
+      </lg>
+      <lg corresp="#VP65.36">
+        <l>yan mamās<gap quantity="5" unit="akṣara" reason="lost"/><pb n="21r"/><lb n="1"/><gap quantity="8" unit="akṣara" reason="lost"/></l>
+        <l><gap quantity="1" unit="akṣara" reason="lost"/><unclear>ve</unclear> trātā bhayārttānām ārttināśāya dehinām |</l>
+      </lg>
+      <lg corresp="#VP65.37">
+        <l>na hv ahaṃ kāma<unclear>ye rā</unclear><subst><del>ddha</del><add place="inline">jya</add></subst>n na svargan nāpunarbhavam |</l>
+        <l>prāṇināṃ duḥkhata<gap quantity="2" unit="akṣara" reason="lost"/> <lb n="2"/><gap reason="lost" quantity="3" unit="akṣara"/> duḥ<add place="below">kha</add>nāśanaṃ |</l>
+      </lg>
+      <lg corresp="#VP65.38">
+        <l>yathā ca nānṛtā vāṇī mayai<unclear>ṣāṃ sa</unclear>mudāhṛtā |</l>
+        <l>satyenānena māndevāṃ phalayantu dahantu vā |</l>
+      </lg>
+      <lg corresp="#VP65.39">
+        <l>āhārārtthas samāraṃ<gap quantity="2" unit="akṣara" reason="lost"/><lb n="3"/><gap quantity="3" unit="akṣara" reason="lost"/> vihaṃgama |</l>
+        <l>tad yatheṣṭan tavāhāraṃ dadyamāṃsaṃ <subst><del>ti</del><add place="below">da</add></subst>dāmy ahaṃ |</l>
+      </lg>
+      <p>śyenaḥ |</p>
+      <lg>
+        <l><unclear>ya</unclear> evaṃ vihito smākam_ dhātrā bhakṣaḥ kapotakaḥ |</l>
+        <l>tam evot_sṛ<gap quantity="3" unit="akṣara" reason="lost"/><lb n="4"/><gap quantity="1" unit="akṣara" reason="lost"/> kāryyam asty aparair bhuvi |</l>
+      </lg>
+      <lg corresp="#VP65.41">
+        <l>śye<subst>n<del rend="implied">&gt;a</del><add place="below">ā</add></subst>ḥ kapo<subst>t<del rend="implied">a</del><add place="below">ā</add></subst><subst><del>kān_</del><add place="below">n_</add></subst> khādanti śrutir eṣā sanātanī |</l>
+        <l>mā rājan_ sāram utsṛjya kadaḷīs<gap quantity="3" unit="akṣara" reason="lost"/><lb n="5"/><gap quantity="2" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <p>rājā |</p>
+      <lg corresp="#VP65.42">
+        <l>nāhaṃ kuśāstramārgeṇa kvacid vartte vihaṃgama |</l>
+        <l>śāstrair eva pradi<subst>ṣṭ<del>ā</del><add place="below">o</add></subst> yaṃ dharmmas satyadayāparaḥ |</l>
+      </lg>
+      <lg corresp="#VP65.43">
+        <l>sarvvasatveṣu <gap quantity="2" unit="akṣara" reason="lost"/><lb n="6"/><gap quantity="2" unit="akṣara" reason="lost"/>kasatve tu yā dayā |</l>
+        <l>sarvvasatvapradānāt tu dayaikasmin_ viśiṣyate |</l>
+      </lg>
+      <lg corresp="#VP65.44">
+        <l>sarvve vedā na tat_ kuryyuḥ sarvve yajñāś ca khecara |</l>
+        <l><gap quantity="2" unit="akṣara" reason="lost"/><lb n="7"/><gap quantity="2" unit="akṣara" reason="lost"/><unclear>bhiṣekaś ca</unclear> yaḥ kuryyāt_ prāṇinān dayā |</l>
+      </lg>
+      <lg corresp="#VP65.45">
+        <l>vāṅ_manaḥkarmmabhir yye tu sarvvabhūtahite ratāḥ |</l>
+        <l>dayādarśitapanthāno brahmalokaṃ <gap quantity="2" unit="akṣara" reason="lost"/><lb n="8"/><gap quantity="2" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg xml:id="Is4.50">
+        <l>gachśatas tiṣṭhato vāpi jāgratasvapato <del>vā</del>pi vā |</l>
+        <l>yan na bhūtahitārtthāya tat_ paśor iva ceṣṭitam |</l>
+      </lg>
+      <lg corresp="#VP65.47">
+        <l>aṃgamāni ca <unclear>bhūtāni stha</unclear><gap quantity="2" unit="akṣara" reason="lost"/><pb n="21v"/><lb n="1"/><gap quantity="1" unit="akṣara" reason="lost"/> ca ye narāḥ |</l>
+        <l>ātmavat_ pari<add place="below">ra</add>kṣanti te yānti paramāṃ gatiṃ |</l>
+      </lg>
+      <lg corresp="#VP65.48">
+        <l>prāṇinaṃ vadhyamānan tu yaś śaktas samupekṣate |</l>
+        <l>sa yāti narakaṃ gho<gap quantity="5" unit="akṣara" reason="lost"/><lb n="4"/><gap quantity="1" unit="akṣara" reason="lost"/><unclear>nī</unclear>ṣiṇaḥ |</l>
+      </lg>
+      <lg corresp="#VP65.49">
+        <l>rājyaṃ śibīnāṃ sumahat_ prayachśāmi tava dvija |</l>
+        <l>yad vā kāmayase tv anyad varjjayitvā kapotakam |</l>
+      </lg>
+      <p>śyenaḥ |</p>
+      <lg corresp="#VP65.50">
+        <l>yadi rājan_ kapote <unclear>te</unclear> <gap quantity="1" unit="akṣara" reason="lost"/><lb n="3"/><gap quantity="2" unit="akṣara" reason="lost"/> bhakti<unclear>r ī</unclear>dṛśī |</l>
+        <l>tataḥ kapotatulyāni svamāṃsāni prayachśa me |</l>
+      </lg>
+      <p>rājā |</p>
+      <lg corresp="#VP65.51">
+        <l>anugraham imam manye yan māṃ śyenābhiyācate |</l>
+        <l>etat te haṃ praya<gap quantity="3" unit="akṣara" reason="lost"/><lb n="4"/><gap quantity="3" unit="akṣara" reason="lost"/><unclear><g rend="vowel-sign">ā</g></unclear>vad ichśasi |</l>
+      </lg>
+      <lg>
+        <l>yad apriyan tava śyenaś cirād vadati mānavā |</l>
+        <l>mama tu priyam evaitat_ kasmād abhihitan cirāt |</l>
+      </lg>
+      <lg corresp="#VP65.53">
+        <l>addhruveṇa śarīreṇa prati<gap quantity="2" unit="akṣara" reason="lost"/><lb n="5"/><gap reason="lost" quantity="1" unit="akṣara"/>nāśinā |</l>
+        <l>ddhruvaṃ yo nārjjayed dharmma<add place="below">ṃ</add> sa śocyo mūḍha<subst><del rend="implied">te</del><add>ceta</add></subst>naḥ |</l>
+      </lg>
+      <lg corresp="#VP65.54">
+        <l>yadi prāṇyupakārāya deho yan na prayujyate |</l>
+        <l>tataḥ kim<gap quantity="2" unit="akṣara" reason="lost"/><lb n="6"/><gap quantity="2" unit="akṣara" reason="lost"/><g rend="vowel-sign">ā</g>sya pratyahaṃ kriyate vṛthā |</l>
+      </lg>
+      <p>śyenaḥ |</p>
+      <lg>
+        <l>nātiriktam ahaṃ yāce tava māṃsañ janeśvara |</l>
+        <l>tasmāt_ kapotena samaṃ prayachśa tulayā ddhṛ<gap quantity="1" unit="akṣara" reason="lost"/> |</l>
+      </lg>
+      <p><lb n="7"/><gap quantity="2" unit="akṣara" reason="lost"/></p>
+    <lg>
+        <l><gap quantity="2" unit="akṣara" reason="lost"/>vāhaṃ kariṣyāmi yan māṃ śyenābhiyācase |</l>
+        <l>yenāsya rakṣaṇam me syāt tad varttaya vihaṃgamaḥ |</l>
+    </lg>
+    <p>romaśaḥ |</p>
+      <lg corresp="#VP65.55">
+        <l>evam uktvā <unclear>sva</unclear>māṃ<unclear>sā</unclear><gap quantity="2" unit="akṣara" reason="lost"/><lb n="8"/><gap quantity="4" unit="akṣara" reason="lost"/> sa pārtthivaḥ |</l>
+      <l>prahṛṣṭa tulyayā māṃsam_ kapotena samaṃ prabhuḥ |</l>
+      </lg>
+      <lg corresp="#VP65.56">
+        <l>tyaktātmasukhabhogechśā sarvvasatvadayaiṣiṇaḥ |</l>
+        <l>bha<unclear>va</unclear><gap quantiy="1" unit="akṣara" reason="lost"/><pb n="22r"/><lb n="1"/><gap quantity="5" unit="akṣara" reason="lost"/> sādhavo nityaduḥkhitanaḥ |</l>
+      </lg>
+      <lg>
+        <l>ddhrīyamāṇas sa tulayā kapoto hy atiricyate |</l>
+        <l>punaś cot_kṛtya māṃsani tataḥ prā<unclear>dāt_</unclear> <gap quantity="4" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg corresp="#VP65.58">
+        <l><lb n="2"/><gap quantity="6" unit="akṣara" reason="lost"/><unclear>māṃ</unclear>saṃ kapotena samaṃ kvacit |</l>
+        <l>tataḥ prakṣīṇamāṃso sāv ārūroha tulāṃ svayam |</l>
+      </lg>
+      <lg corresp="#VP65.60">
+      <l>paraduḥkhāturā nityaṃ sarvvabhūtahi<gap quantity="2" unit="akṣara" reason="lost"/><lb n="3"/><gap quantity="1" unit="akṣara" reason="lost"/></l>
+        <l><gap quantity="5" unit="akṣara" reason="lost"/> mahātmānaḥ svaduḥkhāni mahāty api</l>
+      </lg>
+      <lg corresp="#VP65.64">
+        <l><subst><del>ta</del><add place="inline">a</add></subst>tha tasmin_ samārūḍhe tulām auśīnare nṛpe| </l>
+        <l>devadundubhayo ne<subst><del>tu</del><add place="inline">du</add></subst>ḥ puṣpavarṣaṃ pa<gap quantity="1" unit="akṣara" reason="lost"/><lb n="4"/><gap quantity="2" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg corresp="#VP65.65">
+        <l><gap quantity="2" unit="akṣara" reason="lost"/> <unclear>tasya</unclear> tadā matvā dharmme rājñe sthitiṃ parām |</l>
+        <l>śākra svarūpam āsthāya vākyam etad abhāṣata |</l>
+      </lg>
+      <p>indraḥ |</p>
+      <lg corresp="#VP65.66">
+        <l>indro ham asmi bhadran te ka<unclear>po</unclear><gap quantity="1" unit="akṣara" reason="lost"/> <lb n="5"/> <gap quantity="3" unit="akṣara" reason="lost"/><g rend="vowel-sign">ā</g>rddhayam |</l>
+        <l>jijñāsamānau tvāṃ rājan_ yimaṃ yājñam upāgatau |</l>
+      </lg>
+      <lg corresp="#VP65.67">
+        <l>naitat_ pūrvvanṛpāś cakrur nna kariṣyanti cāpare |</l>
+        <l>ma<unclear>hā</unclear><gap quantity="3" unit="akṣara" reason="lost"/><lb n="6"/><gap quantity="2" unit="akṣara" reason="lost"/>ha yat_ kṛtan duṣkṛtan tvayā |</l>
+      </lg>
+      <lg corresp="#VP65.68">
+        <l>parārtthe tyajataḥ prāṇān yā prītir abhavat tava |</l>
+        <l>prāṇasaṃśayalubdheṣu <del>sa</del> <subst><del>nā</del><add>na sā</add></subst> prāne<unclear>ṣu</unclear> <gap quantity="3" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg corresp="#VP65.69">
+        <l><lb n="7"/><gap quantity="1" unit="akṣara" reason="lost"/>rārtthekāntakalyāṇī svāśrayā<subst>ty<del rend="implied">a</del><add place="below"><unclear>ā</unclear></add></subst>rtthaniṣṭhurā |</l>
+        <l>tvayy eva kevalaṃ rājan_ karuṇākaruṇābhavat |</l>
+      </lg>
+      <lg corresp="#VP65.70">
+        <l>svakarmmapāśai<gap quantity="3" unit="akṣara" reason="lost"/><lb n="8"/> <gap quantity="3" unit="akṣara" reason="lost"/><unclear>t_sna</unclear>m idañ jagat |</l>
+        <l>tvañ jagat_duḥkhamokṣārtthaṃ baddhaṃ karuṇayā nṛpa |</l>
+      </lg>
+      <lg>
+        <l>tathā sarvvātmanā cāpi doṣe<gap quantity="2" unit="akṣara" reason="lost"/><unclear>hṛ</unclear><gap quantity="3" unit="akṣara" reason="lost"/></l>
+        <l><pb n="22v"/><gap quantity="6" unit="akṣara" reason="lost"/> <unclear>sthāne vā</unclear>sanāpi na śeṣitāḥ |</l>
+      </lg>
+      <lg corresp="#VP65.73">
+        <l>akṛtve<subst>rṣy<del rend="implied">a</del><add place="below">āṃ</add></subst> viśiṣṭeṣu hīnān anavamatya ca |</l>
+        <l>akṛtvā sadṛśai sparddhāṃ tvaṃ <gap quantity="6" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg corresp="#VP65.74">
+        <l><lb n="2"/><gap quantity="3" unit="akṣara" reason="lost"/><unclear>ṇaiḥ para</unclear>prāṇān yo naraḥ parikṣati |</l>
+        <l>sa yātiparamaṃ sthānaṃ yasmā nāvarttate punaḥ |</l>
+      </lg>
+      <lg corresp="#VP65.75">
+        <l>prāṇair api tvayā rājan_ <unclear>ra</unclear><gap quantity="2" unit="akṣara" reason="lost"/> <unclear>kṛ</unclear><gap quantity="4" unit="akṣara" reason="lost"/></l>
+        <l><lb n="3"/><gap quantity="1" unit="akṣara" reason="lost"/>māṃsāny api dattāni dravyeṣv anyeṣu kā kathā |</l>
+      </lg>
+      <lg corresp="#VP65.76">
+        <l>paśavo pi hi jīvanti kevalātmodaraṃbharāḥ |</l>
+        <l>sa punar jjīvita <unclear>ślā</unclear>ghyo yaḥ parā<gap quantity="3" unit="akṣara" reason="lost"/><lb n="4"/><gap quantity="2" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg corresp="#VP65.77">
+        <l><unclear>kiṃ</unclear> vātra citraṃ yas santaḥ parānugrahatat_parāḥ |</l>
+        <l>na hi svadehaśaityārtthañ jāyante candanadrumāḥ |</l>
+      </lg>
+      <lg corresp="#VP65.78">
+        <l>paropakāravya<gap quantity="4" uniq="akṣara" reason="lost"/> <lb n="5"/><gap quantity="1" unit="akṣara" reason="lost"/> <unclear>pu</unclear>ruṣas sadā |</l>
+        <l>sa padan tad avāpnoti parād api bhayat_ param |</l>
+      </lg>
+      <lg corresp="#VP65.79">
+        <l>paropakāraikadhiya svasukhā gatanispṛhāḥ |</l>
+        <l>jaga<gap quantity="2" unit="akṣara" reason="lost"/> <lb n="6"/><gap quantity="3" unit="akṣara" reason="lost"/>nte sādhavas tv ādṛśā bhuvi |</l>
+      </lg>
+      <lg corresp="#VP65.80">
+        <l>yat te māṃsāni gātrebhyas samut_kṛttāni pārtthiva |</l>
+        <l>eṣā te bhāsvarī kīrttir lloka<gap quantity="2" unit="akṣara" reason="lost"/><lb n="7"/><gap quantity="4" unit="akṣara" reason="lost"/></l>
+      </lg>
+      <lg corresp="#VP65.81">
+        <l><gap quantity="2" unit="akṣara" reason="lost"/><unclear>rūpadha</unclear>raś caiva pālayatvā ca medinīṃ</l>
+        <l>sarvvalokān atikramya brahmalokaṃ gamiṣyati |</l>
+      </lg>
+      <p>romaśaḥ |</p>
+      <lg corresp="#VP65.82">
+        <l>evam u<gap quantity="2" unit="akṣara" reason="lost"/><lb n="8"/><gap quantity="4" unit="akṣara" reason="lost"/><unclear>mu</unclear>tus tridaśālayam |</l>
+        <l>rājā tu <unclear>kra</unclear>tum iṣṭvā tu mumude devavat tayā |</l>
+      </lg>
+      <lg corresp="#VP65.83">
+        <l>ya idaṃ śṛṇeyān nityaṃ śibeś cari<unclear>ta</unclear><gap quantity="4" unit="akṣara" reason="lost"/></l>
+        <l><pb n="23r"/><lb n="1"/><gap quantity="4" unit="akṣara" reason="lost"/>ha pā<subst>p<del rend="implied">a</del><add place="below">ā</add></subst>ni prayāti <unclear>tridi</unclear>van naraḥ |</l>
+      </lg>
+      <lg>
+        <l>vicintya rājasvaśarīram addhruvan dhruvaṃ yaśas sarvvajanasya durllabham |</l>
+        <l>śarīradānāt_ <gap quantity="7" unit="akṣara" reason="lost"/> <lb n="2"/><gap quantity="1" unit="akṣara" reason="lost"/>dhāya lokatrayabhūṣaṇaṃ yayau | <g ref="#pcl"/></l>
+      </lg>
+      <p>itihāsasamuccaye śyenakapotiyan nāma caturttham ākhyānam | <g ref="#pcl"/></p>
+</body></text></TEI>

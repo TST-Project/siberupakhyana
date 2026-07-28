@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <script src="../lib/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Mahābhārata Vanaparvan</title>, Royal Asiatic Society, Whish 61</title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Royal Asiatic Society</orgName>
+                  </repository>
+                  <idno type="shelfmark">Whish 61</idno>
+                  <idno type="alternate"/>
+                  <idno type="URI">https://archive.org/details/raswhish61-62</idno>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>A grantha manuscript of the Vanaparvan.</summary>
+                  
+               <msItem xml:id="Mbh-G5" defective="false"><title xml:lang="sa">Mahābhārata Vanaparvan</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="manuscript">
+                     <supportDesc material="palm-leaf palmyra">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="154"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc><handNote scope="sole" script="grantha" medium="black incised soot"/></handDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole" quantity="2"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/raswhish61-62/manifest.json" facs="89"/></facsimile>
+  <text corresp="#Mbh-G5" xml:lang="sa">
+    <body>
+      <milestone facs="89" n="88r" unit="folio"/>
+    <lg xml:id="Mbh130.17">
+        <l><lb n="6"/><gap reason="ellipsis"/>nalān copanalān caiva yamunām abhito <lb n="7"/>nadī |</l>
+      <l>uśīnaro vai yatreṣṭvā vāsavād atiricyate |</l>
+    </lg>
+    <lg xml:id="Mbh130.18">
+      <l>tān devasumatīn tasya vāsavasya viśāṃ pate |</l>
+        <l>abhyagacchata rājānaṃ <lb n="8"/>śrotum agniś ca bhārata |</l>
+    </lg>
+    <lg xml:id="Mbh130.19" corresp="#Is4.6">
+      <l>jijñāsamānau varadau mahātmānam uśīnaraṃ |</l>
+      <l>indraḥ śyenaḥ kapoto gnir bbhūtvā yajño bhijagmatuḥ |</l>
+    </lg>
+    <lg xml:id="Mbh130.20" corresp="#VP65.3 #Is4.7">
+        <l>ūruṃ <lb n="9"/>rājñas samāsādya kapotaḥ <unclear>śye</unclear>najāt_ bhavāt |</l>
+        <l>śaraṇā<unclear>rtthi</unclear> tate sujan nililye bhayapīḍitaḥ |</l>
+  </lg>
+      <p>ity āraṇyaparvvaṇi śyenakapotīyyo katriṃśat_śa<lb n="10"/>ttamo dhyāyaḥ ― śrīkṛṣṇāya namaḥ ― |</p>
+
+  <p xml:id="Mbh131-p1">śyenaḥ |</p>
+  <lg xml:id="Mbh131.1" corresp="#Is4.9">
+    <l>karmātmānaṃ prāhur ekaṃ sarvvātmānam mahīpatiṃ |</l> 
+        <l>sa vai dharmmaviruddhatvaṃ karmmāt_ karma ci<lb n="11"/>kīrṣasi |</l>
+  </lg>
+  <lg xml:id="Mbh131.2">
+    <l>vihitaṃ bhakṣiṇaṃ rājan_ pīḍyamānasya vai kṣudhā |</l>
+    <l>mā bhuṃkṣīr ddharmalobhena dharmam ut_sṛjyamān asi |</l>
+  </lg>
+  <lg xml:id="Mbh131.19">
+    <l>rājān mārgam ājñāya kada<pb n="88v" facs="90"/><lb n="1"/>ḷīstaṃbham āruha |</l>
+  </lg>
+  <p>rājā</p>
+  <lg xml:id="Mbh131.19bis">
+    <l>rājyaṃ śivīnām ṛddhaṃ vai śādhi pakṣibhir arccitaḥ |</l>
+    <l>kṛtsnan etan mayā sārddhaṃ rājavadvihagottama |</l>
+  </lg>
+  <lg xml:id="Mbh131.20">
+        <l>yad vā kāmayate kiñcit <lb n="2"/>śyena sarvvaṃ dadāmi te |</l>
+    <l>vinemaṃ pakṣiṇaṃ śyena śaraṇārtthinam āgataṃ |</l>
+  </lg>
+  <lg xml:id="Mbh131.21">
+        <l>yenedaṃ sthāvayeśās tvaṃ karmmaṇā pakṣisattama |</l>
+        <l>tadācakṣva ri<lb n="3"/>ṣyāmi na hi dāsye kapotakaṃ |</l>
+  </lg>
+  <p>śyenaḥ |</p>
+  <lg xml:id="Mbh131.22">
+        <l>uśīnara kapote te yadi nasna bhonādhipa |</l>
+    <l>ātmamāṃsaṃ samut_sṛjya kapotanulayā dhṛtaṃ |</l>
+      </lg>
+  <p>lo<lb n="4"/>maśaḥ |</p>
+  <lg xml:id="Mbh131.25">
+    <l>athot_kṛtva svamāṃsan tu rājā paramadharmmavit |</l>
+    <l>tulayāmāsa kaunteya kapotena sahāvibho |</l>
+  </lg>
+  <lg xml:id="Mbh131.26" corresp="#VP65.57">
+    <l>dhriyyamāṇas tu tulayā kapo<lb n="5"/>to hy atiricyate |</l>
+    <l>punaś cot_kṛtya māṃsāni rājā prādād uśīnaraḥ |</l>
+  </lg>
+  <lg xml:id="Mbh131.27" corresp="#VP65.58">
+    <l>na vidyate yathā māṃsaṃ kapotena samuddhṛtaṃ |</l>
+        <l>tata ut_<lb n="6"/>kṛttamāṃso hi āruroha tulāṃ svayaṃ |</l>
+  </lg>
+  <p>śyenaḥ |</p>
+  <lg xml:id="Mbh131.28" corresp="#VP65.66">
+    <l>indro ham asmi dharmmajña kapoto havyavāḍ ayaṃ |</l>
+    <l>jijñāsamānau dharmme tvāṃ yajña<lb n="7"/>vāṭam upāgatau |</l>
+  </lg>
+  <lg xml:id="Mbh131.29" corresp="#VP65.80">
+    <l>yat te māṃsāni gātrebhya ut_kṛttāni viśāṃ pate |</l>
+        <l>eṣā te bhāsvarā kīrtir llokān anucariṣyati |</l>
+  </lg>
+  <lg xml:id="Mbh131.30">
+        <l>yāval lo<lb n="8"/>ke manuṣyās tvāṃ kayathaṣyanti pārtthiva |</l>
+    <l>tāvat_ kīrttiś ca lokāś ca sthāsanti tava śāsvatāḥ |</l>
+  </lg>
+  <lg xml:id="Mbh131.31">
+      <l>tat_ pāṇḍaveya sadanaṃ rājñas tasya mahā<lb n="9"/>tmanaḥ |</l>
+        <l>paśyas vai tan mayā sārddhaṃ puṇyaṃ pāpapraṇāśanaṃ |</l>
+      </lg>
+      <lg xml:id="Mbh131.32">
+        <l>atraiva satatan devā munayaś ca tapodhanāḥ |</l>
+        <l>dṛśyate brāhmaṇai rājan_ puṇyakva<lb n="10"/>t_bhir mmahāprabho <g ref="#pcl"/></l>
+      </lg>
+      <p>ity āraṇyaparvvaṇi śyenakapotīye dvātriṃśachśattamo dhyāyaḥ ―| śrīkṛṣṇāya namaḥ ―|</p>
+    </body>
+  </text>
+</TEI>

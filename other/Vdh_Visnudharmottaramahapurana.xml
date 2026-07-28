@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Viṣṇudharmottaramahāpuraṇa</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Satya Vrat Shastri Rare Book Colllection</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/s2szp300qhv</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>This pothi print was digitized by the S3 Foundation as part of the <ref target="https://archive.org/details/satyavratshastri">Satya Vrat Shastri Library</ref> in 2023. This edition contains many more verses in the third kāṇḍa than the critical edition published by Priyabala Shah in 1958.</summary>
+                  
+               <msItem xml:id="Vdh" defective="false"><title xml:lang="sa">Viṣṇudharmottaramahāpurāṇa</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi" rend="movable-type">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="943">1-172, 1-306, 1-471.</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" notBefore="1912" notAfter="1913">The final colophon of the third kāṇḍa is dated saṃvat 1969 / śake 1834.</origDate>
+                     <origPlace>Mumbai</origPlace>
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>1912/1913. <title xml:lang="sa">Viṣṇudharmottaramahāpurāṇa.</title> Mumbai: Sri Venkateswara Steam Press.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/tBFC_shri-vishnu-dharmottar-puranam-1913-shri-venkateswar-press-mumbai/manifest.json" facs="911"/></facsimile>
+<text corresp="#Vdh" xml:lang="sa"><body>
+  <pb n="429r" facs="923"/>
+  <lg corresp="#VP65.43">
+  <l><lb n="14"/>sarvabhūteṣu yo dānaṃ caikasattve ca yā dayā ||</l>
+   <l><lb n="15"/>sarvasattvapradānād dhi dayā jñeyā mahāphalā || 14 ||</l>
+  </lg>
+</body></text></TEI>

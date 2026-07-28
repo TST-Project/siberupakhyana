@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Sūktiratnahāra</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/t0rr73b0k</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/in.ernet.dli.2015.406288</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This copy of the <title xml:lang="sa">Sūktiratnahāra</title> was scanned as part of the Digital Library of India project, and is now archived at the Internet Archive.</summary>
+                  
+               <msItem xml:id="Sr" defective="false"><title xml:lang="sa">Sūktiratnahāra</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="392">5 unnumbered, 1-2, 1-7, 1-272, 1-83, 1-5, 1-3, 1-3, 1-12. The scan is missing many pages.</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Sāmbaśiva Śāstrī, K., ed. 1938. <title>The <term xml:lang="sa">Sūktiratnahāra.</term></title> Trivandrum: Government Press.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/in.ernet.dli.2015.406288/manifest.json" facs="172"/></facsimile>
+  <text corresp="#Sr" xml:lang="sa">
+    <body>
+    <pb n="26" facs="36"/>
+    <head><lb n="18"/>28. atha śrutapraśaṃsasāpaddhatiḥ |</head>
+    <pb n="29" facs="38"/>
+      <lg corresp="#VP65.53">
+       <l><lb n="3"/>adhruveṇa śarīreṇa pratikṣaṇavināśinā |</l>
+       <l><lb n="4"/>dhruvaṃ yo nārjayed_ dharmaṃ sa śocyo mūḍhacetanaḥ || 10 ||</l>
+      </lg>
+    </body>
+  </text>
+<text corresp="#Sr" xml:lang="sa"><body>
+  <pb n="168" facs="172"/>
+  <head><lb n="11"/>152. athābhayapradānapaddhatiḥ |</head>
+  <lg corresp="#VP65.27 #Is4.3">
+    <l><lb n="12"/>ekataḥ kratavaḥ sarve samagravaradakṣiṇāḥ |</l>
+    <l><lb n="13"/>ekato bhayabhītasya prāṇinaḥ prāṇarakṣaṇam || 1 ||</l>
+  </lg>
+  <p><lb n="14"/>(itihāsasamuccaye)</p>
+</body></text></TEI>

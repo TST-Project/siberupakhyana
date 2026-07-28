@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Śabdakalpadruma</title></title>
+         </titleStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bayerische Staatsbibliothek, München</orgName>
+                  </repository>
+                  <idno type="shelfmark">4 A.or.2755-4</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://www.digitale-sammlungen.de/en/view/bsb10219715</idno></msIdentifier>
+               <msContents class="#STM">
+            <summary><p>This Bengali-script edition of the <title xml:lang="sa">Śabdakalpadruma</title> lexicon seems to be the first edition. This fourth volume is dated to the Śaka year 1760, corresponding to 1838/39 CE.</p></summary>
+                  
+            <msItem xml:id="VpŚśr" defective="false"><title xml:lang="sa"><term xml:lang="en">quotations from the</term> Vahnipurāṇa (śibirājopākhyāna)</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        <extent>
+                           <measure unit="page" quantity="963">Flyleaf, title page, 2855-3812, flyleaf.</measure>
+                        <dimensions type="object" unit="mm"/><dimensions type="leaf" unit="mm"/><dimensions type="written" unit="mm"/></extent>
+                     </supportDesc>
+                  </objectDesc><typeDesc><typeNote scope="sole" script="bengali" medium="ink black"/></typeDesc></physDesc>
+               <history>
+               
+                     
+                <origin>
+                     <origDate calendar="gregorian" when="1838"/>
+                     <origPlace>Kalikātā</origPlace></origin><acquisition><p>The <q xml:lang="la">Bibliotheca Regia Monacensis</q> stamp dates its acquisition to before 1919.</p></acquisition></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl><persName xml:lang="sa">Rādhākāntadeva</persName>. 1838. <title xml:lang="sa">Śabdakalpadrumaḥ caturthakāṇḍaḥ.</title> <placeName xml:lang="sa">Kalikāta</placeName>: <persName xml:lang="sa">Prāṇakṛṣṇanāga</persName>.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      <publicationStmt><publisher>TST Project</publisher><date>2025</date></publicationStmt></fileDesc>
+      <encodingDesc><p>IAST transliteration. An underscore represents an explicit <term xml:lang="sa">virāma</term>. Two underscores represent a <term xml:lang="sa">khaṇḍa ta</term>.</p></encodingDesc>
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10219715/manifest" facs="51"/></facsimile>
+  <text corresp="#VpŚśr" xml:lang="sa">
+    <body>
+      <p>
+        <milestone unit="page" n="2866" facs="51"/>
+        <cb n="3"/>
+        <lb n="8"/>bhayabhītaḥ tri trāsenātaṅkitaḥ | <lb n="9"/>yathā |
+      </p>
+      <lg corresp="#VP65.27 #Is4.3">
+        <l>ekato bhayabhītasya prāṇinaḥ <lb n="10"/>prāṇarakṣaṇaṃ |</l>
+      </lg>
+      <lg corresp="#VP65.28">
+        <l>nāto gurutaro dharmmaḥ <lb n="11"/>kaścid anyo 'sti khecara ||</l>
+      </lg>
+      <p> iti vahni<lb n="12"/>purāṇe śivirājopājkhyānaṃ ||</p>
+   </body>
+  </text>
+  </TEI>

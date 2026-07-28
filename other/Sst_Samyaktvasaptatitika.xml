@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Samyaktvasaptati</title> with the <title xml:lang="sa">Ṭīkā</title> of <persName xml:lang="sa">Saṅghatilaka</persName></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/s235q73vpnv</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/samykatva_saptati_vrtti/</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This pothi print contains first the <term xml:lang="sa">mūla</term> text in full, followed by the commentary by <persName xml:lang="sa">Saṅghatilaka</persName>. The colophon gives a composition date of <term xml:lang="sa">saṃvat</term> 1422, placing it in the 14th century; see Balcerowicz &amp; Potter 2014, 69–70 for more on this commentator. The print was made at Nirnaya Sagar Press in 1916.</summary>
+                  
+               <msItem xml:id="Ssṭ" defective="false"><title xml:lang="sa">Samyaktvasaptatiṭīkā</title><author xml:lang="sa">Saṅghatilaka</author><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="pothi">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="240"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl>Balcerowicz, Piotr, &amp; Karl H. Potter, eds. 2014. <title>Encyclopedia of Indian Philosophies, Volume XVII: Jain Philosophy (Part Three).</title> Delhi: Motilal Banarsidass.</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/samykatva_saptati_vrtti/manifest.json" facs="396"/></facsimile>
+<text corresp="#Ssṭ" xml:lang="sa"><body>
+  <pb facs="396" n="185v"/>
+  <lg>
+    <l><lb n="11"/>yathā merur nagendrāṇāṃ, marutāṃ vāsavo yathā |</l>
+    <l>tathaiva sarvadharmmāṇāṃ, pradhānaṃ <lb n="12"/>jīvarakṣaṇam || 1 ||</l>
+  </lg>
+  <lg corresp="#VP65.30">
+    <l>hemadhenudharadīnāṃ, dātāraḥ sulabha bhuvi |</l>
+    <l>durlabhaḥ sa pumām̐lloke, yaḥ prāṇiṣv abhayapradaḥ || 2 ||</l>
+  </lg>
+  <lg corresp="#VP65.31">
+    <l><lb n="13"/>mahatām api danānāṃ, kālena kṣīyate phalam |</l>
+    <l>bhītābhayapradānasya, kṣaya eva na vidyate || 3 ||</l>
+  </lg>
+</body></text></TEI>

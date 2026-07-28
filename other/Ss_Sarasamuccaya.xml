@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Sārasamuccaya</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/t1kh4453c</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/RaghuVira1962Sarasamuccaya</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>The <title xml:lang="sa">Sārasamuccaya</title> is a collection of Sanskrit verses preserved in Old Javanese, with an Old Javanese commentary. It was edited by Raghu Vira in 1962.</summary>
+                  
+               <msItem xml:id="Ss" defective="false"><title xml:lang="sa">Sārasamuccaya</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="431">1-22, 2 blank, 1-407</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="major" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" when="1962"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+            <listWit>
+              <witness xml:id="s">
+                <abbr>s</abbr>
+                <expan>some manuscripts</expan>
+              </witness>
+              <witness xml:id="a">
+                <abbr>a</abbr>
+                <expan>all manuscripts</expan>
+              </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/RaghuVira1962Sarasamuccaya/manifest.json" facs="75"/></facsimile>
+<text corresp="#Ss" xml:lang="sa"><body>
+  <pb n="120" facs="73"/>
+  <lg corresp="#Is4.50">
+      <l><lb n="1"/>gacchatas tiṣṭhato vāpi jāgrataḥ svapato 'pi na |</l>
+      <l><lb n="2"/>phalaṃ bhutahitārthāya tat_ paśor iva ceṣṭitam || 145 ||</l>
+  </lg>
+  <pb n="123" facs="74"/>
+  <lg corresp="#VP65.32">
+    <l><lb n="7"/>abhayaṃ sarvvabhūtebhyo yo dadāti dayāparaḥ |</l>
+      <l><lb n="8"/>abhayaṃ <app><lem>tasya </lem><rdg wit="#s">sarva</rdg></app>bhūtāni <app><lem>dadatīha na </lem><rdg wit="#a">dadatīty anu</rdg></app>saṃśaya || 150 ||</l>
+  </lg>
+  <pb n="124" facs="75"/>
+  <lg corresp="#VP65.43">
+    <l><lb n="6"/>sarvvasattveṣu yad dānam ekasattve ca yā dayā</l>
+    <l><lb n="7"/>sarvvasattvapradānād dhi dayaikā ca viśiṣyate || 151 ||</l>
+  </lg>
+</body></text></TEI>

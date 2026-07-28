@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Mālatīmādhava</title>, with the <title xml:lang="sa">Rasamañjarī</title> commentary of <persName xml:lang="sa">Purṇasarasvatī</persName></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Internet Archive</orgName>
+                  </repository>
+                  <idno type="shelfmark">ark:/13960/t1pg71k18</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://archive.org/details/in.ernet.dli.2015.344564</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>This copy of the <title xml:lang="sa">Mālatīmādhava</title> was scanned as part of the Digital Library of India initiative and the images were uploaded to the Internet Archive in 2017.</summary>
+                  
+               <msItem xml:id="Rm" defective="false"><title xml:lang="sa">Rasamañjarī <term xml:lang="en">commentary on the</term> Mālatīmādhava</title><textLang mainLang="san"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper industrial">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="folio" quantity="704">i-xxv, blank, 1-22, 1-655, 2 blank</measure>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="devanagari" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian" when="1953"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archive.org/iiif/in.ernet.dli.2015.344564/manifest.json" facs="455"/></facsimile>
+<text corresp="#Rm" xml:lang="sa"><body>
+  <pb facs="455" n="408"/>
+  <lg corresp="#VP65.27 #Is4.3">
+    <l><lb n="13"/>“ekataḥ kratavaḥ sarve samāptavaradakṣiṇāḥ |</l>
+    <l><lb n="14"/>ekato bhayabhītasya prāṇinaḥ <app><lem>prāṇarakṣaṇam</lem><rdg wit="#p">parirakṣaṇam</rdg></app> ||”</l>
+  </lg>
+</body></text></TEI>
