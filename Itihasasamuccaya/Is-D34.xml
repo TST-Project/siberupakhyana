@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="sa">Itihāsasamuccaya</title></title>
+            
+         <editor><persName>Charles Li</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2026</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>Bhandarkar Oriental Institute</orgName>
+                  </repository>
+                  <idno type="shelfmark">15 of A 1882–83</idno>
+                  <idno type="alternate"/>
+               <idno type="URI">https://gyanbharatam.gov.in/manuscript/view?id=64a3b78b-5a8e-493b-a107-2eb1ecf852c2</idno></msIdentifier>
+               <msContents class="#STM">
+                  <summary>A paper manuscript of the <title xml:lang="sa">Itihāsasamuccaya</title>.</summary>
+            <msItem xml:id="Is-D34" defective="false">
+              <title xml:lang="sa">Itihāsasamuccaya</title>
+              <textLang mainLang="san"/>
+              <rubric xml:lang="sa"><pb n="1r"/><lb n="1"/><g ref="#headmark_with_headstroke"/><g ref="#headmark_with_headstroke"/><g ref="#mindu"/>||</rubric>
+          </msItem>
+        </msContents>
+             <physDesc>
+             <objectDesc form="pothi" rend="manuscript">
+                   <supportDesc material="paper handmade">
+                   <support>
+                      <p>Leaf dimensions from title card, converted from inches.</p></support><extent>
+                  <measure unit="folio" quantity="8"></measure>
+                         <dimensions type="object" unit="mm">
+                         </dimensions>
+                         <dimensions type="leaf" unit="mm">
+                           <width quantity="260"/>
+                           <height quantity="105"/>
+                         </dimensions>
+                         <dimensions type="written" unit="mm">
+                         </dimensions>
+                      </extent><foliation>Devanāgarī numerals, bottom-right margin, verso.</foliation></supportDesc>
+                   <layoutDesc>
+                   <layout writtenLines="19 20"/></layoutDesc>
+            </objectDesc><handDesc><handNote scope="sole" script="devanagari" medium="ink black" scriptRef="#prsthamatra"></handNote></handDesc><typeDesc/><additions>
+                </additions><bindingDesc>
+                   <binding>
+                      <decoNote type="stringhole">
+                         <measure unit="stringhole"/>
+                      </decoNote>
+                  </binding>
+                </bindingDesc></physDesc>
+             <history>
+             <origin>
+            <origDate calendar="gregorian"></origDate>
+                </origin></history>
+             <additional>
+                <listBibl>
+                </listBibl>
+             </additional>
+          </msDesc>
+       </sourceDesc>
+    </fileDesc>
+    <encodingDesc><p>IAST transliteration.</p></encodingDesc>
+    
+ <revisionDesc/></teiHeader>
+ <facsimile>
+ </facsimile>
+  <text corresp="#Is-D34" xml:lang="sa">
+    <body>
+      <p xml:id="Is4-p2"><pb n="3r"/><lb n="6"/><gap reason="ellipsis"/>yu<g ref="#mindu"/> u<g ref="#mindu"/> ||</p>
+      <lg xml:id="Is4.2">
+        <l>yo rakṣet prāṇinaṃ rājā bhayārttaṃ śaraṇāgataṃ</l>
+        <l>tasya puṇyaphalaṃ yat syāt tan me brūhi tapodhana || 1</l>
+      </lg>
+      <p xml:id="Is4-p3"><g ref="#sirorekha"/>masa u॰ |</p>
+      <lg xml:id="Is4.3" corresp="#VP65.27 #Mbh131.5ter">
+        <l>ekataḥ kra<lb n="7"/>tavaḥ sarve samagravaradakṣiṇāḥ |</l>
+        <l>ekato bhayabhītasya prāṇinaḥ prāṇarakṣaṇaṃ || 2</l>
+      </lg>
+      <lg xml:id="Is4.5">
+        <l>atraivodā<surplus reason="no-headstroke">ra</surplus>haraṃtīmam itihāsaṃ purātanaṃ |</l>
+        <l>iṃdrasyāgneś ca saṃvādaṃ śiber auśīnarasya ca || 3</l>
+      </lg>
+      <lg xml:id="Is4.6" corresp="#Mbh130.19">
+        <l>varttamāne ma<lb n="8"/>hāyajñe jijñāsārthaṃ śiviṃ nṛpaṃ</l>
+        <l>iṃdraḥ śyenaḥ kapoto gnir bhūtvā tatropajagma|<space/>|tuḥ || 4</l>
+      </lg>
+      <lg xml:id="Is4.7" corresp="#VP65.3 #Mbh130.20">
+        <l>atha taṃ nṛpatiṃ prāha kapotaḥ śyenajād bhayāt |</l>
+        <l>śaraṇārthaṃ mahīpālaṃ nililye bhayavihvalaḥ <lb n="9"/>|| 5</l>
+      </lg>
+      <lg xml:id="Is4.8">
+        <l>tataḥ śanair upāgamya śyenarūpī sureśvaraḥ |</l>
+        <l>rājānaṃ sumahātmānaṃ provācedaṃ vacas tadā || 6</l>
+      </lg>
+      <lg xml:id="Is4.9ab" corresp="#VP65.6ab #Mbh131.1ab">
+        <l>dharmātmānaṃ tvām ihāhur ekaṃ rājan_ mahībhṛtāṃ |</l>
+      </lg>
+      <lg xml:id="Is4.13" corresp="#Mbh131.2">
+        <l>aṃtaḥ kṣutpīḍyamānasya bhakṣya <lb n="10"/>tvaṃ me samarpaya || 7</l>
+      </lg>
+      <p xml:id="Is4-p5">rā<g ref="#mindu"/> ||</p>
+      <lg xml:id="Is4.18" corresp="#VP65.15">
+        <l>yathātmanaḥ priyāḥ prāṇāḥ sarveṣāṃ prāṇināṃ tathā</l>
+        <l>sadā mṛtyubhayatrastās trātavyāḥ prāṇino budhaiḥ || 8</l>
+      </lg>
+      <lg xml:id="Is4.19" corresp="#VP65.16">
+        <l>janmamṛtyujarāśokair nityaṃ saṃsāra<lb n="11"/>sāgare |</l>
+        <l>jaṃtavaḥ parikliśyaṃti mṛtyos trasyaṃti te tathā || 9</l>
+      </lg>
+      <lg xml:id="Is4.21" corresp="#VP65.18">
+        <l>mariṣyāmīti yad duḥkhaṃ puruṣasyopajāyate |</l>
+        <l>jñeyas tenānumānena paro pi parirakṣituṃ || 10</l>
+      </lg>
+      <lg xml:id="Is4.22" corresp="#VP65.19">
+        <l>yathā ca te jīvita<lb n="12"/>m ātmanaḥ priyaṃ tathā pareṣām api jīvitaṃ priyaṃ |</l>
+        <l>saṃrakṣase jīvitam ātmano yathā tathā pareṣām api rakṣa jīvitaṃ || 11</l>
+      </lg>
+      <lg xml:id="Is4.34" corresp="#VP65.31">
+        <l>mahatām api dānānāṃ kālena kṣīyate phalaṃ |</l>
+        <l>bhītābhayapra<lb n="13"/>dānasya kṣaya eva na vidyate || 12</l>
+      </lg>
+      <lg xml:id="Is4.35" corresp="#VP65.33">
+        <l>dattam iṣṭaṃ tathā taptaṃ tīrthasevā tathā śrutaṃ |</l>
+       <l>sarvāṇy abhayadānasya kalāṃ nārhaṃti ṣoḍaśīṃ || 13</l>
+      </lg>
+      <lg xml:id="Is4.36" corresp="#VP65.34">
+        <l>catuḥsāgaraparyaṃtāṃ yo dadyāt pṛthivīm imāṃ |</l>
+        <l>abha<lb n="14"/>yaṃ sarvabhūtebhyas tayor abhayado dhikaḥ || 14</l>
+      </lg>
+      <lg xml:id="Is4.30" corresp="#VP65.28">
+        <l>nāto bhūyastaro dharmaḥ kvacid anyo sti bhūtale |</l>
+        <l>prāṇināṃ bhayabhītānām abhayaṃ yat pradīyate || 15</l>
+      </lg>
+      <lg xml:id="Is4.31" corresp="#VP65.29">
+        <l>varam ekasya sattvasya pradattaṃ jīvi<lb n="15"/>tābhayaṃ |</l>
+        <l>na ca viprasahasrasya gosahasram alaṃkṛtaṃ || 16</l>
+      </lg>
+      <lg xml:id="Is4.32" corresp="#VP65.32">
+        <l>abhayaṃ sarvabhūtebhyo yo dadāti dayāparaḥ |</l>
+        <l>tasya dehād vimuktasya kṣaya eva na vidyate || 17</l>
+      </lg>
+      <lg xml:id="Is4.33" corresp="#VP65.30">
+        <l>hemadhenudharādīnāṃ dātāraḥ sulabhā bhu<lb n="16"/>vi |</l>
+        <l>durlabhaḥ puruṣo loke sarvabhūtadayāparaḥ || 18</l>
+      </lg>
+      <p xml:id="Is4-p8">śyena u<g ref="#mindu"/> ||</p>
+      <lg xml:id="Is4.43" corresp="#VP65.41 #Mbh131.19">
+        <l>śyenāḥ kapotān_ khādaṃti śrutir eṣā sanātanī |</l>
+        <l>mā rājan_ sāram ajñātvā kadalīstaṃbham āruha || 19</l>
+      </lg>
+      <p xml:id="Is4-p9">rā<g ref="#mindu"/> u॰ ||</p>
+      <lg xml:id="Is4.44" correps="#VP65.42">
+        <l>nā<lb n="17"/>haṃ kuśāstramārgeṇa kvacid vartte vihaṃgama |</l>
+        <l>śāstreṇaivopadiṣṭo yaṃ dharmaḥ sattvadayāparaḥ || 20</l>
+      </lg>
+      <lg xml:id="Is4.45" corresp="#VP65.43">
+        <l>sarvasattveṣu yad dānam ekasattveṣu yā dayā |</l>
+        <l>sarvasmād api dānāc ca dayaiva hi viśiṣyate || 2<lb n="18"/>1</l>
+      </lg>
+      <lg xml:id="Is4.46" corresp="#VP65.44">
+        <l>sarve dānā na tat kuryuḥ sarve yajñāś ca khecara |</l>
+        <l>sarve tīrthābhiṣekāś ca yat kuryāt prāṇināṃ dayā || 22</l>
+      </lg>
+      <lg xml:id="Is4.49" corresp="#VP65.47">
+        <l>jaṃgamāni ca bhūtāni sthāvarāṇi ca ye janāḥ |</l>
+        <l>ātmavat parirakṣaṃti te yāṃti paramāṃ ga<lb n="19"/>tiṃ || 23</l>
+      </lg>
+      <lg xml:id="Is4.50" corresp="#VP65.48">
+        <l>prāṇinaṃ vadhyamānaṃ tu yaḥ śaktaḥ samupekṣate |</l>
+        <l>sa yāti narakaṃ ghoraṃm iti prāhur manīṣiṇaḥ || 24</l>
+      </lg>
+      <lg xml:id="Is4.51" corresp="#VP65.49">
+        <l>samṛddhaṃ sakalaṃ rājyaṃ prayacchāmi tava dvija |</l>
+        <l>yat tvaṃ kāmaya hy anyad varjayitvā ka<lb n="20"/>potakaṃ || 25</l>
+      </lg>
+      <p xml:id="Is4-p10">śye<g rend="#mindu"/> u॰ ||</p>
+      <lg xml:id="Is4.52" corresp="#VP65.50">
+        <l>yadi rājan_ kapotena sudṛḍhā prītir īdṛśī |</l>
+        <l>tat tvaṃ kapotatulyāni svamāṃsāni prayaccha me || 26</l>
+      </lg>
+      <lg xml:id="Is4.53" corresp="#VP65.51 #Mbh131.24">
+        <l>anugraham imaṃ manye yan māṃ śyenābhibhāṣase |</l>
+        <l>etat te haṃ pra<pb n="3v"/><lb n="1"/>yacchāmi svamāṃsaṃ yāvad icchasi || 27</l>
+      </lg>
+      <p xml:id="Is4-p11">rā॰ u॰ ||</p>
+      <lg xml:id="Is4.55" corresp="#VP65.53">
+        <l>adhruveṇa śarīreṇa pratikṣaṇavināśinā</l>
+        <l>dhruvaṃ yo nārjayed dharma sa śocyo mūḍhcetanaḥ || 28</l>
+      </lg>
+      <p xml:id="Is4-p12">śye॰ u॰ ||</p>
+      <lg xml:id="Is4.57">
+        <l>nātiriktam ahaṃ yāce tava māṃsaṃ na<lb n="2"/>reśvara |</l>
+        <l>tasmāt kapotena samaṃ prayaccha tulayā mama || 29</l>
+      </lg>
+      <p xml:id="Is4-p13">śye<g ref="#mindu"/> u<g ref="#mindu"/></p>
+      <lg xml:id="Is4.58">
+        <l>tad evāhaṃ kariṣyāmi yan māṃ śyenābhibhāṣase |</l>
+        <l>yenāsya rakṣaṇaṃ tu syāt tava <unclear>bhṛtthi</unclear>r vihaṅgama || 30</l>
+      </lg>
+      <lg xml:id="Is4.59" corresp="#VP65.55">
+        <l>evaṃ kṛtvā sva<lb n="3"/>māṃsāni samutkṛtya sa pārthivaḥ |</l>
+        <l>prahṛṣṭas tolayāmāsa kapotena saha prabhuḥ ||| 31</l>
+      </lg>
+      <lg xml:id="Is4.61" corresp="#VP65.57 #Mbh131.26">
+        <l>dhriyamāṇas tu tulayā kapoto vyatiśiṣyate |</l>
+        <l>punaś cotkṛtya māṃsāni dadau tasmai sa pārthivaḥ || 32</l>
+      </lg>
+      <lg xml:id="Is4.62" corresp="#VP65.58 #Mbh131.27">
+        <l><lb n="4"/>na vidyate yathā māṃsaṃ kapotena samaṃ kvacit |</l>
+        <l>tataḥ prakṣīṇamāṃso sāv āruroha tulāṃ svayaṃ || 33</l>
+      </lg>
+      <lg xml:id="Is4.63" corresp="#VP65.60">
+        <l>paraduḥkhāturā nityaṃ sarvabhūtahite ratāḥ |</l>
+        <l>nāpekṣaṃte mahātmānaḥ svasukhā<lb n="5"/>ni mahāṃty api || 34</l>
+      </lg>
+      <lg xml:id="Is4.64" corresp="#VP65.64">
+        <l>tatas tasmin_ samārūḍhe | tulām auśīṇare nṛpe |</l>
+        <l>devaduṃdubhayo neduḥ puṣpavṛṣṭiḥ papāta ca || 35</l>
+      </lg>
+      <lg xml:id="Is4.65" corresp="#VP65.65">
+        <l>tatas tasya tadā matvā devarājo dhṛtiṃ parāṃ |</l>
+        <l>śakraḥ svarūpam āsthāya <lb n="6"/>vākyam etad ayāṣata || 36</l>
+      </lg>
+      <p xml:id="Is4-p15">iṃdra<g ref="#mindu"/> ||</p>
+      <lg xml:id="Is4.74" corresp="#VP65.74">
+        <l>ātmaprāṇaiḥ paraprāṇān_ yo naraḥ parirakṣati |</l>
+        <l>sa yāti paramaṃ sthānaṃ yato nāvarttate punaḥ || 37</l>
+      </lg>
+      <lg xml:id="Is4.81" corresp="#VP65.81">
+        <l>divyarūpadharas tvaṃ ca pālayitvā tu medinīṃ |</l>
+        <l>sarvāṃ<lb n="7"/>l lokān atikramya svargalokaṃ gamiṣyati || 38</l>
+      </lg>
+      <p xml:id="Is4.82" corresp="#VP65.82 #Mhb131.30bis">ity uktvā gataḥ ||</p>
+      <p xml:id="Is4-p17">iti kapotīyaṃ nāmādhyāyaḥ || <g ref="#puspika"/></p>
+    </body>
+  </text>
+</TEI>
